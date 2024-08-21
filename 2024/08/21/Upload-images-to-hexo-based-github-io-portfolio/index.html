@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  
+  <title>Upload images to hexo-based github.io portfolio | Portfolio of ZiyuXu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="AimTo upload images to my portfolio which is constructed by hexo-based github.io.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Upload images to hexo-based github.io portfolio">
+<meta property="og:url" content="http://example.com/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/index.html">
+<meta property="og:site_name" content="Portfolio of ZiyuXu">
+<meta property="og:description" content="AimTo upload images to my portfolio which is constructed by hexo-based github.io.">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="http://example.com/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png">
+<meta property="og:image" content="http://example.com/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png">
+<meta property="article:published_time" content="2024-08-21T09:32:05.000Z">
+<meta property="article:modified_time" content="2024-08-21T14:02:48.663Z">
+<meta property="article:author" content="Xu">
+<meta property="article:tag" content="Tutorials">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png">
+  
+    <link rel="alternate" href="/atom.xml" title="Portfolio of ZiyuXu" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/favicon.png">
+  
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<meta name="generator" content="Hexo 7.3.0"></head>
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Portfolio of ZiyuXu</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"><span class="fa fa-bars"></span></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+        
+          <a class="nav-icon" href="/atom.xml" title="RSS Feed"><span class="fa fa-rss"></span></a>
+        
+        <a class="nav-icon nav-search-btn" title="Search"><span class="fa fa-search"></span></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main"><article id="post-Upload-images-to-hexo-based-github-io-portfolio" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/" class="article-date">
+  <time class="dt-published" datetime="2024-08-21T09:32:05.000Z" itemprop="datePublished">2024-08-21</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="p-name article-title" itemprop="headline name">
+      Upload images to hexo-based github.io portfolio
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
+<span id="more"></span>
+
+<h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><h2 id="1-Install-plugins"><a href="#1-Install-plugins" class="headerlink" title="1 Install plugins"></a>1 Install plugins</h2><p>Install <code>hexo-asset-image</code> plugin</p>
+<p><code>npm install hexo-asset-image --save</code></p>
+<p>Install <code>hexo-renderer-marked</code> plugin</p>
+<p><code>npm install hexo-renderer-marked --save</code></p>
+<p>Edit <code>_config.yml</code></p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">post_asset_folder: true</span><br><span class="line">marked:</span><br><span class="line"> prependRoot: true</span><br><span class="line"> postAsset: false</span><br></pre></td></tr></table></figure>
+
+<p><code>postAsset: false</code> is important due to the redundancy of generated absolute image path.</p>
+<h2 id="2-Insert-image"><a href="#2-Insert-image" class="headerlink" title="2 Insert image"></a>2 Insert image</h2><p>With <code>hexo-asset-image</code> plugin installed we make a new post:</p>
+<p><code>hexo new &quot;project name&quot;</code></p>
+<p>A new directory is automatically generated </p>
+<p><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png" alt="Illustration of new generated directory"></p>
+<p>Now we insert an image to the markdown: For instance:</p>
+<p><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png" alt="Screenshot of Furina"></p>
+<p>Then delete all strings before ‘&#x2F;‘. Now the image is invisible in Typora.</p>
+<p>![Furina](115292447_p0-17242485245562.jpg#pic_center &#x3D;500x)</p>
+<p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
+<h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/" data-id="cm03x4wtn0004z0r61b138vax" data-title="Upload images to hexo-based github.io portfolio" class="article-share-link"><span class="fa fa-share">Share</span></a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Tutorials/" rel="tag">Tutorials</a></li></ul>
+
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/2024/08/21/Article-summary-8-21-24/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">Article summary 8/21/24</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Articles/" rel="tag">Articles</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Tutorials/" rel="tag">Tutorials</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/Articles/" style="font-size: 10px;">Articles</a> <a href="/tags/Tutorials/" style="font-size: 10px;">Tutorials</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2024/08/">August 2024</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/">Upload images to hexo-based github.io portfolio</a>
+          </li>
+        
+          <li>
+            <a href="/2024/08/21/Article-summary-8-21-24/">Article summary 8/21/24</a>
+          </li>
+        
+          <li>
+            <a href="/2024/08/20/hello-world/">Hello World</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2024 Xu<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+
+<script src="/js/jquery-3.6.4.min.js"></script>
+
+
+
+  
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
+
+
+
+
+
+  </div>
+</body>
+</html>
