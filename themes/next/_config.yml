@@ -51,9 +51,9 @@ darkmode: true
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
+  small: /images/back1.png
+  medium: /images/back1.png
+  apple_touch_icon: /images/back1.png
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /manifest.json
 
@@ -381,7 +381,7 @@ codeblock:
     height: 500
 
 back2top:
-  enable: true
+  enable: false
   # Back to top in sidebar.
   sidebar: true
   # Scroll percent label in b2t button.
@@ -426,7 +426,7 @@ github_banner:
 # ---------------------------------------------------------------
 
 font:
-  enable: false
+  enable: true
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
   host:
@@ -439,7 +439,8 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Lato
+    #family: Lato
+    family: Noto Serif SC
     size:
 
   # Font settings for site title (.site-title).
@@ -584,12 +585,12 @@ pjax: false
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
-fancybox: false
+fancybox: true
 
 # Medium Zoom is a JavaScript library for zooming images like Medium.
 # Warning: Do not enable both `fancybox` and `mediumzoom`.
 # For more information: https://medium-zoom.francoischalifour.com
-mediumzoom: false
+mediumzoom: true
 
 # Vanilla JavaScript plugin for lazyloading images.
 # For more information: https://apoorv.pro/lozad.js/demo/

@@ -8,7 +8,7 @@ tags: Articles
 
 **A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates**
 
-![Ub-POD strategy](image-20240821160114130.png)
+![Ub-POD strategy](image-20240822234659049.png)
 
 # Journal
 
