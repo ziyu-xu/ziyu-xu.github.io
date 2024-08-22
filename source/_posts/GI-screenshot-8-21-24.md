@@ -1,7 +1,7 @@
 ---
 title: GI screenshot 8/21/24
 date: 2024-08-22 22:32:04
-tags: Ilustrations
+tags: Illustrations
 ---
 
 4 GI screenshots taken in last year.
