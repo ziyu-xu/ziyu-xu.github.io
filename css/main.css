@@ -1,5 +1,5 @@
 :root {
-  --body-bg-color: #eee;
+  --body-bg-color: #222;
   --content-bg-color: #fff;
   --card-bg-color: #f5f5f5;
   --text-color: #555;
@@ -12,11 +12,11 @@
   --table-row-hover-bg-color: #f5f5f5;
   --menu-item-bg-color: #f5f5f5;
   --theme-color: #222;
-  --btn-default-bg: #fff;
-  --btn-default-color: #555;
-  --btn-default-border-color: #555;
-  --btn-default-hover-bg: #222;
-  --btn-default-hover-color: #fff;
+  --btn-default-bg: transparent;
+  --btn-default-color: #111;
+  --btn-default-border-color: #222;
+  --btn-default-hover-bg: #fff;
+  --btn-default-hover-color: #222;
   --btn-default-hover-border-color: #222;
   --highlight-background: #f3f3f3;
   --highlight-foreground: #444;
@@ -221,9 +221,9 @@ body {
   background: var(--body-bg-color);
   box-sizing: border-box;
   color: var(--text-color);
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, "Noto Serif SC", sans-serif;
   font-size: 1em;
-  line-height: 2;
+  line-height: 1.8;
   min-height: 100%;
   position: relative;
   transition: padding 0.2s ease-in-out;
@@ -234,7 +234,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, "Noto Serif SC", sans-serif;
   font-weight: bold;
   line-height: 1.5;
   margin: 30px 0 15px;
@@ -310,7 +310,7 @@ dd {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 0.875em;
+  font-size: 1em;
   margin: 0 0 20px;
   width: 100%;
 }
@@ -340,10 +340,10 @@ td {
 .btn {
   background: var(--btn-default-bg);
   border: 2px solid var(--btn-default-border-color);
-  border-radius: 2px;
+  border-radius: 0;
   color: var(--btn-default-color);
   display: inline-block;
-  font-size: 0.875em;
+  font-size: 1em;
   line-height: 2;
   padding: 0 20px;
   transition: background-color 0.2s ease-in-out;
@@ -648,7 +648,7 @@ pre {
 }
 figure.highlight,
 pre {
-  line-height: 1.6;
+  line-height: 1.5;
   margin: 0 auto 20px;
 }
 figure.highlight figcaption,
@@ -657,7 +657,7 @@ pre figcaption {
   background: var(--highlight-gutter-background);
   color: var(--highlight-foreground);
   display: flow-root;
-  font-size: 0.875em;
+  font-size: 1em;
   line-height: 1.2;
   padding: 0.5em;
 }
@@ -674,11 +674,11 @@ pre figcaption a:hover {
 }
 pre,
 code {
-  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+  font-family: consolas, Menlo, monospace, "Noto Serif SC";
 }
 code {
   border-radius: 3px;
-  font-size: 0.875em;
+  font-size: 1em;
   padding: 2px 4px;
   overflow-wrap: break-word;
 }
@@ -1248,7 +1248,7 @@ pre code {
   color: var(--brand-hover-color);
 }
 .site-title {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, "Noto Serif SC", sans-serif;
   font-size: 1.375em;
   font-weight: normal;
   line-height: 1.5;
@@ -1256,7 +1256,7 @@ pre code {
 }
 .site-subtitle {
   color: #ddd;
-  font-size: 0.8125em;
+  font-size: 0.9em;
   margin: 10px 10px 0;
 }
 .use-motion .site-title,
@@ -1328,7 +1328,7 @@ pre code {
 .menu-item a {
   border-bottom: 0;
   display: block;
-  font-size: 0.8125em;
+  font-size: 0.9em;
   transition: border-color 0.2s ease-in-out;
 }
 .menu-item a:hover,
@@ -1389,7 +1389,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ff01d7;
+    background: #03ff74;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1457,17 +1457,17 @@ pre code {
   transform: rotateZ(360deg);
 }
 .site-author-name {
-  color: var(--text-color);
-  font-weight: 600;
-  margin: 0;
+  color: #222;
+  font-weight: bold;
+  margin: 5px 0 0;
 }
 .site-description {
-  color: #999;
-  font-size: 0.8125em;
-  margin-top: 0;
+  color: #444;
+  font-size: 1em;
+  margin-top: 5px;
 }
 .links-of-author a {
-  font-size: 0.8125em;
+  font-size: 0.9em;
 }
 .links-of-author i[class^='fa'] {
   margin-right: 2px;
@@ -1492,10 +1492,10 @@ pre code {
   margin-right: 5px;
 }
 .links-of-blogroll {
-  font-size: 0.8125em;
+  font-size: 0.9em;
 }
 .links-of-blogroll-title {
-  font-size: 0.875em;
+  font-size: 1em;
   font-weight: 600;
 }
 .links-of-blogroll-list {
@@ -1504,7 +1504,7 @@ pre code {
   padding: 0;
 }
 .sidebar-nav {
-  font-size: 0.875em;
+  font-size: 1em;
   height: 0;
   margin: 0;
   overflow: hidden;
@@ -1515,7 +1515,7 @@ pre code {
   visibility: hidden;
 }
 .sidebar-nav-active .sidebar-nav {
-  height: calc(2em + 1px);
+  height: calc(1.8em + 1px);
   pointer-events: unset;
   visibility: unset;
 }
@@ -1662,7 +1662,7 @@ pre code {
   transform: rotate(-45deg);
 }
 .post-toc {
-  font-size: 0.875em;
+  font-size: 1em;
 }
 .post-toc ol {
   list-style: none;
@@ -1724,16 +1724,16 @@ pre code {
 }
 .site-state-item-count {
   display: block;
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 600;
 }
 .site-state-item-name {
   color: #999;
-  font-size: 0.8125em;
+  font-size: 0.9em;
 }
 .footer {
   color: #999;
-  font-size: 0.875em;
+  font-size: 1em;
   padding: 20px 0;
   transition: 0.2s ease-in-out;
   transition-property: left, right;
@@ -1773,7 +1773,7 @@ pre code {
 }
 .languages {
   display: inline-block;
-  font-size: 1.125em;
+  font-size: 1.2em;
   position: relative;
 }
 .languages .lang-select-label span {
@@ -1805,27 +1805,6 @@ pre code {
   50%, 70% {
     transform: scale(1.1);
   }
-}
-.back-to-top {
-  font-size: 12px;
-  margin: 8px -10px -20px;
-  opacity: 0;
-  transition: opacity 0.2s ease-in-out;
-}
-.back-to-top span {
-  margin-right: 8px;
-  display: none;
-}
-.back-to-top .fa {
-  text-align: center;
-  width: 26px;
-}
-.back-to-top.back-to-top-on {
-  cursor: pointer;
-  opacity: 0.6;
-}
-.back-to-top.back-to-top-on:hover {
-  opacity: 0.8;
 }
 .rtl.post-body p,
 .rtl.post-body a,
@@ -1874,7 +1853,7 @@ pre code {
   }
 }
 .posts-collapse .post-content .collection-title {
-  font-size: 1.125em;
+  font-size: 1.2em;
   position: relative;
 }
 .posts-collapse .post-content .collection-title::before {
@@ -1896,7 +1875,7 @@ pre code {
   position: relative;
 }
 .posts-collapse .post-content .collection-year .collection-year-count {
-  font-size: 0.75em;
+  font-size: 0.8em;
   background: #ccc;
   border-radius: 10px;
   color: var(--content-bg-color);
@@ -1937,7 +1916,7 @@ pre code {
   border: 1px solid #fff;
   left: -6px;
   position: absolute;
-  top: 0.75em;
+  top: 0.8em;
   transition: background 0.2s ease-in-out;
   border-radius: 50%;
   content: ' ';
@@ -1952,7 +1931,7 @@ pre code {
 }
 .posts-collapse .post-content .post-meta-container {
   display: inline;
-  font-size: 0.75em;
+  font-size: 0.8em;
   margin-right: 10px;
 }
 .posts-collapse .post-content .post-title {
@@ -1963,7 +1942,7 @@ pre code {
   color: var(--link-color);
 }
 .posts-collapse .post-content .post-title .fa {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-left: 5px;
 }
 .posts-collapse .post-content::before {
@@ -1976,12 +1955,12 @@ pre code {
   width: 4px;
 }
 .post-body {
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: Noto Serif SC, "Noto Serif SC", sans-serif;
   overflow-wrap: break-word;
 }
 @media (min-width: 1200px) {
   .post-body {
-    font-size: 1.125em;
+    font-size: 1.2em;
   }
 }
 @media (min-width: 992px) {
@@ -2009,7 +1988,7 @@ pre code {
   border-bottom-style: none;
   color: inherit;
   float: right;
-  font-size: 0.875em;
+  font-size: 1em;
   margin-left: 10px;
   opacity: 0;
 }
@@ -2058,13 +2037,13 @@ pre code {
   opacity: 1;
 }
 .post-body .exturl .fa {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-left: 4px;
 }
 .post-body img + figcaption,
 .post-body .fancybox + figcaption {
   color: #999;
-  font-size: 0.875em;
+  font-size: 1em;
   font-weight: bold;
   line-height: 1;
   margin: -15px auto 15px;
@@ -2121,7 +2100,7 @@ pre code {
   margin: 15px 0;
 }
 .posts-expand .post-header {
-  font-size: 1.125em;
+  font-size: 1.2em;
   margin-bottom: 60px;
   text-align: center;
 }
@@ -2152,7 +2131,7 @@ pre code {
   transform: scaleX(1);
 }
 .posts-expand .post-title-link .fa {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-left: 5px;
 }
 .post-sticky-flag {
@@ -2162,12 +2141,12 @@ pre code {
 }
 .posts-expand .post-meta-container {
   color: #999;
-  font-family: Lato, 'PingFang SC', 'Microsoft YaHei', sans-serif;
-  font-size: 0.75em;
+  font-family: Noto Serif SC, "Noto Serif SC", sans-serif;
+  font-size: 0.8em;
   margin-top: 3px;
 }
 .posts-expand .post-meta-container .post-description {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-top: 2px;
 }
 .posts-expand .post-meta-container time {
@@ -2208,14 +2187,14 @@ pre code {
 .post-nav-item a {
   border-bottom: 0;
   display: block;
-  font-size: 0.875em;
+  font-size: 1em;
   line-height: 1.6;
 }
 .post-nav-item a:active {
   top: 2px;
 }
 .post-nav-item .fa {
-  font-size: 0.75em;
+  font-size: 0.8em;
 }
 .post-nav-item:first-child .fa {
   margin-right: 5px;
@@ -2246,14 +2225,14 @@ pre code {
 }
 .post-tags a {
   display: inline-block;
-  font-size: 0.8125em;
+  font-size: 0.9em;
 }
 .post-tags a:not(:last-child) {
   margin-right: 10px;
 }
 .social-like {
   border-top: 1px solid #eee;
-  font-size: 0.875em;
+  font-size: 1em;
   margin-top: 1em;
   padding-top: 1em;
   display: flex;
@@ -2325,7 +2304,7 @@ pre code {
   margin: 5px 10px;
 }
 .category-all-page .category-list-count {
-  font-size: 0.75em;
+  font-size: 0.8em;
   background: #ccc;
   border-radius: 10px;
   color: var(--content-bg-color);
@@ -2428,7 +2407,7 @@ pre code {
   }
 }
 ul.breadcrumb {
-  font-size: 0.75em;
+  font-size: 0.8em;
   list-style: none;
   margin: 1em 0;
   padding: 0 2em;
@@ -2957,10 +2936,10 @@ header.header {
 }
 .post-body h1,
 .post-body h2 {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #222;
 }
 .post-body h3 {
-  border-bottom: 1px dotted #eee;
+  border-bottom: 1px dotted #222;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .main-inner {
@@ -3001,12 +2980,16 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
-  opacity: 0.75;
 }
-.sidebar {
-  background-color: transparent;
-  opacity: 1;
+.post-block {
+  background: rgba(255,255,255,0.8) none repeat scroll !important;
+}
+.sidebar-inner {
+  background: rgba(255,255,255,0.7) none repeat scroll !important;
 }
 .header-inner {
   background: rgba(255,255,255,0.8);
+}
+.popup {
+  opacity: 0.95;
 }
