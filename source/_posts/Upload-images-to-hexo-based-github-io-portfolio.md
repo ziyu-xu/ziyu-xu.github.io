@@ -59,7 +59,7 @@ We note that the Furina image above is too wide. To regulate the image width, pr
 
 ```
 <figure>
-    <img src="(your png/jpg path)" alt="title" width="500x"/>
+    <img src="(your png/jpg path)" alt="title" width="60%"/> // or width="500" to specify the width
     <figcaption>your title</figcaption>
 </figure>
 ```
