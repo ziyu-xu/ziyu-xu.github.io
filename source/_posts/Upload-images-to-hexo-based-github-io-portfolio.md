@@ -24,8 +24,6 @@ Install ```hexo-renderer-marked``` plugin
 
 ```npm install hexo-renderer-marked --save```
 
-
-
 Edit ```_config.yml```
 
 ```
@@ -35,7 +33,7 @@ marked:
  postAsset: false
 ```
 
-```postAsset: false``` is important due to the redundancy of generated absolute image path.
+The "postAsset: false" is important due to the redundancy of generated absolute image path.
 
 ## 2 Insert image
 
@@ -54,6 +52,24 @@ Now we insert an image to the markdown: For instance:
 Then delete all strings before '/'. Now the image is invisible in Typora.
 
 ![Furina](115292447_p0-17242485245562.jpg)
+
+## 3 Insert image with specific width and captions
+
+We note that the Furina image above is too wide. To regulate the image width, previous command to insert image is replaced by following commands:
+
+```
+<figure>
+    <img src="(your png/jpg path)" alt="title" width="500x"/>
+    <figcaption>your title</figcaption>
+</figure>
+```
+
+Now the command is applied to upload a 60% Furina:
+
+<figure>
+    <img src="115292447_p0-17242485245562.jpg" alt="Furina" width="60%"/>
+    <figcaption>Furina</figcaption>
+</figure>
 
 Then perform ```hexo clean``` ```hexo generate``` and ```hexo server``` to inspect the insertion of images.
 

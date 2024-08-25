@@ -8,7 +8,10 @@ tags: Articles
 
 **Structure and repair of replication-coupled DNA breaks**
 
-![Replication-associated DSBs are processed differently from canonical one](image-20240823205450979.png)
+<figure>
+    <img src="image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%"/>
+    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+</figure>
 
 # Journal
 
