@@ -23,21 +23,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GI screenshot 8/21/24</title>
-    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
-    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
-<span id="more"></span>
-
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article summary 8/23/24</title>
     <url>/2024/08/23/Article-summary-8-23-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
@@ -57,6 +42,21 @@
 ]]></content>
       <tags>
         <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 8/21/24</title>
+    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
+    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
+<span id="more"></span>
+
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
       </tags>
   </entry>
   <entry>
@@ -95,6 +95,22 @@
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 8/27/24</title>
+    <url>/2024/08/27/Article-summary-8-27-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bridging of DNA breaks activates PARP2–HPF1  to modify chromatin</strong></p>
+<p><figure><img src="/2024/08/27/Article-summary-8-27-24/image-20240827144403556.png" alt="Cryo-EM structure of PARP2/HPF1 bound to nucleosome"><figcaption aria-hidden="true">Cryo-EM structure of PARP2/HPF1 bound to nucleosome</figcaption></figure></p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Nature</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Nucleosome; PARP1; Cryo-EM structure</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>To respond DNA strand break, PARP1 and its paralogue PARP2 assemble at chromatin and ADP-ribosylate (ADPr) histones. PARP-mediated histone ADPr relies on cofactor HPF1, which switches PARP1 residue preference from Glu&#x2F;Asp to Ser. ADPr chromatin then recruits downstream effectors to promote DNA repair pathway. However, the mechanism of PARP enzyme recognizing chromatin DNA breaks remains elusive. </p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-020-2725-7</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
       </tags>
   </entry>
 </search>
