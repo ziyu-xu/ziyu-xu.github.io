@@ -61,6 +61,7 @@ PARP1 and PARP2 are of same PARP family enzymes while PARP1 possesses 3 more zin
 
 ## This work
 This work explored how HPF1 activates PARP1 and PARP2. Using autoradiograms, they found that HPF1 stimulates PARP1/2 auto-modification as well as histone ADP-ribosylation. However the stimulation is limited to a defined range (about 0.5-2eq PARP1) while too high HPF1 concentration leads to declined ADPr chain length. In addition, NAD+ concentration also affects ADPr chain formation.
+
 Overall, PARP1 and PARP2 hardly distinct from each other in catalytic behavior combined with HPF1. However PARP1 and PARP2 have different intrinsic activity towards themselves or nucleosome substrates.
 
 Autoradiogram gels seem smear and heterogenous. 
