@@ -138,7 +138,7 @@
 <h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="Excel处理数据"><a href="#Excel处理数据" class="headerlink" title="Excel处理数据"></a>Excel处理数据</h2><p>为了方便在Origin中完成画图，我们需要将未经处理的质谱数据转化为两行-一交联对的格式。具体操作如下：</p>
 <h3 id="1-利用分列转化为单行数据"><a href="#1-利用分列转化为单行数据" class="headerlink" title="1. 利用分列转化为单行数据"></a>1. 利用分列转化为单行数据</h3><p>原始数据格式一般如下图所示。使用<strong>数据-分列</strong>，将括号等符号设为分列符，得到如下效果的一行-一交联的数据。</p>
 <figure>
-    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925144910256" alt="处理前后效果变化" width="60%"> 
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925144910256.png" alt="处理前后效果变化" width="60%"> 
     <figcaption>处理前后效果变化</figcaption>
 </figure>
 
@@ -183,11 +183,10 @@
 
 <p>将Origin生成的交联质谱连线粘贴进AI或PPT，最终效果如下：</p>
 <figure>
-    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png" alt="最终效果图" width="70%"> 
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png" alt="最终效果图" width="45%"> 
     <figcaption>最终效果图</figcaption>
 </figure>
 
-<p><figure><img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png" alt="image-20240925171739938"><figcaption aria-hidden="true">image-20240925171739938</figcaption></figure></p>
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
