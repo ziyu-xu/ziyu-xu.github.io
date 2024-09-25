@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#004"><meta name="generator" content="Hexo 7.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/back1.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/back1.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/back1.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#004">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Serif+SC:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha256-XOqroi11tY4EFQMR9ZYwZWKj5ZXiftSx36RRuC3anlA=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancyapps-ui/5.0.31/fancybox/fancybox.css" integrity="sha256-gkQVf8UKZgQ0HyuxL/VnacadJ+D2Kox2TCEBuNQg5+w=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"example.com","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.20.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":false,"style":null},"fold":{"enable":false,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="目标使用Origin和Adobe Illustrator将原始的交联质谱数据转化为圆环形交联质谱图">
+<meta property="og:type" content="article">
+<meta property="og:title" content="使用Origin和Adobe Illustrator建立交联质谱图">
+<meta property="og:url" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/index.html">
+<meta property="og:site_name" content="-徐-">
+<meta property="og:description" content="目标使用Origin和Adobe Illustrator将原始的交联质谱数据转化为圆环形交联质谱图">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925144910256">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925153359055.png">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925162225238.png">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925163601298.png">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925164612201.png">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925170632898.png">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png">
+<meta property="og:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png">
+<meta property="article:published_time" content="2024-09-25T06:27:49.000Z">
+<meta property="article:modified_time" content="2024-09-25T09:23:47.023Z">
+<meta property="article:author" content="Ziyu-Xu">
+<meta property="article:tag" content="Tutorials">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925144910256">
+
+
+<link rel="canonical" href="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/","path":"2024/09/25/使用Origin和Adobe-Illustrator建立交联质谱图/","title":"使用Origin和Adobe Illustrator建立交联质谱图"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>使用Origin和Adobe Illustrator建立交联质谱图 | -徐-</title>
+  
+
+
+
+
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">-徐-</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">坐看日月行, 细数千帆过</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+      <div class="search-header">
+        <span class="search-icon">
+          <i class="fa fa-search"></i>
+        </span>
+        <div class="search-input-container">
+          <input autocomplete="off" autocapitalize="off" maxlength="80"
+                placeholder="搜索..." spellcheck="false"
+                type="search" class="search-input">
+        </div>
+        <span class="popup-btn-close" role="button">
+          <i class="fa fa-times-circle"></i>
+        </span>
+      </div>
+      <div class="search-result-container">
+        <div class="search-result-icon">
+          <i class="fa fa-spinner fa-pulse fa-5x"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-nav-active sidebar-toc-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+            <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%9B%AE%E6%A0%87"><span class="nav-number">1.</span> <span class="nav-text">目标</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%AD%A5%E9%AA%A4"><span class="nav-number">2.</span> <span class="nav-text">步骤</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#Excel%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE"><span class="nav-number">2.1.</span> <span class="nav-text">Excel处理数据</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#1-%E5%88%A9%E7%94%A8%E5%88%86%E5%88%97%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%8D%95%E8%A1%8C%E6%95%B0%E6%8D%AE"><span class="nav-number">2.1.1.</span> <span class="nav-text">1. 利用分列转化为单行数据</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#2-%E5%88%A9%E7%94%A8%E6%8F%92%E5%85%A5%E8%A1%8C%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%8F%8C%E8%A1%8C%E6%95%B0%E6%8D%AE"><span class="nav-number">2.1.2.</span> <span class="nav-text">2. 利用插入行转化为双行数据</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#3-%E5%B0%86%E5%8F%8C%E8%A1%8C%E6%95%B0%E6%8D%AE%E8%BD%AC%E5%8C%96%E4%B8%BA%E6%9E%81%E5%9D%90%E6%A0%87%E6%95%B0%E6%8D%AE"><span class="nav-number">2.1.3.</span> <span class="nav-text">3. 将双行数据转化为极坐标数据</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Origin%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE"><span class="nav-number">2.2.</span> <span class="nav-text">Origin处理数据</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#AI%E4%BD%9C%E5%A4%96%E5%9B%B4%E8%9B%8B%E7%99%BD%E5%8D%A1%E9%80%9A%E5%9B%BE"><span class="nav-number">2.3.</span> <span class="nav-text">AI作外围蛋白卡通图</span></a></li></ol></li></ol></div>
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Ziyu-Xu"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">Ziyu-Xu</p>
+  <div class="site-description" itemprop="description">My personal website.</div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">8</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-tags">
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">标签</span>
+      </div>
+  </nav>
+</div>
+
+        </div>
+      </div>
+    </div>
+
+    
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="Ziyu-Xu">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="-徐-">
+      <meta itemprop="description" content="My personal website.">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="使用Origin和Adobe Illustrator建立交联质谱图 | -徐-">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          使用Origin和Adobe Illustrator建立交联质谱图
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+      
+
+      <time title="创建时间：2024-09-25 14:27:49 / 修改时间：17:23:47" itemprop="dateCreated datePublished" datetime="2024-09-25T14:27:49+08:00">2024-09-25</time>
+    </span>
+
+  
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody"><h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>使用Origin和Adobe Illustrator将原始的交联质谱数据转化为圆环形交联质谱图</p>
+<span id="more"></span>
+
+<h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="Excel处理数据"><a href="#Excel处理数据" class="headerlink" title="Excel处理数据"></a>Excel处理数据</h2><p>为了方便在Origin中完成画图，我们需要将未经处理的质谱数据转化为两行-一交联对的格式。具体操作如下：</p>
+<h3 id="1-利用分列转化为单行数据"><a href="#1-利用分列转化为单行数据" class="headerlink" title="1. 利用分列转化为单行数据"></a>1. 利用分列转化为单行数据</h3><p>原始数据格式一般如下图所示。使用<strong>数据-分列</strong>，将括号等符号设为分列符，得到如下效果的一行-一交联的数据。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925144910256" alt="处理前后效果变化" width="60%"> 
+    <figcaption>处理前后效果变化</figcaption>
+</figure>
+
+<h3 id="2-利用插入行转化为双行数据"><a href="#2-利用插入行转化为双行数据" class="headerlink" title="2. 利用插入行转化为双行数据"></a>2. 利用插入行转化为双行数据</h3><p>接下来使用插入行功能，将一行-一交联的数据转化为两行-一交联的数据。</p>
+<p>首先如下图红色字样输入1,2交替的<strong>两个辅助列</strong> (1)。</p>
+<p>之后选中下图中框选区域部分<strong>开始-查找与选择-定位条件-空值</strong>，选中单元格后插入工作表行，得到隔行插入空行的数据(2)。</p>
+<p>之后向下移动后半部分数据一行(3)。</p>
+<p>之后选中下图(3)中选中部分，<strong>开始-查找与选择-定位条件-空值</strong>，选中单元格后删除-右方单元格左移，得到最终数据(4)。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925153359055.png" alt="利用插入行转化为双行数据" width="70%"> 
+    <figcaption>利用插入行转化为双行数据</figcaption>
+</figure>
+
+<h3 id="3-将双行数据转化为极坐标数据"><a href="#3-将双行数据转化为极坐标数据" class="headerlink" title="3. 将双行数据转化为极坐标数据"></a>3. 将双行数据转化为极坐标数据</h3><p>为了在Origin中得到圆环状交联色谱图，我们采用极坐标方式作图。这样我们需要将蛋白位点转化为极坐标的角度，每个位点需要有对应的角度数值。</p>
+<p>我们首先对每个蛋白进行编号。我们从0°开始，蛋白A,B,C顺序逆时针排列，那么蛋白B和C的残基编号需要在前面的基础上加一个值。假设A蛋白有150，B有600，C有900残基，蛋白之间的空白部分占80残基的体积。那么我们得到下图中左下角的表格信息。通过求和，我们能得到各个蛋白和空白需要增加的数值量。</p>
+<p>之后在左上角的双行数据中，选中对应蛋白编号(A,B,C)的列，并查找替换为需要增加的数值量(左上角第三列)，并通过求和得到最终编号(红字)。</p>
+<p>极坐标角度由 [(最终编号*360)&#x2F;(左下角total)] 的公式求得；轴长r统一设置为1. 这样我们得到了需要在Origin中画图的极坐标数据(黑框中的数据)。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925162225238.png" alt="将双行数据转化为极坐标数据" width="70%"> 
+    <figcaption>将双行数据转化为极坐标数据</figcaption>
+</figure>
+
+<h2 id="Origin处理数据"><a href="#Origin处理数据" class="headerlink" title="Origin处理数据"></a>Origin处理数据</h2><p>我们将上述极坐标数据复制粘贴到Origin中。选择下方极坐标格式开始作图，得到的是右下角的图像。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925163601298.png" alt="Origin创建极坐标图" width="70%"> 
+    <figcaption>Origin创建极坐标图</figcaption>
+</figure>
+
+<p>这个图像需要经过一些处理得到交联质谱图。1) 删除所有刻度线和坐标，只留下最外面的圆圈；2) 选择Plot details - Plot properties, Line-Connect 为2 Point Segment，这样使得只有每两个数据点之间进行连线，符合交联质谱对的双行数据。3) 改线条的长度颜色等。最后将图片导出。</p>
+<p>P.S. 如果需要高亮某一些交联对或者做区分颜色的交联对，可以先分别作图，统一主题格式之后，采用Graph-Merge graph window对两张图片进行merge，merge之后再保存即可。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925164612201.png" alt="Origin创建交联质谱图" width="70%"> 
+    <figcaption>Origin创建交联质谱图</figcaption>
+</figure>
+
+<h2 id="AI作外围蛋白卡通图"><a href="#AI作外围蛋白卡通图" class="headerlink" title="AI作外围蛋白卡通图"></a>AI作外围蛋白卡通图</h2><p>打开AI，首先用AI制造出一圆环，再画一个更大的圆，二者中心对齐，将大圆转为扇形。按照上一步Excel中计算好的开始-结束的角度，每一个蛋白就复制一个扇形，并且对准其所占据的角度，如下图所示，三个扇形分别代表A(150氨基酸)；B(600氨基酸)和C(900氨基酸)。</p>
+<p>选中圆环和所有扇形，点击<strong>路径查找器-分割</strong>，把圆环分割成小块，如下图右边所示。小块可以分别染色或者做风格处理。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925170632898.png" alt="AI描绘交联质谱图" width="70%"> 
+    <figcaption>AI描绘交联质谱图</figcaption>
+</figure>
+
+<p>将Origin生成的交联质谱连线粘贴进AI或PPT，最终效果如下：</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png" alt="最终效果图" width="70%"> 
+    <figcaption>最终效果图</figcaption>
+</figure>
+
+<p><figure><img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png" alt="image-20240925171739938"><figcaption aria-hidden="true">image-20240925171739938</figcaption></figure></p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer"><div>
+    
+        <div style="text-align:center;color: #115; font-size:18px; font-weight: bold; margin-top: 20px;">- - - - - - - - - - 本文结束 - - - FIN. - - - - - - - </div>
+    
+</div>
+          <div class="post-tags">
+              <a href="/tags/Tutorials/" rel="tag"># Tutorials</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/" rel="prev" title="随笔 2024/9/20">
+                  <i class="fa fa-angle-left"></i> 随笔 2024/9/20
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+  <div class="copyright">
+    &copy; 
+    <span itemprop="copyrightYear">2024</span>
+    <span class="with-love">
+      <i class="fa fa-pen"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">Ziyu-Xu</span>
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancyapps-ui/5.0.31/fancybox/fancybox.umd.js" integrity="sha256-a+H7FYzJv6oU2hfsfDGM2Ohw/cR9v+hPfxHCLdmCrE8=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/sidebar.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+
+  <script src="/js/third-party/fancybox.js"></script>
+
+
+
+  
+
+
+
+
+
+</body>
+</html>
