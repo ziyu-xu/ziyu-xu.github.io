@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Article Summary 9/14/24</title>
-    <url>/2024/09/15/Article-Summary-9-14-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
-<figure>
-    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
-    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
-<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article summary 8/21/24</title>
     <url>/2024/08/21/Article-summary-8-21-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
@@ -67,18 +45,25 @@
       </tags>
   </entry>
   <entry>
-    <title>GI screenshot 8/21/24</title>
-    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
-    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
+<figure>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
 <span id="more"></span>
 
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
-        <tag>Illustrations</tag>
+        <tag>Articles</tag>
       </tags>
   </entry>
   <entry>
@@ -127,6 +112,81 @@
 ]]></content>
       <tags>
         <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 9/14/24</title>
+    <url>/2024/09/15/Article-Summary-9-14-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
+<figure>
+    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
+    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
+<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 8/21/24</title>
+    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
+    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
+<span id="more"></span>
+
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Upload images to hexo-based github.io portfolio</title>
+    <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
+    <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
+<span id="more"></span>
+
+<h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><h2 id="1-Install-plugins"><a href="#1-Install-plugins" class="headerlink" title="1 Install plugins"></a>1 Install plugins</h2><p>Install <code>hexo-asset-image</code> plugin</p>
+<p><code>npm install hexo-asset-image --save</code></p>
+<p>Install <code>hexo-renderer-marked</code> plugin</p>
+<p><code>npm install hexo-renderer-marked --save</code></p>
+<p>Edit <code>_config.yml</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">post_asset_folder: true</span><br><span class="line">marked:</span><br><span class="line"> prependRoot: true</span><br><span class="line"> postAsset: false</span><br></pre></td></tr></table></figure>
+
+<p>The “postAsset: false” is important due to the redundancy of generated absolute image path.</p>
+<h2 id="2-Insert-image"><a href="#2-Insert-image" class="headerlink" title="2 Insert image"></a>2 Insert image</h2><p>With <code>hexo-asset-image</code> plugin installed we make a new post:</p>
+<p><code>hexo new &quot;project name&quot;</code></p>
+<p>A new directory is automatically generated </p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png" alt="Illustration of new generated directory"><figcaption aria-hidden="true">Illustration of new generated directory</figcaption></figure></p>
+<p>Now we insert an image to the markdown: For instance:</p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png" alt="Screenshot of Furina"><figcaption aria-hidden="true">Screenshot of Furina</figcaption></figure></p>
+<p>Then delete all strings before ‘&#x2F;‘. Now the image is invisible in Typora.</p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina"><figcaption aria-hidden="true">Furina</figcaption></figure></p>
+<h2 id="3-Insert-image-with-specific-width-and-captions"><a href="#3-Insert-image-with-specific-width-and-captions" class="headerlink" title="3 Insert image with specific width and captions"></a>3 Insert image with specific width and captions</h2><p>We note that the Furina image above is too wide. To regulate the image width, previous command to insert image is replaced by following commands:</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;figure&gt;</span><br><span class="line">    &lt;img src=&quot;(your png/jpg path)&quot; alt=&quot;title&quot; width=&quot;60%&quot;/&gt; // or width=&quot;500&quot; to specify the width</span><br><span class="line">    &lt;figcaption&gt;your title&lt;/figcaption&gt;</span><br><span class="line">&lt;/figure&gt;</span><br></pre></td></tr></table></figure>
+
+<p>Now the command is applied to upload a 60% Furina:</p>
+<figure>
+    <img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina" width="60%">
+    <figcaption>Furina</figcaption>
+</figure>
+
+<p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
+<h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
+]]></content>
+      <tags>
+        <tag>Tutorials</tag>
       </tags>
   </entry>
   <entry>
@@ -187,44 +247,6 @@
     <figcaption>最终效果图</figcaption>
 </figure>
 
-]]></content>
-      <tags>
-        <tag>Tutorials</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Upload images to hexo-based github.io portfolio</title>
-    <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
-    <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
-<span id="more"></span>
-
-<h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><h2 id="1-Install-plugins"><a href="#1-Install-plugins" class="headerlink" title="1 Install plugins"></a>1 Install plugins</h2><p>Install <code>hexo-asset-image</code> plugin</p>
-<p><code>npm install hexo-asset-image --save</code></p>
-<p>Install <code>hexo-renderer-marked</code> plugin</p>
-<p><code>npm install hexo-renderer-marked --save</code></p>
-<p>Edit <code>_config.yml</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">post_asset_folder: true</span><br><span class="line">marked:</span><br><span class="line"> prependRoot: true</span><br><span class="line"> postAsset: false</span><br></pre></td></tr></table></figure>
-
-<p>The “postAsset: false” is important due to the redundancy of generated absolute image path.</p>
-<h2 id="2-Insert-image"><a href="#2-Insert-image" class="headerlink" title="2 Insert image"></a>2 Insert image</h2><p>With <code>hexo-asset-image</code> plugin installed we make a new post:</p>
-<p><code>hexo new &quot;project name&quot;</code></p>
-<p>A new directory is automatically generated </p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png" alt="Illustration of new generated directory"><figcaption aria-hidden="true">Illustration of new generated directory</figcaption></figure></p>
-<p>Now we insert an image to the markdown: For instance:</p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png" alt="Screenshot of Furina"><figcaption aria-hidden="true">Screenshot of Furina</figcaption></figure></p>
-<p>Then delete all strings before ‘&#x2F;‘. Now the image is invisible in Typora.</p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina"><figcaption aria-hidden="true">Furina</figcaption></figure></p>
-<h2 id="3-Insert-image-with-specific-width-and-captions"><a href="#3-Insert-image-with-specific-width-and-captions" class="headerlink" title="3 Insert image with specific width and captions"></a>3 Insert image with specific width and captions</h2><p>We note that the Furina image above is too wide. To regulate the image width, previous command to insert image is replaced by following commands:</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;figure&gt;</span><br><span class="line">    &lt;img src=&quot;(your png/jpg path)&quot; alt=&quot;title&quot; width=&quot;60%&quot;/&gt; // or width=&quot;500&quot; to specify the width</span><br><span class="line">    &lt;figcaption&gt;your title&lt;/figcaption&gt;</span><br><span class="line">&lt;/figure&gt;</span><br></pre></td></tr></table></figure>
-
-<p>Now the command is applied to upload a 60% Furina:</p>
-<figure>
-    <img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina" width="60%">
-    <figcaption>Furina</figcaption>
-</figure>
-
-<p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
-<h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
