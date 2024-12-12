@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Article-summary-11-09-24</title>
-    <url>/2024/11/12/Article-summary-11-09-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure-guided discovery of bile acid derivatives for treating liver diseases without causing itch</strong></p>
-<figure>
-    <img src="/2024/11/12/Article-summary-11-09-24/1-s2.0-S0092867424011498-fx1.jpg" alt="Structure-guided discovery of bile acid molecules for liver diseases without itch" width="60%">
-    <figcaption>Discover liver disease-targeting small molecule without itch adverse effect</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Cell</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Cryo-EM structure, Drug rational design</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>NASH (non-alcoholic steatohepatitis) gains increasing attention as its prevalence in liver disease patients. Although no FDA-approved drug discovered for NASH, first in class bile acid derivative agonists targeting FXR receptors such as OCA have been investigated to treat such diseases. However, OCA causes cholesteric pruritus (itch) in clinical trials. Hitherto no approach has been suggested to overcome the adverse effect of itch. New leading compound is needed to be discovered to overcome OCA-induced itch.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Through cryo-EM, molecular dynamics, biochemical and cellular assays, the structural mechanism of how bile acid derivatives stimulates their itch-related acceptor, hX4, was demonstrated. bile acid derivatives utilized their acidic functional group (sulfurylated and phosphorylated) to recognize hX4 basic pocket. Based on the structural observation, a new compound named C7 was designed to prevent binding of itch-related receptor hX4 but retaining drug effect for liver diseases in organism models and rat models. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.cell.2024.10.001</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 9/14/24</title>
     <url>/2024/09/15/Article-Summary-9-14-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
@@ -44,22 +23,21 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 8/21/24</title>
-    <url>/2024/08/21/Article-summary-8-21-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
+    <title>Article-summary-11-09-24</title>
+    <url>/2024/11/12/Article-summary-11-09-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure-guided discovery of bile acid derivatives for treating liver diseases without causing itch</strong></p>
 <figure>
-    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
-    <figcaption>Ub-POD strategy</figcaption>
+    <img src="/2024/11/12/Article-summary-11-09-24/1-s2.0-S0092867424011498-fx1.jpg" alt="Structure-guided discovery of bile acid molecules for liver diseases without itch" width="60%">
+    <figcaption>Discover liver disease-targeting small molecule without itch adverse effect</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Cryo-EM structure, Drug rational design</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
-<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>NASH (non-alcoholic steatohepatitis) gains increasing attention as its prevalence in liver disease patients. Although no FDA-approved drug discovered for NASH, first in class bile acid derivative agonists targeting FXR receptors such as OCA have been investigated to treat such diseases. However, OCA causes cholesteric pruritus (itch) in clinical trials. Hitherto no approach has been suggested to overcome the adverse effect of itch. New leading compound is needed to be discovered to overcome OCA-induced itch.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Through cryo-EM, molecular dynamics, biochemical and cellular assays, the structural mechanism of how bile acid derivatives stimulates their itch-related acceptor, hX4, was demonstrated. bile acid derivatives utilized their acidic functional group (sulfurylated and phosphorylated) to recognize hX4 basic pocket. Based on the structural observation, a new compound named C7 was designed to prevent binding of itch-related receptor hX4 but retaining drug effect for liver diseases in organism models and rat models. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.cell.2024.10.001</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -82,6 +60,52 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
 <p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-12-07-24</title>
+    <url>/2024/12/12/Article-summary-12-07-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Human HDAC6 senses valine abundancy to regulate DNA damage</strong></p>
+<figure>
+    <img src="/2024/12/12/Article-summary-12-07-24/image-20241212165045200.png" alt="Human HDAC6 senses valine abundancy to regulate DNA damage" width="60%">
+    <figcaption>HDAC is a sensor of valine leading to DNA damage and potent cancer treatment</figcaption>
+</figure>
+
+
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Small molecule metabolites; DNA damage; Novel cellular pathways</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Valine is one of the 20 essential amino acids. Valine takes part in various physiological pathways such as protein synthesis and leukemia genesis. However, how valine is sensed and what downstream effectors recognize valine remain unexplored. </p>
+<p>In addition, amino acid sensors mainly sense amino acids to regulate tRNA-related pathway or mTORC related pathway. Whether amino acid sensors regulate pathways except tRNA and mTORC remains unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here the article discovered that HDAC6, the deacetylase, is a valine sensor. Valine deprivation causes HDAC6 locating at nucleus rather than cytosol. Valine-caused HDAC6 relocation triggered TET2-TDG pathway to induce DNA damage. Moreover, induced valine deprivation could affect tumor growth through HDAC6-TET2-TDG pathway to trigger DNA damage. Low valine level reduced the tumor growth. Thus, valine-triggered HDAC6 sensing might be potential cancer treatment strategy in the future.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08248-5</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 8/21/24</title>
+    <url>/2024/08/21/Article-summary-8-21-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
+<figure>
+    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
+    <figcaption>Ub-POD strategy</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
+<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -211,6 +235,25 @@
       </tags>
   </entry>
   <entry>
+    <title>随笔 2024/9/20</title>
+    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
+    <content><![CDATA[<p>不可放下骄傲之心</p>
+<span id="more"></span>
+
+<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
+<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
+<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
+<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
+<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
+<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
+<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
+<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
+]]></content>
+      <tags>
+        <tag>Essay</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>使用Origin和Adobe Illustrator建立交联质谱图</title>
     <url>/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/</url>
     <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>使用Origin和Adobe Illustrator将原始的交联质谱数据转化为圆环形交联质谱图</p>
@@ -271,25 +314,6 @@
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔 2024/9/20</title>
-    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
-    <content><![CDATA[<p>不可放下骄傲之心</p>
-<span id="more"></span>
-
-<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
-<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
-<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
-<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
-<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
-<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
-<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
-<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
-]]></content>
-      <tags>
-        <tag>Essay</tag>
       </tags>
   </entry>
 </search>
