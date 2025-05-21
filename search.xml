@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>8小时组装核小体尝试</title>
+    <url>/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/</url>
+    <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>在1天的上班时间内完成核小体的组装和Native-PAGE表征</p>
+<span id="more"></span>
+
+<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>Reconstitution of Nucleosome Core Particles from Recombinant Histones and DNA</p>
+<p>Journal: <em>Methods in Enzymology</em></p>
+<p><a href="https://doi.org/10.1016/S0076-6879(03)75002-2">10.1016&#x2F;S0076-6879(03)75002-2</a></p>
+<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><figure>
+    <img src="/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/image-20250520221707526.png" alt="核小体体外组装机理" width="60%">
+    <figcaption>核小体体外组装机理</figcaption>
+</figure>
+
+<p>在分步透析的过程中，八聚体和DNA逐渐缠绕并形成核小体结构。体外组装的经验来讲，当盐浓度在1.3M以上时，透析可以较快进行；600-1000mM之间时，梯度透析应缓慢，确保核小体结构的正确形成；500mM以下时，可以直接透析至无盐溶液中，完成核小体的组装。</p>
+<p>组装核小体中常见的问题有：1) 核小体出现沉淀。这一般是由于八聚体:DNA比例不对、八聚体自身成分有误所导致，使得八聚体与DNA形成聚集体沉淀。此时需要重新验证八聚体跑胶条带是否正确、浓度测定是否精确。2) 没有沉淀，但跑胶条带弥散，这可能是由于核小体组装浓度太低导致的。一般来讲，对于中量组装核小体（0.05-0.5mg DNA），0.1-0.3mg&#x2F;mL的DNA浓度可能是比较合适的。如果DNA浓度过稀，核小体组装可能受到影响。</p>
+<h1 id="中量组装核小体-0-02-0-5mg"><a href="#中量组装核小体-0-02-0-5mg" class="headerlink" title="中量组装核小体 (0.02-0.5mg)"></a>中量组装核小体 (0.02-0.5mg)</h1><h2 id="混合核小体各组分"><a href="#混合核小体各组分" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><ol>
+<li>准备冰盒和冰，冰上解冻八聚体，常温解冻DNA</li>
+<li>先将DNA和5M NaCl混合，直到盐浓度为2~2.5M </li>
+<li>加入对应八聚体，摩尔比1:1</li>
+</ol>
+<h2 id="分步透析-（每步至少1-5小时，建议2小时）"><a href="#分步透析-（每步至少1-5小时，建议2小时）" class="headerlink" title="分步透析 （每步至少1.5小时，建议2小时）"></a>分步透析 （每步至少1.5小时，建议2小时）</h2><ol>
+<li>所有操作在冷室中（5摄氏度）进行。</li>
+<li>将混合的DNA-八聚体混合溶液透析到含有1.4 M NaCl的HE溶液中</li>
+<li>透析到0.85 M NaCl的HE溶液中</li>
+<li>透析到0.65 M NaCl的HE溶液中</li>
+<li>透析到0.2 M NaCl的HE溶液中</li>
+<li>如有需要，透析到HE溶液中</li>
+</ol>
+<h2 id="表征"><a href="#表征" class="headerlink" title="表征"></a>表征</h2><ol>
+<li>配置PAGE胶，一般4.5%聚丙烯酰胺浓度，1.5mm厚度，十孔即可</li>
+<li>上样核小体，以约30-50ng DNA量计算，跑胶150V大约45-60min</li>
+<li>使用SYBR Gold染胶5分钟</li>
+</ol>
+<h1 id="微量组装核小体"><a href="#微量组装核小体" class="headerlink" title="微量组装核小体 (&lt;0.01mg)"></a>微量组装核小体 (&lt;0.01mg)</h1><h2 id="混合核小体各组分-1"><a href="#混合核小体各组分-1" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><p>以组装0.002mg核小体为例。取1000ng&#x2F;μL DNA 2uL，加入18μL 2M NaCl，再加相应比例的八聚体。</p>
+<h2 id="分步稀释-（每步1-1-5小时）"><a href="#分步稀释-（每步1-1-5小时）" class="headerlink" title="分步稀释 （每步1-1.5小时）"></a>分步稀释 （每步1-1.5小时）</h2><ol>
+<li>以下步骤需要在常温（约20摄氏度）中进行，在4度进行时，可能会导致核小体条带弥散，也有可能影响不大。</li>
+<li>以上述的20μL体系为例，加入20μL HE溶液，使得盐浓度下降至1 M</li>
+<li>加入10μL HE溶液，使得盐浓度下降至0.8 M</li>
+<li>加入10μL HE溶液，使得盐浓度下降至0.67 M</li>
+<li>加入140uL HE溶液，使得盐浓度下降至0.22M</li>
+</ol>
+<h2 id="表征-1"><a href="#表征-1" class="headerlink" title="表征"></a>表征</h2><p>与中量组装部分相同。</p>
+<h1 id="整体效果"><a href="#整体效果" class="headerlink" title="整体效果"></a>整体效果</h1><p>目前对中量和微量两种核小体组装方法进行了尝试。从Native PAGE的表征来看，使用中量组装方法比较稳妥，跑胶时出现的游离DNA条带较少，小于20%。游离DNA可以通过DEAE离子交换柱子分掉，所以中量组装方法能够在一天时间内完成从开始组装到纯化完毕的一条龙。</p>
+<p>对于微量组装方法，跑胶时发现只有大约60%的DNA组装成为了核小体，有40%在胶上以游离DNA形式出现。因此微量组装方法的可靠程度较低。事实上，无论是在室温还是在4度孵育，核小体的形成比例没有特别明显的变化。这可能暗示温度并非影响600-800mM盐浓度期间核小体组装的决定因素，盐浓度以及其持续时间都对核小体的组装有影响。从这个角度来看，通过透析形成的温和稀释条件，对于核小体的组装来说，显然是更优于直接稀释的暴力条件的。这一点上，核小体的组装与蛋白的变复性过程如出一辙。</p>
+]]></content>
+      <tags>
+        <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article Summary 9/14/24</title>
     <url>/2024/09/15/Article-Summary-9-14-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
@@ -110,6 +160,28 @@
       </tags>
   </entry>
   <entry>
+    <title>Article summary 8/21/24</title>
+    <url>/2024/08/21/Article-summary-8-21-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
+<figure>
+    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
+    <figcaption>Ub-POD strategy</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
+<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article-summary-12-07-24</title>
     <url>/2024/12/12/Article-summary-12-07-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Human HDAC6 senses valine abundancy to regulate DNA damage</strong></p>
@@ -134,50 +206,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 8/21/24</title>
-    <url>/2024/08/21/Article-summary-8-21-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
-<figure>
-    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
-    <figcaption>Ub-POD strategy</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
-<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article-summary-9-30-24</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article summary 8/23/24</title>
     <url>/2024/08/23/Article-summary-8-23-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
@@ -194,6 +222,54 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
 <p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 8/27/24</title>
+    <url>/2024/08/27/Article-summary-8-27-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bridging of DNA breaks activates PARP2–HPF1  to modify chromatin</strong></p>
+<p><figure><img src="/2024/08/27/Article-summary-8-27-24/image-20240827144403556.png" alt="Cryo-EM structure of PARP2/HPF1 bound to nucleosome"><figcaption aria-hidden="true">Cryo-EM structure of PARP2/HPF1 bound to nucleosome</figcaption></figure></p>
+<h2 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Nature</strong></em></p>
+<h2 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h2><p>Nucleosome; PARP1; Cryo-EM structure</p>
+<span id="more"></span>
+
+<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>To respond DNA strand break, PARP1 and its paralogue PARP2 assemble at chromatin and ADP-ribosylate (ADPr) histones. PARP-mediated histone ADPr relies on cofactor HPF1, which switches PARP1 residue preference from Glu&#x2F;Asp to Ser. ADPr chromatin then recruits downstream effectors to promote DNA repair pathway. However, the mechanism of PARP enzymes recognizing chromatin DNA breaks remains elusive. </p>
+<h2 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h2><p>I. Determine the cryo-EM structure of PARP2&#x2F;HPF1 bound to nucleosome. PARP2&#x2F;HPF1 forms 2:2 complex with nucleosome. Local focused classification is used to raise resolution: 2.2Å and 2.8Å resolution for 2 NCPs, 3.9Å for PARP2&#x2F;HPF1. </p>
+<p>II. Analysis of interaction surface. PARP2 WGR domain interacts with DNA double strand break, that is, the internucleosomal connection site of the two linker DNA. PARP1 HD domain interacts with nucleosomal DNA, while HPF1 loop lysines interacts with SHL-7 and 7 DNA on another nucleosome. <strong>HPF1 mutation affects complex formation, which is visualized by native-PAGE.</strong></p>
+<p>III. Interaction between DNA break and PARP2. Through native-PAGE and in-gel ADP-ribosylation assay, they confirmed that DNA break bridging could activate PARP2 self-catalysis activity. Also, DNA-binding defect PARP2 mutant is less prone to form ternary complex and modify H3. Comparing the prior-activated PARP1&#x2F;DNA complex, both HD helix and signal loop shifted, indicating the cascade-triggered conformation change-caused PARP2 activation upon NCP binding. </p>
+<p>IV. Hypothesized PARP2&#x2F;HPF1 catalytic cycle. Two more conformations are resolved, demonstrating two more open state (at active site) that accommodate H3 tail entry. </p>
+<p>V. Hypothesized overview ADPr mechanism. Found that PARP2&#x2F;HPF1&#x2F;NCP complex dissociates gradually after NAD+ addition. Enhanced PARP2 auto-modification after histone ADPr. Proposed mechanism: first ADPr histone to recruit downstream effectors, then auto-ADPr to disassembly the PARP2&#x2F;HPF1&#x2F;NCP ternary complex.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-020-2725-7</p>
+<h1 id="Article-title-2"><a href="#Article-title-2" class="headerlink" title="Article title #2"></a>Article title #2</h1><p><strong>Dual function of HPF1 in the modulation of PARP1 and PARP2 activities</strong></p>
+<figure>
+    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214522777.png" alt="HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio" width="80%">
+    <figcaption>HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio</figcaption>
+</figure>
+
+<h2 id="Journal-1"><a href="#Journal-1" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Communications biology</strong></em></p>
+<h2 id="Tags-1"><a href="#Tags-1" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1 </p>
+<h2 id="Introduction-1"><a href="#Introduction-1" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 and PARP2 are of same PARP family enzymes while PARP1 possesses 3 more zinc fingers, which bind DNA. PARP1 and PARP2 exhibit distinct activity behaviors. How co-factor HPF1 regulates PARP1 and PARP2 catalytic activity on nucleosome as well as auto-modification remain largely unexplored.</p>
+<h2 id="This-work-1"><a href="#This-work-1" class="headerlink" title="This work"></a>This work</h2><p>This work explored how HPF1 activates PARP1 and PARP2. Using autoradiograms, they found that HPF1 stimulates PARP1&#x2F;2 auto-modification as well as histone ADP-ribosylation. However the stimulation is limited to a defined range (about 0.5-2eq PARP1) while too high HPF1 concentration leads to declined ADPr chain length. In addition, NAD+ concentration also affects ADPr chain formation.</p>
+<p>Overall, PARP1 and PARP2 hardly distinct from each other in catalytic behavior combined with HPF1. However PARP1 and PARP2 have different intrinsic activity towards themselves or nucleosome substrates.</p>
+<p>Autoradiogram gels seem smear and heterogenous. </p>
+<p>Hydroxylamine is used to cleave Asp&#x2F;Glu-modified ADPr chain.</p>
+<h2 id="doi-1"><a href="#doi-1" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s42003-021-02780-0</p>
+<h1 id="Article-title-3"><a href="#Article-title-3" class="headerlink" title="Article title #3"></a>Article title #3</h1><p><strong>Serine ADP-Ribosylation Depends on HPF1</strong></p>
+<figure>
+    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214734173.png" alt="Serine ADP-Ribosylation Depends on HPF1" width="60%">
+    <figcaption>Serine ADP-Ribosylation Depends on HPF1</figcaption>
+</figure>
+
+<h2 id="Journal-2"><a href="#Journal-2" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Molecular Cell</strong></em></p>
+<h2 id="Tags-2"><a href="#Tags-2" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1; Nucleosome; MS</p>
+<h2 id="Introduction-2"><a href="#Introduction-2" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 is the major enzyme catalyzing histone ADPr modification. Previously, histone serine-modification is found in DNA damage response while HPF1 is found to be PARP1 co-factor and helps PARP1 ADP-ribosylate histones. However, the chemical basis of PARP1-catalyzed histone ADPr is yet unknown.</p>
+<h2 id="This-work-2"><a href="#This-work-2" class="headerlink" title="This work"></a>This work</h2><p>Using SILAC-based unbiased MS analysis, they extracted cell histones and found the ADPr modification sites. As well, they found that histone ADPr relies on HPF1. </p>
+<p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
+<p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
+<h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -253,48 +329,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 8/27/24</title>
-    <url>/2024/08/27/Article-summary-8-27-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bridging of DNA breaks activates PARP2–HPF1  to modify chromatin</strong></p>
-<p><figure><img src="/2024/08/27/Article-summary-8-27-24/image-20240827144403556.png" alt="Cryo-EM structure of PARP2/HPF1 bound to nucleosome"><figcaption aria-hidden="true">Cryo-EM structure of PARP2/HPF1 bound to nucleosome</figcaption></figure></p>
-<h2 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Nature</strong></em></p>
-<h2 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h2><p>Nucleosome; PARP1; Cryo-EM structure</p>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
+<figure>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
 <span id="more"></span>
 
-<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>To respond DNA strand break, PARP1 and its paralogue PARP2 assemble at chromatin and ADP-ribosylate (ADPr) histones. PARP-mediated histone ADPr relies on cofactor HPF1, which switches PARP1 residue preference from Glu&#x2F;Asp to Ser. ADPr chromatin then recruits downstream effectors to promote DNA repair pathway. However, the mechanism of PARP enzymes recognizing chromatin DNA breaks remains elusive. </p>
-<h2 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h2><p>I. Determine the cryo-EM structure of PARP2&#x2F;HPF1 bound to nucleosome. PARP2&#x2F;HPF1 forms 2:2 complex with nucleosome. Local focused classification is used to raise resolution: 2.2Å and 2.8Å resolution for 2 NCPs, 3.9Å for PARP2&#x2F;HPF1. </p>
-<p>II. Analysis of interaction surface. PARP2 WGR domain interacts with DNA double strand break, that is, the internucleosomal connection site of the two linker DNA. PARP1 HD domain interacts with nucleosomal DNA, while HPF1 loop lysines interacts with SHL-7 and 7 DNA on another nucleosome. <strong>HPF1 mutation affects complex formation, which is visualized by native-PAGE.</strong></p>
-<p>III. Interaction between DNA break and PARP2. Through native-PAGE and in-gel ADP-ribosylation assay, they confirmed that DNA break bridging could activate PARP2 self-catalysis activity. Also, DNA-binding defect PARP2 mutant is less prone to form ternary complex and modify H3. Comparing the prior-activated PARP1&#x2F;DNA complex, both HD helix and signal loop shifted, indicating the cascade-triggered conformation change-caused PARP2 activation upon NCP binding. </p>
-<p>IV. Hypothesized PARP2&#x2F;HPF1 catalytic cycle. Two more conformations are resolved, demonstrating two more open state (at active site) that accommodate H3 tail entry. </p>
-<p>V. Hypothesized overview ADPr mechanism. Found that PARP2&#x2F;HPF1&#x2F;NCP complex dissociates gradually after NAD+ addition. Enhanced PARP2 auto-modification after histone ADPr. Proposed mechanism: first ADPr histone to recruit downstream effectors, then auto-ADPr to disassembly the PARP2&#x2F;HPF1&#x2F;NCP ternary complex.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-020-2725-7</p>
-<h1 id="Article-title-2"><a href="#Article-title-2" class="headerlink" title="Article title #2"></a>Article title #2</h1><p><strong>Dual function of HPF1 in the modulation of PARP1 and PARP2 activities</strong></p>
-<figure>
-    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214522777.png" alt="HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio" width="80%">
-    <figcaption>HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio</figcaption>
-</figure>
-
-<h2 id="Journal-1"><a href="#Journal-1" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Communications biology</strong></em></p>
-<h2 id="Tags-1"><a href="#Tags-1" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1 </p>
-<h2 id="Introduction-1"><a href="#Introduction-1" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 and PARP2 are of same PARP family enzymes while PARP1 possesses 3 more zinc fingers, which bind DNA. PARP1 and PARP2 exhibit distinct activity behaviors. How co-factor HPF1 regulates PARP1 and PARP2 catalytic activity on nucleosome as well as auto-modification remain largely unexplored.</p>
-<h2 id="This-work-1"><a href="#This-work-1" class="headerlink" title="This work"></a>This work</h2><p>This work explored how HPF1 activates PARP1 and PARP2. Using autoradiograms, they found that HPF1 stimulates PARP1&#x2F;2 auto-modification as well as histone ADP-ribosylation. However the stimulation is limited to a defined range (about 0.5-2eq PARP1) while too high HPF1 concentration leads to declined ADPr chain length. In addition, NAD+ concentration also affects ADPr chain formation.</p>
-<p>Overall, PARP1 and PARP2 hardly distinct from each other in catalytic behavior combined with HPF1. However PARP1 and PARP2 have different intrinsic activity towards themselves or nucleosome substrates.</p>
-<p>Autoradiogram gels seem smear and heterogenous. </p>
-<p>Hydroxylamine is used to cleave Asp&#x2F;Glu-modified ADPr chain.</p>
-<h2 id="doi-1"><a href="#doi-1" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s42003-021-02780-0</p>
-<h1 id="Article-title-3"><a href="#Article-title-3" class="headerlink" title="Article title #3"></a>Article title #3</h1><p><strong>Serine ADP-Ribosylation Depends on HPF1</strong></p>
-<figure>
-    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214734173.png" alt="Serine ADP-Ribosylation Depends on HPF1" width="60%">
-    <figcaption>Serine ADP-Ribosylation Depends on HPF1</figcaption>
-</figure>
-
-<h2 id="Journal-2"><a href="#Journal-2" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Molecular Cell</strong></em></p>
-<h2 id="Tags-2"><a href="#Tags-2" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1; Nucleosome; MS</p>
-<h2 id="Introduction-2"><a href="#Introduction-2" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 is the major enzyme catalyzing histone ADPr modification. Previously, histone serine-modification is found in DNA damage response while HPF1 is found to be PARP1 co-factor and helps PARP1 ADP-ribosylate histones. However, the chemical basis of PARP1-catalyzed histone ADPr is yet unknown.</p>
-<h2 id="This-work-2"><a href="#This-work-2" class="headerlink" title="This work"></a>This work</h2><p>Using SILAC-based unbiased MS analysis, they extracted cell histones and found the ADPr modification sites. As well, they found that histone ADPr relies on HPF1. </p>
-<p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
-<p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
-<h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
