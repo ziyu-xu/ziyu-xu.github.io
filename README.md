@@ -1,1 +1,1 @@
-Source file of my presonal portfolio
+Source file of my personal portfolio
