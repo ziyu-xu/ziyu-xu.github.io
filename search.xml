@@ -1,6 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>8小时组装核小体尝试</title>
+    <url>/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/</url>
+    <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>在1天的上班时间内完成核小体的组装和Native-PAGE表征</p>
+<span id="more"></span>
+
+<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>Reconstitution of Nucleosome Core Particles from Recombinant Histones and DNA</p>
+<p>Journal: <em>Methods in Enzymology</em></p>
+<p><a href="https://doi.org/10.1016/S0076-6879(03)75002-2">10.1016&#x2F;S0076-6879(03)75002-2</a></p>
+<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><figure>
+    <img src="/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/image-20250520221707526.png" alt="核小体体外组装机理" width="60%">
+    <figcaption>核小体体外组装机理</figcaption>
+</figure>
+
+<p>在分步透析的过程中，八聚体和DNA逐渐缠绕并形成核小体结构。体外组装的经验来讲，当盐浓度在1.3M以上时，透析可以较快进行；600-1000mM之间时，梯度透析应缓慢，确保核小体结构的正确形成；500mM以下时，可以直接透析至无盐溶液中，完成核小体的组装。</p>
+<p>组装核小体中常见的问题有：1) 核小体出现沉淀。这一般是由于八聚体:DNA比例不对、八聚体自身成分有误所导致，使得八聚体与DNA形成聚集体沉淀。此时需要重新验证八聚体跑胶条带是否正确、浓度测定是否精确。2) 没有沉淀，但跑胶条带弥散，这可能是由于核小体组装浓度太低导致的。一般来讲，对于中量组装核小体（0.05-0.5mg DNA），0.1-0.3mg&#x2F;mL的DNA浓度可能是比较合适的。如果DNA浓度过稀，核小体组装可能受到影响。</p>
+<h1 id="中量组装核小体-0-02-0-5mg"><a href="#中量组装核小体-0-02-0-5mg" class="headerlink" title="中量组装核小体 (0.02-0.5mg)"></a>中量组装核小体 (0.02-0.5mg)</h1><h2 id="混合核小体各组分"><a href="#混合核小体各组分" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><ol>
+<li>准备冰盒和冰，冰上解冻八聚体，常温解冻DNA</li>
+<li>先将DNA和5M NaCl混合，直到盐浓度为2~2.5M </li>
+<li>加入对应八聚体，摩尔比1:1</li>
+</ol>
+<h2 id="分步透析-（每步至少1-5小时，建议2小时）"><a href="#分步透析-（每步至少1-5小时，建议2小时）" class="headerlink" title="分步透析 （每步至少1.5小时，建议2小时）"></a>分步透析 （每步至少1.5小时，建议2小时）</h2><ol>
+<li>所有操作在冷室中（5摄氏度）进行。</li>
+<li>将混合的DNA-八聚体混合溶液透析到含有1.4 M NaCl的HE溶液中</li>
+<li>透析到0.85 M NaCl的HE溶液中</li>
+<li>透析到0.65 M NaCl的HE溶液中</li>
+<li>透析到0.2 M NaCl的HE溶液中</li>
+<li>如有需要，透析到HE溶液中</li>
+</ol>
+<h2 id="表征"><a href="#表征" class="headerlink" title="表征"></a>表征</h2><ol>
+<li>配置PAGE胶，一般4.5%聚丙烯酰胺浓度，1.5mm厚度，十孔即可</li>
+<li>上样核小体，以约30-50ng DNA量计算，跑胶150V大约45-60min</li>
+<li>使用SYBR Gold染胶5分钟</li>
+</ol>
+<h1 id="微量组装核小体"><a href="#微量组装核小体" class="headerlink" title="微量组装核小体 (&lt;0.01mg)"></a>微量组装核小体 (&lt;0.01mg)</h1><h2 id="混合核小体各组分-1"><a href="#混合核小体各组分-1" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><p>以组装0.002mg核小体为例。取1000ng&#x2F;μL DNA 2uL，加入18μL 2M NaCl，再加相应比例的八聚体。</p>
+<h2 id="分步稀释-（每步1-1-5小时）"><a href="#分步稀释-（每步1-1-5小时）" class="headerlink" title="分步稀释 （每步1-1.5小时）"></a>分步稀释 （每步1-1.5小时）</h2><ol>
+<li>以下步骤需要在常温（约20摄氏度）中进行，在4度进行时，可能会导致核小体条带弥散，也有可能影响不大。</li>
+<li>以上述的20μL体系为例，加入20μL HE溶液，使得盐浓度下降至1 M</li>
+<li>加入10μL HE溶液，使得盐浓度下降至0.8 M</li>
+<li>加入10μL HE溶液，使得盐浓度下降至0.67 M</li>
+<li>加入140uL HE溶液，使得盐浓度下降至0.22M</li>
+</ol>
+<h2 id="表征-1"><a href="#表征-1" class="headerlink" title="表征"></a>表征</h2><p>与中量组装部分相同。</p>
+<h1 id="整体效果"><a href="#整体效果" class="headerlink" title="整体效果"></a>整体效果</h1><p>目前对中量和微量两种核小体组装方法进行了尝试。从Native PAGE的表征来看，使用中量组装方法比较稳妥，跑胶时出现的游离DNA条带较少，小于20%。游离DNA可以通过DEAE离子交换柱子分掉，所以中量组装方法能够在一天时间内完成从开始组装到纯化完毕的一条龙。</p>
+<p>对于微量组装方法，跑胶时发现只有大约60%的DNA组装成为了核小体，有40%在胶上以游离DNA形式出现。因此微量组装方法的可靠程度较低。事实上，无论是在室温还是在4度孵育，核小体的形成比例没有特别明显的变化。这可能暗示温度并非影响600-800mM盐浓度期间核小体组装的决定因素，盐浓度以及其持续时间都对核小体的组装有影响。从这个角度来看，通过透析形成的温和稀释条件，对于核小体的组装来说，显然是更优于直接稀释的暴力条件的。这一点上，核小体的组装与蛋白的变复性过程如出一辙。</p>
+]]></content>
+      <tags>
+        <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-03-07-25</title>
+    <url>/2025/04/10/Article-summary-03-07-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
+<figure>
+    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
+    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
+<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article Summary 9/14/24</title>
     <url>/2024/09/15/Article-Summary-9-14-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
@@ -17,6 +89,117 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
 <p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 04-26-25</title>
+    <url>/2025/05/08/Article-summary-04-26-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
+<figure>
+    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
+    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
+<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 5/24/25</title>
+    <url>/2025/05/26/Article-Summary-5-24-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
+<figure>
+    <img src="/2025/05/26/Article-Summary-5-24-25/image-20250526112842451.png" alt="TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion" width="60%">
+    <figcaption>TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>CRLs E3 ligase family; mitochondria dynamics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dynamics of mitochondria is intricately regulated. UPS-involved protein quality control regulates the level of mitochondria dynamic-related proteins. UPS involves E1&#x2F;E2&#x2F;E3 cascade enzymatic system in which E3 determines substrate specificity. CRLs complex family stands for the largest E3 family. CRL2 complex adapts different substrate receptors to engage different substrates, leading to UPS of different substrates. FEM1B is a CRL2 substrate receptor which recognizes ψ-Pro&#x2F;C-degron and Cys-degron. FEM1B-deficient cells show dysfunction of mitochondria, however the full substrate scope of FEM1B on mitochondria function does not clear. How does FEM1B regulate mitochondria dynamics?</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>To address this question, this work performed FEM1B-KO proteomic analysis and found PLD6 as CRL^FEM1B^ UPS degradation substrate. Cellular, biochemical and structural analysis revealed FEM1B degron-binding pocket bind PLD6 C-tail to promote its degradation. Next, they demonstrated FEM1B affects PLD6-mediated mitochondria dynamics. But does other factors affect FEM1B targeting mitochondria membrane? This work focused on mitochondria OM complex subunit TOM20. It co-locates with FEM1B and cells with TOM20 siRNA failed to locate FEM1B on mitochondria. Structural analysis indicated TOM20 interacts with FEM1B through hydrophobic interactions. Abortion of interaction abolished the regulation of FEM1B towards PLD6 level and mitochondria dynamics.</p>
+<p>Collectively, this work combined structural (cryo-EM), proteomics, cellular and biochemical approaches to depict the TOM20-FEM1B-PLD6 pathway in mitochondria dynamic regulation. However, why FEM1B recruitment on mitochondria is dependent on TOM20 but not PLD6, which also interacts with FEM1B, remains unknown. I hypothesized the abundance of TOM20 and PLD6 on mitochondria membrane is pivotal for the primary regulation determinant for FEM1B recruitment on mitochondria, or the two set of interactions are not sufficiently relevant. More exploration is needed to clarify the relationship between these interactions and why FEM1B recruitment is determined by TOM20 but not PLD6.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01894-4</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-11-09-24</title>
+    <url>/2024/11/12/Article-summary-11-09-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure-guided discovery of bile acid derivatives for treating liver diseases without causing itch</strong></p>
+<figure>
+    <img src="/2024/11/12/Article-summary-11-09-24/1-s2.0-S0092867424011498-fx1.jpg" alt="Structure-guided discovery of bile acid molecules for liver diseases without itch" width="60%">
+    <figcaption>Discover liver disease-targeting small molecule without itch adverse effect</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Cryo-EM structure, Drug rational design</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>NASH (non-alcoholic steatohepatitis) gains increasing attention as its prevalence in liver disease patients. Although no FDA-approved drug discovered for NASH, first in class bile acid derivative agonists targeting FXR receptors such as OCA have been investigated to treat such diseases. However, OCA causes cholesteric pruritus (itch) in clinical trials. Hitherto no approach has been suggested to overcome the adverse effect of itch. New leading compound is needed to be discovered to overcome OCA-induced itch.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Through cryo-EM, molecular dynamics, biochemical and cellular assays, the structural mechanism of how bile acid derivatives stimulates their itch-related acceptor, hX4, was demonstrated. bile acid derivatives utilized their acidic functional group (sulfurylated and phosphorylated) to recognize hX4 basic pocket. Based on the structural observation, a new compound named C7 was designed to prevent binding of itch-related receptor hX4 but retaining drug effect for liver diseases in organism models and rat models. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.cell.2024.10.001</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-1-19-25</title>
+    <url>/2025/02/01/Article-summary-1-19-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
+<figure>
+    <img src="/2025/02/01/Article-summary-1-19-25/image-20250201212011127.png" alt="Histone monoaminylation shows dynamic and regulates neural rhythmicity" width="60%">
+    <figcaption>Histone monoaminylation shows dynamic and regulates neural rhythmicity</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Histone PTMs; Metabolic PTMs; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Post-translational modifications (PTMs) regulate chromatin-templated processes such as chromatin spatial organization and transcription to determine cell fate. Monoaminylation on histone H3 stands for a PTM that attaches a monoamine neurotransmitter such as dopamine and serotonin. Monoaminylation regulates neural transcription related processes. Previously discovered H3 monoaminylation is induced by TG2 enzyme, whereas the erasing mechanism and relationship among different H3 monoaminylations remains unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
+<p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-12-07-24</title>
+    <url>/2024/12/12/Article-summary-12-07-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Human HDAC6 senses valine abundancy to regulate DNA damage</strong></p>
+<figure>
+    <img src="/2024/12/12/Article-summary-12-07-24/image-20241212165045200.png" alt="Human HDAC6 senses valine abundancy to regulate DNA damage" width="60%">
+    <figcaption>HDAC is a sensor of valine leading to DNA damage and potent cancer treatment</figcaption>
+</figure>
+
+
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Small molecule metabolites; DNA damage; Novel cellular pathways</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Valine is one of the 20 essential amino acids. Valine takes part in various physiological pathways such as protein synthesis and leukemia genesis. However, how valine is sensed and what downstream effectors recognize valine remain unexplored. </p>
+<p>In addition, amino acid sensors mainly sense amino acids to regulate tRNA-related pathway or mTORC related pathway. Whether amino acid sensors regulate pathways except tRNA and mTORC remains unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here the article discovered that HDAC6, the deacetylase, is a valine sensor. Valine deprivation causes HDAC6 locating at nucleus rather than cytosol. Valine-caused HDAC6 relocation triggered TET2-TDG pathway to induce DNA damage. Moreover, induced valine deprivation could affect tumor growth through HDAC6-TET2-TDG pathway to trigger DNA damage. Low valine level reduced the tumor growth. Thus, valine-triggered HDAC6 sensing might be potential cancer treatment strategy in the future.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08248-5</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -61,6 +244,28 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
 <p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
+<figure>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -130,6 +335,28 @@
       </tags>
   </entry>
   <entry>
+    <title>GI screenshot 6/14/25</title>
+    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
+    <content><![CDATA[<p>GI screenshots taken in PS5</p>
+<span id="more"></span>
+
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
+]]></content>
+  </entry>
+  <entry>
     <title>Upload images to hexo-based github.io portfolio</title>
     <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
     <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
@@ -162,6 +389,69 @@
 
 <p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
 <h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
+]]></content>
+      <tags>
+        <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用Origin和Adobe Illustrator建立交联质谱图</title>
+    <url>/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/</url>
+    <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>使用Origin和Adobe Illustrator将原始的交联质谱数据转化为圆环形交联质谱图</p>
+<span id="more"></span>
+
+<h1 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h1><h2 id="Excel处理数据"><a href="#Excel处理数据" class="headerlink" title="Excel处理数据"></a>Excel处理数据</h2><p>为了方便在Origin中完成画图，我们需要将未经处理的质谱数据转化为两行-一交联对的格式。具体操作如下：</p>
+<h3 id="1-利用分列转化为单行数据"><a href="#1-利用分列转化为单行数据" class="headerlink" title="1. 利用分列转化为单行数据"></a>1. 利用分列转化为单行数据</h3><p>原始数据格式一般如下图所示。使用<strong>数据-分列</strong>，将括号等符号设为分列符，得到如下效果的一行-一交联的数据。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925144910256.png" alt="处理前后效果变化" width="60%"> 
+    <figcaption>处理前后效果变化</figcaption>
+</figure>
+
+<h3 id="2-利用插入行转化为双行数据"><a href="#2-利用插入行转化为双行数据" class="headerlink" title="2. 利用插入行转化为双行数据"></a>2. 利用插入行转化为双行数据</h3><p>接下来使用插入行功能，将一行-一交联的数据转化为两行-一交联的数据。</p>
+<p>首先如下图红色字样输入1,2交替的<strong>两个辅助列</strong> (1)。</p>
+<p>之后选中下图中框选区域部分<strong>开始-查找与选择-定位条件-空值</strong>，选中单元格后插入工作表行，得到隔行插入空行的数据(2)。</p>
+<p>之后向下移动后半部分数据一行(3)。</p>
+<p>之后选中下图(3)中选中部分，<strong>开始-查找与选择-定位条件-空值</strong>，选中单元格后删除-右方单元格左移，得到最终数据(4)。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925153359055.png" alt="利用插入行转化为双行数据" width="70%"> 
+    <figcaption>利用插入行转化为双行数据</figcaption>
+</figure>
+
+<h3 id="3-将双行数据转化为极坐标数据"><a href="#3-将双行数据转化为极坐标数据" class="headerlink" title="3. 将双行数据转化为极坐标数据"></a>3. 将双行数据转化为极坐标数据</h3><p>为了在Origin中得到圆环状交联色谱图，我们采用极坐标方式作图。这样我们需要将蛋白位点转化为极坐标的角度，每个位点需要有对应的角度数值。</p>
+<p>我们首先对每个蛋白进行编号。我们从0°开始，蛋白A,B,C顺序逆时针排列，那么蛋白B和C的残基编号需要在前面的基础上加一个值。假设A蛋白有150，B有600，C有900残基，蛋白之间的空白部分占80残基的体积。那么我们得到下图中左下角的表格信息。通过求和，我们能得到各个蛋白和空白需要增加的数值量。</p>
+<p>之后在左上角的双行数据中，选中对应蛋白编号(A,B,C)的列，并查找替换为需要增加的数值量(左上角第三列)，并通过求和得到最终编号(红字)。</p>
+<p>极坐标角度由 [(最终编号*360)&#x2F;(左下角total)] 的公式求得；轴长r统一设置为1. 这样我们得到了需要在Origin中画图的极坐标数据(黑框中的数据)。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925162225238.png" alt="将双行数据转化为极坐标数据" width="70%"> 
+    <figcaption>将双行数据转化为极坐标数据</figcaption>
+</figure>
+
+<h2 id="Origin处理数据"><a href="#Origin处理数据" class="headerlink" title="Origin处理数据"></a>Origin处理数据</h2><p>我们将上述极坐标数据复制粘贴到Origin中。选择下方极坐标格式开始作图，得到的是右下角的图像。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925163601298.png" alt="Origin创建极坐标图" width="70%"> 
+    <figcaption>Origin创建极坐标图</figcaption>
+</figure>
+
+<p>这个图像需要经过一些处理得到交联质谱图。1) 删除所有刻度线和坐标，只留下最外面的圆圈；2) 选择Plot details - Plot properties, Line-Connect 为2 Point Segment，这样使得只有每两个数据点之间进行连线，符合交联质谱对的双行数据。3) 改线条的长度颜色等。最后将图片导出。</p>
+<p>P.S. 如果需要高亮某一些交联对或者做区分颜色的交联对，可以先分别作图，统一主题格式之后，采用Graph-Merge graph window对两张图片进行merge，merge之后再保存即可。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925164612201.png" alt="Origin创建交联质谱图" width="70%"> 
+    <figcaption>Origin创建交联质谱图</figcaption>
+</figure>
+
+<h2 id="AI作外围蛋白卡通图"><a href="#AI作外围蛋白卡通图" class="headerlink" title="AI作外围蛋白卡通图"></a>AI作外围蛋白卡通图</h2><p>打开AI，首先用AI制造出一圆环，再画一个更大的圆，二者中心对齐，将大圆转为扇形。按照上一步Excel中计算好的开始-结束的角度，每一个蛋白就复制一个扇形，并且对准其所占据的角度，如下图所示，三个扇形分别代表A(150氨基酸)；B(600氨基酸)和C(900氨基酸)。</p>
+<p>选中圆环和所有扇形，点击<strong>路径查找器-分割</strong>，把圆环分割成小块，如下图右边所示。小块可以分别染色或者做风格处理。</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925170632898.png" alt="AI描绘交联质谱图" width="70%"> 
+    <figcaption>AI描绘交联质谱图</figcaption>
+</figure>
+
+<p>将Origin生成的交联质谱连线粘贴进AI或PPT，最终效果如下：</p>
+<figure>
+    <img src="/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/image-20240925171739938.png" alt="最终效果图" width="45%"> 
+    <figcaption>最终效果图</figcaption>
+</figure>
+
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
