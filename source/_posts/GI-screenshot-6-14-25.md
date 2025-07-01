@@ -1,7 +1,7 @@
 ---
 title: GI screenshot 6/14/25
 date: 2025-06-14 03:03:38
-tags:
+tags: Illustrations
 ---
 
 
