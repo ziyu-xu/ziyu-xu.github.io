@@ -101,22 +101,45 @@
       </tags>
   </entry>
   <entry>
-    <title>Article-summary-03-07-25</title>
-    <url>/2025/04/10/Article-summary-03-07-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
+    <title>Article Summary 7/19/25</title>
+    <url>/2025/07/27/Article-Summary-7-19-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation</strong></p>
 <figure>
-    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
-    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
+    <img src="/2025/07/27/Article-Summary-7-19-25/image-20250727160503105.png" alt="Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates" width="60%">
+    <figcaption> Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates </figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; ADPr-ubiquitination; Mass spectrometry; PTMs proteomics</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
-<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Crosstalks between post-translational modifications have been widely explored. Notably, for ADP-ribosylation involved in DNA repair and ubiquitination pivoted in protein degradation and signal transduction, complex interplays are established such as Ub42R ADP-ribosylation (found in bacteria Legionella) and ADP-ribose ubiquitination. ADP-ribose ubiquitination is introduced by DELTEX E3 ligase <em>in vitro</em> but no evidence of this composite modification is found in cell. It is attributed to the lack of mass spectrometry methodologies to probe the ADPr-Ub modification in high sensitivity.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article first demonstrated the inability of current sample procedure to detect ADPr-Ub modification. Then they established a strategy to probe cellular ADPr-Ub sites. By using ZUD domain of RNF114, which could bind ADP-Ub modification, they optimized the mass spectrometry sample preparation procedure and detect ADPr-Ub sites.</p>
+<p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
+<p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 9/14/24</title>
+    <url>/2024/09/15/Article-Summary-9-14-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
+<figure>
+    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
+    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
+<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -147,22 +170,44 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 9/14/24</title>
-    <url>/2024/09/15/Article-Summary-9-14-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
+    <title>Article-summary-03-07-25</title>
+    <url>/2025/04/10/Article-summary-03-07-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
 <figure>
-    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
-    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
+    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
+    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
-<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
+<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-1-19-25</title>
+    <url>/2025/02/01/Article-summary-1-19-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
+<figure>
+    <img src="/2025/02/01/Article-summary-1-19-25/image-20250201212011127.png" alt="Histone monoaminylation shows dynamic and regulates neural rhythmicity" width="60%">
+    <figcaption>Histone monoaminylation shows dynamic and regulates neural rhythmicity</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Histone PTMs; Metabolic PTMs; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Post-translational modifications (PTMs) regulate chromatin-templated processes such as chromatin spatial organization and transcription to determine cell fate. Monoaminylation on histone H3 stands for a PTM that attaches a monoamine neurotransmitter such as dopamine and serotonin. Monoaminylation regulates neural transcription related processes. Previously discovered H3 monoaminylation is induced by TG2 enzyme, whereas the erasing mechanism and relationship among different H3 monoaminylations remains unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
+<p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -206,28 +251,6 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
 <p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article-summary-1-19-25</title>
-    <url>/2025/02/01/Article-summary-1-19-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
-<figure>
-    <img src="/2025/02/01/Article-summary-1-19-25/image-20250201212011127.png" alt="Histone monoaminylation shows dynamic and regulates neural rhythmicity" width="60%">
-    <figcaption>Histone monoaminylation shows dynamic and regulates neural rhythmicity</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Histone PTMs; Metabolic PTMs; Genetics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Post-translational modifications (PTMs) regulate chromatin-templated processes such as chromatin spatial organization and transcription to determine cell fate. Monoaminylation on histone H3 stands for a PTM that attaches a monoamine neurotransmitter such as dopamine and serotonin. Monoaminylation regulates neural transcription related processes. Previously discovered H3 monoaminylation is induced by TG2 enzyme, whereas the erasing mechanism and relationship among different H3 monoaminylations remains unknown.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
-<p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -372,21 +395,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GI screenshot 8/21/24</title>
-    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
-    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
-<span id="more"></span>
-
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GI 5.7 幽境危战</title>
     <url>/2025/07/01/GI-5-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
@@ -449,6 +457,46 @@
       </tags>
   </entry>
   <entry>
+    <title>GI screenshot 8/21/24</title>
+    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
+    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
+<span id="more"></span>
+
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 6/14/25</title>
+    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
+    <content><![CDATA[<p>GI screenshots taken in PS5</p>
+<span id="more"></span>
+
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Upload images to hexo-based github.io portfolio</title>
     <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
     <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
@@ -484,50 +532,6 @@
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI screenshot 6/14/25</title>
-    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
-    <content><![CDATA[<p>GI screenshots taken in PS5</p>
-<span id="more"></span>
-
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔 2024/9/20</title>
-    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
-    <content><![CDATA[<p>不可放下骄傲之心</p>
-<span id="more"></span>
-
-<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
-<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
-<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
-<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
-<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
-<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
-<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
-<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
-]]></content>
-      <tags>
-        <tag>Essay</tag>
       </tags>
   </entry>
   <entry>
@@ -594,26 +598,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 7/19/25</title>
-    <url>/2025/07/27/Article-Summary-7-19-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation</strong></p>
-<figure>
-    <img src="/2025/07/27/Article-Summary-7-19-25/image-20250727160503105.png" alt="Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates" width="60%">
-    <figcaption> Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; ADPr-ubiquitination; Mass spectrometry; PTMs proteomics</p>
+    <title>随笔 2024/9/20</title>
+    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
+    <content><![CDATA[<p>不可放下骄傲之心</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Crosstalks between post-translational modifications have been widely explored. Notably, for ADP-ribosylation involved in DNA repair and ubiquitination pivoted in protein degradation and signal transduction, complex interplays are established such as Ub42R ADP-ribosylation (found in bacteria Legionella) and ADP-ribose ubiquitination. ADP-ribose ubiquitination is introduced by DELTEX E3 ligase <em>in vitro</em> but no evidence of this composite modification is found in cell. It is attributed to the lack of mass spectrometry methodologies to probe the ADPr-Ub modification in high sensitivity.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article first demonstrated the inability of current sample procedure to detect ADPr-Ub modification. Then they established a strategy to probe cellular ADPr-Ub sites. By using ZUD domain of RNF114, which could bind ADP-Ub modification, they optimized the mass spectrometry sample preparation procedure and detect ADPr-Ub sites.</p>
-<p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
-<p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
+<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
+<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
+<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
+<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
+<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
+<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
+<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
+<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
 ]]></content>
       <tags>
-        <tag>Articles</tag>
+        <tag>Essay</tag>
       </tags>
   </entry>
 </search>
