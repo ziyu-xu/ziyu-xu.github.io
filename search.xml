@@ -51,28 +51,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 5/24/25</title>
-    <url>/2025/05/26/Article-Summary-5-24-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
-<figure>
-    <img src="/2025/05/26/Article-Summary-5-24-25/image-20250526112842451.png" alt="TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion" width="60%">
-    <figcaption>TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>CRLs E3 ligase family; mitochondria dynamics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dynamics of mitochondria is intricately regulated. UPS-involved protein quality control regulates the level of mitochondria dynamic-related proteins. UPS involves E1&#x2F;E2&#x2F;E3 cascade enzymatic system in which E3 determines substrate specificity. CRLs complex family stands for the largest E3 family. CRL2 complex adapts different substrate receptors to engage different substrates, leading to UPS of different substrates. FEM1B is a CRL2 substrate receptor which recognizes ψ-Pro&#x2F;C-degron and Cys-degron. FEM1B-deficient cells show dysfunction of mitochondria, however the full substrate scope of FEM1B on mitochondria function does not clear. How does FEM1B regulate mitochondria dynamics?</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>To address this question, this work performed FEM1B-KO proteomic analysis and found PLD6 as CRL^FEM1B^ UPS degradation substrate. Cellular, biochemical and structural analysis revealed FEM1B degron-binding pocket bind PLD6 C-tail to promote its degradation. Next, they demonstrated FEM1B affects PLD6-mediated mitochondria dynamics. But does other factors affect FEM1B targeting mitochondria membrane? This work focused on mitochondria OM complex subunit TOM20. It co-locates with FEM1B and cells with TOM20 siRNA failed to locate FEM1B on mitochondria. Structural analysis indicated TOM20 interacts with FEM1B through hydrophobic interactions. Abortion of interaction abolished the regulation of FEM1B towards PLD6 level and mitochondria dynamics.</p>
-<p>Collectively, this work combined structural (cryo-EM), proteomics, cellular and biochemical approaches to depict the TOM20-FEM1B-PLD6 pathway in mitochondria dynamic regulation. However, why FEM1B recruitment on mitochondria is dependent on TOM20 but not PLD6, which also interacts with FEM1B, remains unknown. I hypothesized the abundance of TOM20 and PLD6 on mitochondria membrane is pivotal for the primary regulation determinant for FEM1B recruitment on mitochondria, or the two set of interactions are not sufficiently relevant. More exploration is needed to clarify the relationship between these interactions and why FEM1B recruitment is determined by TOM20 but not PLD6.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01894-4</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 6/21/25</title>
     <url>/2025/06/27/Article-Summary-06-21-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
@@ -124,22 +102,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 9/14/24</title>
-    <url>/2024/09/15/Article-Summary-9-14-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
+    <title>Article Summary 5/24/25</title>
+    <url>/2025/05/26/Article-Summary-5-24-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
 <figure>
-    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
-    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
+    <img src="/2025/05/26/Article-Summary-5-24-25/image-20250526112842451.png" alt="TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion" width="60%">
+    <figcaption>TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>CRLs E3 ligase family; mitochondria dynamics</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
-<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dynamics of mitochondria is intricately regulated. UPS-involved protein quality control regulates the level of mitochondria dynamic-related proteins. UPS involves E1&#x2F;E2&#x2F;E3 cascade enzymatic system in which E3 determines substrate specificity. CRLs complex family stands for the largest E3 family. CRL2 complex adapts different substrate receptors to engage different substrates, leading to UPS of different substrates. FEM1B is a CRL2 substrate receptor which recognizes ψ-Pro&#x2F;C-degron and Cys-degron. FEM1B-deficient cells show dysfunction of mitochondria, however the full substrate scope of FEM1B on mitochondria function does not clear. How does FEM1B regulate mitochondria dynamics?</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>To address this question, this work performed FEM1B-KO proteomic analysis and found PLD6 as CRL^FEM1B^ UPS degradation substrate. Cellular, biochemical and structural analysis revealed FEM1B degron-binding pocket bind PLD6 C-tail to promote its degradation. Next, they demonstrated FEM1B affects PLD6-mediated mitochondria dynamics. But does other factors affect FEM1B targeting mitochondria membrane? This work focused on mitochondria OM complex subunit TOM20. It co-locates with FEM1B and cells with TOM20 siRNA failed to locate FEM1B on mitochondria. Structural analysis indicated TOM20 interacts with FEM1B through hydrophobic interactions. Abortion of interaction abolished the regulation of FEM1B towards PLD6 level and mitochondria dynamics.</p>
+<p>Collectively, this work combined structural (cryo-EM), proteomics, cellular and biochemical approaches to depict the TOM20-FEM1B-PLD6 pathway in mitochondria dynamic regulation. However, why FEM1B recruitment on mitochondria is dependent on TOM20 but not PLD6, which also interacts with FEM1B, remains unknown. I hypothesized the abundance of TOM20 and PLD6 on mitochondria membrane is pivotal for the primary regulation determinant for FEM1B recruitment on mitochondria, or the two set of interactions are not sufficiently relevant. More exploration is needed to clarify the relationship between these interactions and why FEM1B recruitment is determined by TOM20 but not PLD6.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01894-4</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -164,6 +142,50 @@
 <p>Next, to explore the mechanism by which NSD3S used to escape PARPi, they revealed NSD3S is phosphorylated and recruited to DNA replication fork and stabilizing the fork. Binding of NSD3S to replication fork requires PT1P, which generates a competition between NSD3S and nuclease MRE11 (which also requires PT1P to bind replication fork), thus preventing sufficient digestion of replication fork by MRE11.</p>
 <p>Finally, they systematically evaluated the relationship between NSD3S level in cell and PARPi resistance. They also searched the NSD3S-PARPi resistance relationship in ovarian cancer patients. They claimed NSD3S is competitive for playing as a PARPi resistance biomarker.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.molcel.2025.06.004</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 9/14/24</title>
+    <url>/2024/09/15/Article-Summary-9-14-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
+<figure>
+    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
+    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
+<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 04-26-25</title>
+    <url>/2025/05/08/Article-summary-04-26-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
+<figure>
+    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
+    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
+<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -235,28 +257,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 04-26-25</title>
-    <url>/2025/05/08/Article-summary-04-26-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
-<figure>
-    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
-    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
-<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article-summary-12-07-24</title>
     <url>/2024/12/12/Article-summary-12-07-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Human HDAC6 senses valine abundancy to regulate DNA damage</strong></p>
@@ -281,28 +281,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 8/23/24</title>
-    <url>/2024/08/23/Article-summary-8-23-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
-<figure>
-    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
-    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
-<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article summary 8/21/24</title>
     <url>/2024/08/21/Article-summary-8-21-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
@@ -319,6 +297,28 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
 <p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 8/23/24</title>
+    <url>/2024/08/23/Article-summary-8-23-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
+<figure>
+    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
+    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
+<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -367,28 +367,6 @@
 <p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
 <p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
 <h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article-summary-9-30-24</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -454,6 +432,28 @@
 ]]></content>
       <tags>
         <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
+<figure>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
       </tags>
   </entry>
   <entry>
