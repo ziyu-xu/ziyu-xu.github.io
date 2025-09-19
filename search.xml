@@ -1,56 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>8小时组装核小体尝试</title>
-    <url>/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/</url>
-    <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>在1天的上班时间内完成核小体的组装和Native-PAGE表征</p>
-<span id="more"></span>
-
-<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>Reconstitution of Nucleosome Core Particles from Recombinant Histones and DNA</p>
-<p>Journal: <em>Methods in Enzymology</em></p>
-<p><a href="https://doi.org/10.1016/S0076-6879(03)75002-2">10.1016&#x2F;S0076-6879(03)75002-2</a></p>
-<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><figure>
-    <img src="/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/image-20250520221707526.png" alt="核小体体外组装机理" width="60%">
-    <figcaption>核小体体外组装机理</figcaption>
-</figure>
-
-<p>在分步透析的过程中，八聚体和DNA逐渐缠绕并形成核小体结构。体外组装的经验来讲，当盐浓度在1.3M以上时，透析可以较快进行；600-1000mM之间时，梯度透析应缓慢，确保核小体结构的正确形成；500mM以下时，可以直接透析至无盐溶液中，完成核小体的组装。</p>
-<p>组装核小体中常见的问题有：1) 核小体出现沉淀。这一般是由于八聚体:DNA比例不对、八聚体自身成分有误所导致，使得八聚体与DNA形成聚集体沉淀。此时需要重新验证八聚体跑胶条带是否正确、浓度测定是否精确。2) 没有沉淀，但跑胶条带弥散，这可能是由于核小体组装浓度太低导致的。一般来讲，对于中量组装核小体（0.05-0.5mg DNA），0.1-0.3mg&#x2F;mL的DNA浓度可能是比较合适的。如果DNA浓度过稀，核小体组装可能受到影响。</p>
-<h1 id="中量组装核小体-0-02-0-5mg"><a href="#中量组装核小体-0-02-0-5mg" class="headerlink" title="中量组装核小体 (0.02-0.5mg)"></a>中量组装核小体 (0.02-0.5mg)</h1><h2 id="混合核小体各组分"><a href="#混合核小体各组分" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><ol>
-<li>准备冰盒和冰，冰上解冻八聚体，常温解冻DNA</li>
-<li>先将DNA和5M NaCl混合，直到盐浓度为2~2.5M </li>
-<li>加入对应八聚体，摩尔比1:1</li>
-</ol>
-<h2 id="分步透析-（每步至少1-5小时，建议2小时）"><a href="#分步透析-（每步至少1-5小时，建议2小时）" class="headerlink" title="分步透析 （每步至少1.5小时，建议2小时）"></a>分步透析 （每步至少1.5小时，建议2小时）</h2><ol>
-<li>所有操作在冷室中（5摄氏度）进行。</li>
-<li>将混合的DNA-八聚体混合溶液透析到含有1.4 M NaCl的HE溶液中</li>
-<li>透析到0.85 M NaCl的HE溶液中</li>
-<li>透析到0.65 M NaCl的HE溶液中</li>
-<li>透析到0.2 M NaCl的HE溶液中</li>
-<li>如有需要，透析到HE溶液中</li>
-</ol>
-<h2 id="表征"><a href="#表征" class="headerlink" title="表征"></a>表征</h2><ol>
-<li>配置PAGE胶，一般4.5%聚丙烯酰胺浓度，1.5mm厚度，十孔即可</li>
-<li>上样核小体，以约30-50ng DNA量计算，跑胶150V大约45-60min</li>
-<li>使用SYBR Gold染胶5分钟</li>
-</ol>
-<h1 id="微量组装核小体"><a href="#微量组装核小体" class="headerlink" title="微量组装核小体 (&lt;0.01mg)"></a>微量组装核小体 (&lt;0.01mg)</h1><h2 id="混合核小体各组分-1"><a href="#混合核小体各组分-1" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><p>以组装0.002mg核小体为例。取1000ng&#x2F;μL DNA 2uL，加入18μL 2M NaCl，再加相应比例的八聚体。</p>
-<h2 id="分步稀释-（每步1-1-5小时）"><a href="#分步稀释-（每步1-1-5小时）" class="headerlink" title="分步稀释 （每步1-1.5小时）"></a>分步稀释 （每步1-1.5小时）</h2><ol>
-<li>以下步骤需要在常温（约20摄氏度）中进行，在4度进行时，可能会导致核小体条带弥散，也有可能影响不大。</li>
-<li>以上述的20μL体系为例，加入20μL HE溶液，使得盐浓度下降至1 M</li>
-<li>加入10μL HE溶液，使得盐浓度下降至0.8 M</li>
-<li>加入10μL HE溶液，使得盐浓度下降至0.67 M</li>
-<li>加入140uL HE溶液，使得盐浓度下降至0.22M</li>
-</ol>
-<h2 id="表征-1"><a href="#表征-1" class="headerlink" title="表征"></a>表征</h2><p>与中量组装部分相同。</p>
-<h1 id="整体效果"><a href="#整体效果" class="headerlink" title="整体效果"></a>整体效果</h1><p>目前对中量和微量两种核小体组装方法进行了尝试。从Native PAGE的表征来看，使用中量组装方法比较稳妥，跑胶时出现的游离DNA条带较少，小于20%。游离DNA可以通过DEAE离子交换柱子分掉，所以中量组装方法能够在一天时间内完成从开始组装到纯化完毕的一条龙。</p>
-<p>对于微量组装方法，跑胶时发现只有大约60%的DNA组装成为了核小体，有40%在胶上以游离DNA形式出现。因此微量组装方法的可靠程度较低。事实上，无论是在室温还是在4度孵育，核小体的形成比例没有特别明显的变化。这可能暗示温度并非影响600-800mM盐浓度期间核小体组装的决定因素，盐浓度以及其持续时间都对核小体的组装有影响。从这个角度来看，通过透析形成的温和稀释条件，对于核小体的组装来说，显然是更优于直接稀释的暴力条件的。这一点上，核小体的组装与蛋白的变复性过程如出一辙。</p>
-]]></content>
-      <tags>
-        <tag>Tutorials</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 25/8/23</title>
     <url>/2025/08/25/Article-Summary-25-8-23/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>NASP modulates histone turnover to drive PARP inhibitor resistance</strong></p>
@@ -124,6 +74,78 @@
       </tags>
   </entry>
   <entry>
+    <title>8小时组装核小体尝试</title>
+    <url>/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/</url>
+    <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>在1天的上班时间内完成核小体的组装和Native-PAGE表征</p>
+<span id="more"></span>
+
+<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h1><p>Reconstitution of Nucleosome Core Particles from Recombinant Histones and DNA</p>
+<p>Journal: <em>Methods in Enzymology</em></p>
+<p><a href="https://doi.org/10.1016/S0076-6879(03)75002-2">10.1016&#x2F;S0076-6879(03)75002-2</a></p>
+<h1 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h1><figure>
+    <img src="/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/image-20250520221707526.png" alt="核小体体外组装机理" width="60%">
+    <figcaption>核小体体外组装机理</figcaption>
+</figure>
+
+<p>在分步透析的过程中，八聚体和DNA逐渐缠绕并形成核小体结构。体外组装的经验来讲，当盐浓度在1.3M以上时，透析可以较快进行；600-1000mM之间时，梯度透析应缓慢，确保核小体结构的正确形成；500mM以下时，可以直接透析至无盐溶液中，完成核小体的组装。</p>
+<p>组装核小体中常见的问题有：1) 核小体出现沉淀。这一般是由于八聚体:DNA比例不对、八聚体自身成分有误所导致，使得八聚体与DNA形成聚集体沉淀。此时需要重新验证八聚体跑胶条带是否正确、浓度测定是否精确。2) 没有沉淀，但跑胶条带弥散，这可能是由于核小体组装浓度太低导致的。一般来讲，对于中量组装核小体（0.05-0.5mg DNA），0.1-0.3mg&#x2F;mL的DNA浓度可能是比较合适的。如果DNA浓度过稀，核小体组装可能受到影响。</p>
+<h1 id="中量组装核小体-0-02-0-5mg"><a href="#中量组装核小体-0-02-0-5mg" class="headerlink" title="中量组装核小体 (0.02-0.5mg)"></a>中量组装核小体 (0.02-0.5mg)</h1><h2 id="混合核小体各组分"><a href="#混合核小体各组分" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><ol>
+<li>准备冰盒和冰，冰上解冻八聚体，常温解冻DNA</li>
+<li>先将DNA和5M NaCl混合，直到盐浓度为2~2.5M </li>
+<li>加入对应八聚体，摩尔比1:1</li>
+</ol>
+<h2 id="分步透析-（每步至少1-5小时，建议2小时）"><a href="#分步透析-（每步至少1-5小时，建议2小时）" class="headerlink" title="分步透析 （每步至少1.5小时，建议2小时）"></a>分步透析 （每步至少1.5小时，建议2小时）</h2><ol>
+<li>所有操作在冷室中（5摄氏度）进行。</li>
+<li>将混合的DNA-八聚体混合溶液透析到含有1.4 M NaCl的HE溶液中</li>
+<li>透析到0.85 M NaCl的HE溶液中</li>
+<li>透析到0.65 M NaCl的HE溶液中</li>
+<li>透析到0.2 M NaCl的HE溶液中</li>
+<li>如有需要，透析到HE溶液中</li>
+</ol>
+<h2 id="表征"><a href="#表征" class="headerlink" title="表征"></a>表征</h2><ol>
+<li>配置PAGE胶，一般4.5%聚丙烯酰胺浓度，1.5mm厚度，十孔即可</li>
+<li>上样核小体，以约30-50ng DNA量计算，跑胶150V大约45-60min</li>
+<li>使用SYBR Gold染胶5分钟</li>
+</ol>
+<h1 id="微量组装核小体"><a href="#微量组装核小体" class="headerlink" title="微量组装核小体 (&lt;0.01mg)"></a>微量组装核小体 (&lt;0.01mg)</h1><h2 id="混合核小体各组分-1"><a href="#混合核小体各组分-1" class="headerlink" title="混合核小体各组分"></a>混合核小体各组分</h2><p>以组装0.002mg核小体为例。取1000ng&#x2F;μL DNA 2uL，加入18μL 2M NaCl，再加相应比例的八聚体。</p>
+<h2 id="分步稀释-（每步1-1-5小时）"><a href="#分步稀释-（每步1-1-5小时）" class="headerlink" title="分步稀释 （每步1-1.5小时）"></a>分步稀释 （每步1-1.5小时）</h2><ol>
+<li>以下步骤需要在常温（约20摄氏度）中进行，在4度进行时，可能会导致核小体条带弥散，也有可能影响不大。</li>
+<li>以上述的20μL体系为例，加入20μL HE溶液，使得盐浓度下降至1 M</li>
+<li>加入10μL HE溶液，使得盐浓度下降至0.8 M</li>
+<li>加入10μL HE溶液，使得盐浓度下降至0.67 M</li>
+<li>加入140uL HE溶液，使得盐浓度下降至0.22M</li>
+</ol>
+<h2 id="表征-1"><a href="#表征-1" class="headerlink" title="表征"></a>表征</h2><p>与中量组装部分相同。</p>
+<h1 id="整体效果"><a href="#整体效果" class="headerlink" title="整体效果"></a>整体效果</h1><p>目前对中量和微量两种核小体组装方法进行了尝试。从Native PAGE的表征来看，使用中量组装方法比较稳妥，跑胶时出现的游离DNA条带较少，小于20%。游离DNA可以通过DEAE离子交换柱子分掉，所以中量组装方法能够在一天时间内完成从开始组装到纯化完毕的一条龙。</p>
+<p>对于微量组装方法，跑胶时发现只有大约60%的DNA组装成为了核小体，有40%在胶上以游离DNA形式出现。因此微量组装方法的可靠程度较低。事实上，无论是在室温还是在4度孵育，核小体的形成比例没有特别明显的变化。这可能暗示温度并非影响600-800mM盐浓度期间核小体组装的决定因素，盐浓度以及其持续时间都对核小体的组装有影响。从这个角度来看，通过透析形成的温和稀释条件，对于核小体的组装来说，显然是更优于直接稀释的暴力条件的。这一点上，核小体的组装与蛋白的变复性过程如出一辙。</p>
+]]></content>
+      <tags>
+        <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-03-07-25</title>
+    <url>/2025/04/10/Article-summary-03-07-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
+<figure>
+    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
+    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
+<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article Summary 7/19/25</title>
     <url>/2025/07/27/Article-Summary-7-19-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation</strong></p>
@@ -141,6 +163,28 @@
 <p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
 <p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 04-26-25</title>
+    <url>/2025/05/08/Article-summary-04-26-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
+<figure>
+    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
+    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
+<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -193,44 +237,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article-summary-03-07-25</title>
-    <url>/2025/04/10/Article-summary-03-07-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
+    <title>Article summary 8/21/24</title>
+    <url>/2024/08/21/Article-summary-8-21-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
 <figure>
-    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
-    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
+    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
+    <figcaption>Ub-POD strategy</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
-<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article summary 04-26-25</title>
-    <url>/2025/05/08/Article-summary-04-26-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
-<figure>
-    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
-    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
-<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
+<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -280,6 +302,28 @@
       </tags>
   </entry>
   <entry>
+    <title>Article summary 8/23/24</title>
+    <url>/2024/08/23/Article-summary-8-23-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
+<figure>
+    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
+    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
+<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article-summary-12-07-24</title>
     <url>/2024/12/12/Article-summary-12-07-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Human HDAC6 senses valine abundancy to regulate DNA damage</strong></p>
@@ -298,98 +342,6 @@
 <p>In addition, amino acid sensors mainly sense amino acids to regulate tRNA-related pathway or mTORC related pathway. Whether amino acid sensors regulate pathways except tRNA and mTORC remains unknown.</p>
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here the article discovered that HDAC6, the deacetylase, is a valine sensor. Valine deprivation causes HDAC6 locating at nucleus rather than cytosol. Valine-caused HDAC6 relocation triggered TET2-TDG pathway to induce DNA damage. Moreover, induced valine deprivation could affect tumor growth through HDAC6-TET2-TDG pathway to trigger DNA damage. Low valine level reduced the tumor growth. Thus, valine-triggered HDAC6 sensing might be potential cancer treatment strategy in the future.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08248-5</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article-summary-9-30-24</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article summary 8/21/24</title>
-    <url>/2024/08/21/Article-summary-8-21-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
-<figure>
-    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
-    <figcaption>Ub-POD strategy</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
-<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article summary 8/27/24</title>
-    <url>/2024/08/27/Article-summary-8-27-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bridging of DNA breaks activates PARP2–HPF1  to modify chromatin</strong></p>
-<p><figure><img src="/2024/08/27/Article-summary-8-27-24/image-20240827144403556.png" alt="Cryo-EM structure of PARP2/HPF1 bound to nucleosome"><figcaption aria-hidden="true">Cryo-EM structure of PARP2/HPF1 bound to nucleosome</figcaption></figure></p>
-<h2 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Nature</strong></em></p>
-<h2 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h2><p>Nucleosome; PARP1; Cryo-EM structure</p>
-<span id="more"></span>
-
-<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>To respond DNA strand break, PARP1 and its paralogue PARP2 assemble at chromatin and ADP-ribosylate (ADPr) histones. PARP-mediated histone ADPr relies on cofactor HPF1, which switches PARP1 residue preference from Glu&#x2F;Asp to Ser. ADPr chromatin then recruits downstream effectors to promote DNA repair pathway. However, the mechanism of PARP enzymes recognizing chromatin DNA breaks remains elusive. </p>
-<h2 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h2><p>I. Determine the cryo-EM structure of PARP2&#x2F;HPF1 bound to nucleosome. PARP2&#x2F;HPF1 forms 2:2 complex with nucleosome. Local focused classification is used to raise resolution: 2.2Å and 2.8Å resolution for 2 NCPs, 3.9Å for PARP2&#x2F;HPF1. </p>
-<p>II. Analysis of interaction surface. PARP2 WGR domain interacts with DNA double strand break, that is, the internucleosomal connection site of the two linker DNA. PARP1 HD domain interacts with nucleosomal DNA, while HPF1 loop lysines interacts with SHL-7 and 7 DNA on another nucleosome. <strong>HPF1 mutation affects complex formation, which is visualized by native-PAGE.</strong></p>
-<p>III. Interaction between DNA break and PARP2. Through native-PAGE and in-gel ADP-ribosylation assay, they confirmed that DNA break bridging could activate PARP2 self-catalysis activity. Also, DNA-binding defect PARP2 mutant is less prone to form ternary complex and modify H3. Comparing the prior-activated PARP1&#x2F;DNA complex, both HD helix and signal loop shifted, indicating the cascade-triggered conformation change-caused PARP2 activation upon NCP binding. </p>
-<p>IV. Hypothesized PARP2&#x2F;HPF1 catalytic cycle. Two more conformations are resolved, demonstrating two more open state (at active site) that accommodate H3 tail entry. </p>
-<p>V. Hypothesized overview ADPr mechanism. Found that PARP2&#x2F;HPF1&#x2F;NCP complex dissociates gradually after NAD+ addition. Enhanced PARP2 auto-modification after histone ADPr. Proposed mechanism: first ADPr histone to recruit downstream effectors, then auto-ADPr to disassembly the PARP2&#x2F;HPF1&#x2F;NCP ternary complex.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-020-2725-7</p>
-<h1 id="Article-title-2"><a href="#Article-title-2" class="headerlink" title="Article title #2"></a>Article title #2</h1><p><strong>Dual function of HPF1 in the modulation of PARP1 and PARP2 activities</strong></p>
-<figure>
-    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214522777.png" alt="HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio" width="80%">
-    <figcaption>HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio</figcaption>
-</figure>
-
-<h2 id="Journal-1"><a href="#Journal-1" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Communications biology</strong></em></p>
-<h2 id="Tags-1"><a href="#Tags-1" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1 </p>
-<h2 id="Introduction-1"><a href="#Introduction-1" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 and PARP2 are of same PARP family enzymes while PARP1 possesses 3 more zinc fingers, which bind DNA. PARP1 and PARP2 exhibit distinct activity behaviors. How co-factor HPF1 regulates PARP1 and PARP2 catalytic activity on nucleosome as well as auto-modification remain largely unexplored.</p>
-<h2 id="This-work-1"><a href="#This-work-1" class="headerlink" title="This work"></a>This work</h2><p>This work explored how HPF1 activates PARP1 and PARP2. Using autoradiograms, they found that HPF1 stimulates PARP1&#x2F;2 auto-modification as well as histone ADP-ribosylation. However the stimulation is limited to a defined range (about 0.5-2eq PARP1) while too high HPF1 concentration leads to declined ADPr chain length. In addition, NAD+ concentration also affects ADPr chain formation.</p>
-<p>Overall, PARP1 and PARP2 hardly distinct from each other in catalytic behavior combined with HPF1. However PARP1 and PARP2 have different intrinsic activity towards themselves or nucleosome substrates.</p>
-<p>Autoradiogram gels seem smear and heterogenous. </p>
-<p>Hydroxylamine is used to cleave Asp&#x2F;Glu-modified ADPr chain.</p>
-<h2 id="doi-1"><a href="#doi-1" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s42003-021-02780-0</p>
-<h1 id="Article-title-3"><a href="#Article-title-3" class="headerlink" title="Article title #3"></a>Article title #3</h1><p><strong>Serine ADP-Ribosylation Depends on HPF1</strong></p>
-<figure>
-    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214734173.png" alt="Serine ADP-Ribosylation Depends on HPF1" width="60%">
-    <figcaption>Serine ADP-Ribosylation Depends on HPF1</figcaption>
-</figure>
-
-<h2 id="Journal-2"><a href="#Journal-2" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Molecular Cell</strong></em></p>
-<h2 id="Tags-2"><a href="#Tags-2" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1; Nucleosome; MS</p>
-<h2 id="Introduction-2"><a href="#Introduction-2" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 is the major enzyme catalyzing histone ADPr modification. Previously, histone serine-modification is found in DNA damage response while HPF1 is found to be PARP1 co-factor and helps PARP1 ADP-ribosylate histones. However, the chemical basis of PARP1-catalyzed histone ADPr is yet unknown.</p>
-<h2 id="This-work-2"><a href="#This-work-2" class="headerlink" title="This work"></a>This work</h2><p>Using SILAC-based unbiased MS analysis, they extracted cell histones and found the ADPr modification sites. As well, they found that histone ADPr relies on HPF1. </p>
-<p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
-<p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
-<h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -458,22 +410,172 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 8/23/24</title>
-    <url>/2024/08/23/Article-summary-8-23-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
+    <title>GI 6.0 幽境危战</title>
+    <url>/2025/09/19/GI-6-0-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>第二间极其需要菈乌玛；第三间除了牛牛以外的0+0雷C，力度已经不太够了。第一间较为好打。</p>
+<span id="more"></span>
+
+<h2 id="兆载永劫龙兽-94s"><a href="#兆载永劫龙兽-94s" class="headerlink" title="兆载永劫龙兽 94s"></a>兆载永劫龙兽 94s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命35444 双暴90&#x2F;210 充能197</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
+<p><strong>@ 息灾</strong> R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 攻击2567 双暴81&#x2F;143 充能172</p>
+<h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
+<p><strong>@ 讨龙</strong> R5 Lv.20 </p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
+<p><strong>%</strong> 充能229</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_3-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2806 双暴74&#x2F;239</p>
+<p>由于卡生命比例加抗性的机制，需要让丝柯克在转换抗性之前打尽可能多的伤害，需要卡爆发期.</p>
+<h2 id="绽放岩居蟹-93s"><a href="#绽放岩居蟹-93s" class="headerlink" title="绽放岩居蟹 93s"></a>绽放岩居蟹 93s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv86_C0_1-6-7</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5 Lv.80 </p>
+<p><strong>&amp; 深林的记忆4</strong>  充能  精通  精通</p>
+<p><strong>%</strong> 精通898 充能215 双暴30&#x2F;104 攻击1101</p>
+<h3 id="行秋-剧诗Buff"><a href="#行秋-剧诗Buff" class="headerlink" title="行秋 (剧诗Buff)"></a>行秋 (剧诗Buff)</h3><p><strong>Lv90_C6_1-11-12</strong></p>
+<p><strong>@ 祭礼剑</strong> R5 </p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 攻击1270 双暴62&#x2F;130 充能248</p>
+<h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 祭礼残章</strong> R5 </p>
+<p><strong>&amp; 饰金之梦4</strong>  精通  草伤  暴击</p>
+<p><strong>%</strong> 精通819 充能120 双暴51&#x2F;133 攻击1132</p>
+<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
+<p><strong>@ 西福斯的月光</strong> R3</p>
+<p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通877 生命26001 充能134</p>
+<p>半刚需菈乌玛，一个长E可以同时激活6个蘑菇。如果只用小草打由于缺水，会非常麻烦</p>
+<h2 id="火刃突击队员-感电锅-100s"><a href="#火刃突击队员-感电锅-100s" class="headerlink" title="火刃突击队员 (感电锅) 100s"></a>火刃突击队员 (感电锅) 100s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 静水流涌之辉</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 双暴88&#x2F;229 生命30349 充能164 </p>
+<h3 id="欧洛伦"><a href="#欧洛伦" class="headerlink" title="欧洛伦"></a>欧洛伦</h3><p><strong>Lv85_C0_1-10-8</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
+<p><strong>&amp; 烬城勇者绘卷4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 攻击1579 双暴58&#x2F;129 充能218</p>
+<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
+<p><strong>@ 西风秘典</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>   充能 攻击 暴击</p>
+<p><strong>%</strong> 攻击2314 充能239 暴击44</p>
+<h3 id="瓦雷莎-赋光"><a href="#瓦雷莎-赋光" class="headerlink" title="瓦雷莎 (赋光)"></a>瓦雷莎 (赋光)</h3><p><strong>Lv87_C0_9-8-9</strong></p>
+<p><strong>@ 流浪乐章</strong> R5</p>
+<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 攻击1900 双暴87&#x2F;200 充能117</p>
+<p>难打，主要还有回复盾，需要感电来抑制回复效果</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 6/14/25</title>
+    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
+    <content><![CDATA[<p>GI screenshots taken in PS5</p>
+<span id="more"></span>
+
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 8/27/24</title>
+    <url>/2024/08/27/Article-summary-8-27-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bridging of DNA breaks activates PARP2–HPF1  to modify chromatin</strong></p>
+<p><figure><img src="/2024/08/27/Article-summary-8-27-24/image-20240827144403556.png" alt="Cryo-EM structure of PARP2/HPF1 bound to nucleosome"><figcaption aria-hidden="true">Cryo-EM structure of PARP2/HPF1 bound to nucleosome</figcaption></figure></p>
+<h2 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Nature</strong></em></p>
+<h2 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h2><p>Nucleosome; PARP1; Cryo-EM structure</p>
+<span id="more"></span>
+
+<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>To respond DNA strand break, PARP1 and its paralogue PARP2 assemble at chromatin and ADP-ribosylate (ADPr) histones. PARP-mediated histone ADPr relies on cofactor HPF1, which switches PARP1 residue preference from Glu&#x2F;Asp to Ser. ADPr chromatin then recruits downstream effectors to promote DNA repair pathway. However, the mechanism of PARP enzymes recognizing chromatin DNA breaks remains elusive. </p>
+<h2 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h2><p>I. Determine the cryo-EM structure of PARP2&#x2F;HPF1 bound to nucleosome. PARP2&#x2F;HPF1 forms 2:2 complex with nucleosome. Local focused classification is used to raise resolution: 2.2Å and 2.8Å resolution for 2 NCPs, 3.9Å for PARP2&#x2F;HPF1. </p>
+<p>II. Analysis of interaction surface. PARP2 WGR domain interacts with DNA double strand break, that is, the internucleosomal connection site of the two linker DNA. PARP1 HD domain interacts with nucleosomal DNA, while HPF1 loop lysines interacts with SHL-7 and 7 DNA on another nucleosome. <strong>HPF1 mutation affects complex formation, which is visualized by native-PAGE.</strong></p>
+<p>III. Interaction between DNA break and PARP2. Through native-PAGE and in-gel ADP-ribosylation assay, they confirmed that DNA break bridging could activate PARP2 self-catalysis activity. Also, DNA-binding defect PARP2 mutant is less prone to form ternary complex and modify H3. Comparing the prior-activated PARP1&#x2F;DNA complex, both HD helix and signal loop shifted, indicating the cascade-triggered conformation change-caused PARP2 activation upon NCP binding. </p>
+<p>IV. Hypothesized PARP2&#x2F;HPF1 catalytic cycle. Two more conformations are resolved, demonstrating two more open state (at active site) that accommodate H3 tail entry. </p>
+<p>V. Hypothesized overview ADPr mechanism. Found that PARP2&#x2F;HPF1&#x2F;NCP complex dissociates gradually after NAD+ addition. Enhanced PARP2 auto-modification after histone ADPr. Proposed mechanism: first ADPr histone to recruit downstream effectors, then auto-ADPr to disassembly the PARP2&#x2F;HPF1&#x2F;NCP ternary complex.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-020-2725-7</p>
+<h1 id="Article-title-2"><a href="#Article-title-2" class="headerlink" title="Article title #2"></a>Article title #2</h1><p><strong>Dual function of HPF1 in the modulation of PARP1 and PARP2 activities</strong></p>
 <figure>
-    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
-    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214522777.png" alt="HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio" width="80%">
+    <figcaption>HPF1 regulates PARP1 behavior dependent of NAD and HPF1:PARP1 ratio</figcaption>
+</figure>
+
+<h2 id="Journal-1"><a href="#Journal-1" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Communications biology</strong></em></p>
+<h2 id="Tags-1"><a href="#Tags-1" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1 </p>
+<h2 id="Introduction-1"><a href="#Introduction-1" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 and PARP2 are of same PARP family enzymes while PARP1 possesses 3 more zinc fingers, which bind DNA. PARP1 and PARP2 exhibit distinct activity behaviors. How co-factor HPF1 regulates PARP1 and PARP2 catalytic activity on nucleosome as well as auto-modification remain largely unexplored.</p>
+<h2 id="This-work-1"><a href="#This-work-1" class="headerlink" title="This work"></a>This work</h2><p>This work explored how HPF1 activates PARP1 and PARP2. Using autoradiograms, they found that HPF1 stimulates PARP1&#x2F;2 auto-modification as well as histone ADP-ribosylation. However the stimulation is limited to a defined range (about 0.5-2eq PARP1) while too high HPF1 concentration leads to declined ADPr chain length. In addition, NAD+ concentration also affects ADPr chain formation.</p>
+<p>Overall, PARP1 and PARP2 hardly distinct from each other in catalytic behavior combined with HPF1. However PARP1 and PARP2 have different intrinsic activity towards themselves or nucleosome substrates.</p>
+<p>Autoradiogram gels seem smear and heterogenous. </p>
+<p>Hydroxylamine is used to cleave Asp&#x2F;Glu-modified ADPr chain.</p>
+<h2 id="doi-1"><a href="#doi-1" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s42003-021-02780-0</p>
+<h1 id="Article-title-3"><a href="#Article-title-3" class="headerlink" title="Article title #3"></a>Article title #3</h1><p><strong>Serine ADP-Ribosylation Depends on HPF1</strong></p>
+<figure>
+    <img src="/2024/08/27/Article-summary-8-27-24/image-20240902214734173.png" alt="Serine ADP-Ribosylation Depends on HPF1" width="60%">
+    <figcaption>Serine ADP-Ribosylation Depends on HPF1</figcaption>
+</figure>
+
+<h2 id="Journal-2"><a href="#Journal-2" class="headerlink" title="Journal"></a>Journal</h2><p><em><strong>Molecular Cell</strong></em></p>
+<h2 id="Tags-2"><a href="#Tags-2" class="headerlink" title="Tags"></a>Tags</h2><p>Biochemistry; PARP1; Nucleosome; MS</p>
+<h2 id="Introduction-2"><a href="#Introduction-2" class="headerlink" title="Introduction"></a>Introduction</h2><p>PARP1 is the major enzyme catalyzing histone ADPr modification. Previously, histone serine-modification is found in DNA damage response while HPF1 is found to be PARP1 co-factor and helps PARP1 ADP-ribosylate histones. However, the chemical basis of PARP1-catalyzed histone ADPr is yet unknown.</p>
+<h2 id="This-work-2"><a href="#This-work-2" class="headerlink" title="This work"></a>This work</h2><p>Using SILAC-based unbiased MS analysis, they extracted cell histones and found the ADPr modification sites. As well, they found that histone ADPr relies on HPF1. </p>
+<p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
+<p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
+<h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 8/21/24</title>
+    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
+    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
+<span id="more"></span>
+
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
+<figure>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
 </figure>
 
 <h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
-<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -543,46 +645,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GI screenshot 6/14/25</title>
-    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
-    <content><![CDATA[<p>GI screenshots taken in PS5</p>
-<span id="more"></span>
-
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI screenshot 8/21/24</title>
-    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
-    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
-<span id="more"></span>
-
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Upload images to hexo-based github.io portfolio</title>
     <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
     <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
@@ -618,25 +680,6 @@
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔 2024/9/20</title>
-    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
-    <content><![CDATA[<p>不可放下骄傲之心</p>
-<span id="more"></span>
-
-<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
-<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
-<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
-<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
-<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
-<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
-<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
-<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
-]]></content>
-      <tags>
-        <tag>Essay</tag>
       </tags>
   </entry>
   <entry>
@@ -700,6 +743,25 @@
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随笔 2024/9/20</title>
+    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
+    <content><![CDATA[<p>不可放下骄傲之心</p>
+<span id="more"></span>
+
+<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
+<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
+<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
+<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
+<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
+<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
+<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
+<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
+]]></content>
+      <tags>
+        <tag>Essay</tag>
       </tags>
   </entry>
 </search>
