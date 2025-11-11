@@ -29,6 +29,56 @@
       </tags>
   </entry>
   <entry>
+    <title>Article Summary 6/21/25</title>
+    <url>/2025/06/27/Article-Summary-06-21-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
+<figure>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
+    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
+<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
+<figure>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
+    <figcaption> BRAF working model </figcaption>
+</figure>
+
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
+<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 25/11/08</title>
+    <url>/2025/11/11/Article-Summary-25-11-08/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Lysine-specific histone demethylase complex restricts Epstein–Barr virus lytic reactivation</strong></p>
+<figure>
+    <img src="/2025/11/11/Article-Summary-25-11-08/image-20251111152114129.png" alt="CRISPR screening for EBV reactivation-related genes" width="60%">
+    <figcaption> CRISPR screening for EBV reactivation-related genes </figcaption>
+</figure>
+
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Microbiology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Reverse genetics; Histone demethylase</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Epstein-Barr virus (EBV) can infect 95% people and cause cancers such as gastric carcinoma. EBV shows latency in cells and activated to lyse the cell to proliferate. The latency of EBV caused inefficiency of EBV-target antivirus drugs. However, the factor that regulates the EBV conversion from latency to activated remain unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here this work leverages CRISPR screening to discover LSD1&#x2F;ZNF217&#x2F;CoREST complex as a regulator of EBV lytic reactivation. CRISPR was used to probe mutant cells with high p350 expression (EBV reactivation phenotype). Then they validated that LSD1&#x2F;ZNF217&#x2F;CoREST restricted the lytic reactivation of EBV. Thus through combination of LSD1&#x2F;HDAC bi-inhibitor and anti-virus drug, EBV could be effectively killed in cells to enhance the mouse xenograft viability. Next, this work found ZNF217 recruited LSD1 and CoREST to chromatin to decrease genome H3K4 methylation and alter the chromatin organization validated by 3C experiments. In addition, knockout of KDM2D, also helped reactivation of EBV, indicating the role of H3K4 methylation in EBV reactivation.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41564-025-02165-7</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>8小时组装核小体尝试</title>
     <url>/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/</url>
     <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>在1天的上班时间内完成核小体的组装和Native-PAGE表征</p>
@@ -79,28 +129,90 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 6/21/25</title>
-    <url>/2025/06/27/Article-Summary-06-21-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
+    <title>Article Summary 5/24/25</title>
+    <url>/2025/05/26/Article-Summary-5-24-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
 <figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
-    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
+    <img src="/2025/05/26/Article-Summary-5-24-25/image-20250526112842451.png" alt="TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion" width="60%">
+    <figcaption>TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>CRLs E3 ligase family; mitochondria dynamics</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
-<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dynamics of mitochondria is intricately regulated. UPS-involved protein quality control regulates the level of mitochondria dynamic-related proteins. UPS involves E1&#x2F;E2&#x2F;E3 cascade enzymatic system in which E3 determines substrate specificity. CRLs complex family stands for the largest E3 family. CRL2 complex adapts different substrate receptors to engage different substrates, leading to UPS of different substrates. FEM1B is a CRL2 substrate receptor which recognizes ψ-Pro&#x2F;C-degron and Cys-degron. FEM1B-deficient cells show dysfunction of mitochondria, however the full substrate scope of FEM1B on mitochondria function does not clear. How does FEM1B regulate mitochondria dynamics?</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>To address this question, this work performed FEM1B-KO proteomic analysis and found PLD6 as CRL^FEM1B^ UPS degradation substrate. Cellular, biochemical and structural analysis revealed FEM1B degron-binding pocket bind PLD6 C-tail to promote its degradation. Next, they demonstrated FEM1B affects PLD6-mediated mitochondria dynamics. But does other factors affect FEM1B targeting mitochondria membrane? This work focused on mitochondria OM complex subunit TOM20. It co-locates with FEM1B and cells with TOM20 siRNA failed to locate FEM1B on mitochondria. Structural analysis indicated TOM20 interacts with FEM1B through hydrophobic interactions. Abortion of interaction abolished the regulation of FEM1B towards PLD6 level and mitochondria dynamics.</p>
+<p>Collectively, this work combined structural (cryo-EM), proteomics, cellular and biochemical approaches to depict the TOM20-FEM1B-PLD6 pathway in mitochondria dynamic regulation. However, why FEM1B recruitment on mitochondria is dependent on TOM20 but not PLD6, which also interacts with FEM1B, remains unknown. I hypothesized the abundance of TOM20 and PLD6 on mitochondria membrane is pivotal for the primary regulation determinant for FEM1B recruitment on mitochondria, or the two set of interactions are not sufficiently relevant. More exploration is needed to clarify the relationship between these interactions and why FEM1B recruitment is determined by TOM20 but not PLD6.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01894-4</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 25/8/23</title>
+    <url>/2025/08/25/Article-Summary-25-8-23/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>NASP modulates histone turnover to drive PARP inhibitor resistance</strong></p>
 <figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
-    <figcaption> BRAF working model </figcaption>
+    <img src="/2025/08/25/Article-Summary-25-8-23/image-20250825162357563.png" alt="NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells" width="60%">
+    <figcaption> NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells </figcaption>
 </figure>
 
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
-<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; PARP inhibitor, genetics, drug resistance</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Homologous recombination-deficient cancer is a prevalent disease including breast cancer and ovarian cancer. To treat such cancers, PARP inhibitors are developed and approved to clinical trial. However, PARP inhibitors exhibit drug resistance. To explore the origin of PARPi drug resistance mass efforts had been made, mainly towards downstream pathways of PARP inhibition such as the function rescue of homologous recombination. However, whether PARPi affects PARP substrate: chromatin, and whether it is relevant to drug resistance is yet unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work illustrated that PARPi induces the dissociation of H3&#x2F;H4 from cell chromatin. Next, they found INO80 complex-NASP could protect the dissociated H3&#x2F;H4 from being degraded by proteosome, thus maintaining genome integrity to generate drug resistance. </p>
+<p>In this article, traditional genetic methods, including gene knockdown, combined with gene knockout-FACS screening approaches were used to discover gene involved in PARPi-mediated H3&#x2F;H4 dissociation.</p>
+<p>However, the article does not mention the process of H3&#x2F;H4 recycling in chromatin mediated by NASP and PARP1. Further investigations need to be performed.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09414-z</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 7/19/25</title>
+    <url>/2025/07/27/Article-Summary-7-19-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation</strong></p>
+<figure>
+    <img src="/2025/07/27/Article-Summary-7-19-25/image-20250727160503105.png" alt="Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates" width="60%">
+    <figcaption> Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; ADPr-ubiquitination; Mass spectrometry; PTMs proteomics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Crosstalks between post-translational modifications have been widely explored. Notably, for ADP-ribosylation involved in DNA repair and ubiquitination pivoted in protein degradation and signal transduction, complex interplays are established such as Ub42R ADP-ribosylation (found in bacteria Legionella) and ADP-ribose ubiquitination. ADP-ribose ubiquitination is introduced by DELTEX E3 ligase <em>in vitro</em> but no evidence of this composite modification is found in cell. It is attributed to the lack of mass spectrometry methodologies to probe the ADPr-Ub modification in high sensitivity.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article first demonstrated the inability of current sample procedure to detect ADPr-Ub modification. Then they established a strategy to probe cellular ADPr-Ub sites. By using ZUD domain of RNF114, which could bind ADP-Ub modification, they optimized the mass spectrometry sample preparation procedure and detect ADPr-Ub sites.</p>
+<p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
+<p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 9/14/24</title>
+    <url>/2024/09/15/Article-Summary-9-14-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
+<figure>
+    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
+    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
+<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -131,29 +243,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 7/19/25</title>
-    <url>/2025/07/27/Article-Summary-7-19-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation</strong></p>
-<figure>
-    <img src="/2025/07/27/Article-Summary-7-19-25/image-20250727160503105.png" alt="Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates" width="60%">
-    <figcaption> Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; ADPr-ubiquitination; Mass spectrometry; PTMs proteomics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Crosstalks between post-translational modifications have been widely explored. Notably, for ADP-ribosylation involved in DNA repair and ubiquitination pivoted in protein degradation and signal transduction, complex interplays are established such as Ub42R ADP-ribosylation (found in bacteria Legionella) and ADP-ribose ubiquitination. ADP-ribose ubiquitination is introduced by DELTEX E3 ligase <em>in vitro</em> but no evidence of this composite modification is found in cell. It is attributed to the lack of mass spectrometry methodologies to probe the ADPr-Ub modification in high sensitivity.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article first demonstrated the inability of current sample procedure to detect ADPr-Ub modification. Then they established a strategy to probe cellular ADPr-Ub sites. By using ZUD domain of RNF114, which could bind ADP-Ub modification, they optimized the mass spectrometry sample preparation procedure and detect ADPr-Ub sites.</p>
-<p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
-<p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article-summary-03-07-25</title>
     <url>/2025/04/10/Article-summary-03-07-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
@@ -170,28 +259,6 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
 <p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 9/14/24</title>
-    <url>/2024/09/15/Article-Summary-9-14-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
-<figure>
-    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
-    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
-<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -220,28 +287,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article-summary-1-19-25</title>
-    <url>/2025/02/01/Article-summary-1-19-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
-<figure>
-    <img src="/2025/02/01/Article-summary-1-19-25/image-20250201212011127.png" alt="Histone monoaminylation shows dynamic and regulates neural rhythmicity" width="60%">
-    <figcaption>Histone monoaminylation shows dynamic and regulates neural rhythmicity</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Histone PTMs; Metabolic PTMs; Genetics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Post-translational modifications (PTMs) regulate chromatin-templated processes such as chromatin spatial organization and transcription to determine cell fate. Monoaminylation on histone H3 stands for a PTM that attaches a monoamine neurotransmitter such as dopamine and serotonin. Monoaminylation regulates neural transcription related processes. Previously discovered H3 monoaminylation is induced by TG2 enzyme, whereas the erasing mechanism and relationship among different H3 monoaminylations remains unknown.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
-<p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article-summary-11-09-24</title>
     <url>/2024/11/12/Article-summary-11-09-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure-guided discovery of bile acid derivatives for treating liver diseases without causing itch</strong></p>
@@ -263,44 +308,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 5/24/25</title>
-    <url>/2025/05/26/Article-Summary-5-24-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
+    <title>Article-summary-1-19-25</title>
+    <url>/2025/02/01/Article-summary-1-19-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
 <figure>
-    <img src="/2025/05/26/Article-Summary-5-24-25/image-20250526112842451.png" alt="TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion" width="60%">
-    <figcaption>TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion</figcaption>
+    <img src="/2025/02/01/Article-summary-1-19-25/image-20250201212011127.png" alt="Histone monoaminylation shows dynamic and regulates neural rhythmicity" width="60%">
+    <figcaption>Histone monoaminylation shows dynamic and regulates neural rhythmicity</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>CRLs E3 ligase family; mitochondria dynamics</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Histone PTMs; Metabolic PTMs; Genetics</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dynamics of mitochondria is intricately regulated. UPS-involved protein quality control regulates the level of mitochondria dynamic-related proteins. UPS involves E1&#x2F;E2&#x2F;E3 cascade enzymatic system in which E3 determines substrate specificity. CRLs complex family stands for the largest E3 family. CRL2 complex adapts different substrate receptors to engage different substrates, leading to UPS of different substrates. FEM1B is a CRL2 substrate receptor which recognizes ψ-Pro&#x2F;C-degron and Cys-degron. FEM1B-deficient cells show dysfunction of mitochondria, however the full substrate scope of FEM1B on mitochondria function does not clear. How does FEM1B regulate mitochondria dynamics?</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>To address this question, this work performed FEM1B-KO proteomic analysis and found PLD6 as CRL^FEM1B^ UPS degradation substrate. Cellular, biochemical and structural analysis revealed FEM1B degron-binding pocket bind PLD6 C-tail to promote its degradation. Next, they demonstrated FEM1B affects PLD6-mediated mitochondria dynamics. But does other factors affect FEM1B targeting mitochondria membrane? This work focused on mitochondria OM complex subunit TOM20. It co-locates with FEM1B and cells with TOM20 siRNA failed to locate FEM1B on mitochondria. Structural analysis indicated TOM20 interacts with FEM1B through hydrophobic interactions. Abortion of interaction abolished the regulation of FEM1B towards PLD6 level and mitochondria dynamics.</p>
-<p>Collectively, this work combined structural (cryo-EM), proteomics, cellular and biochemical approaches to depict the TOM20-FEM1B-PLD6 pathway in mitochondria dynamic regulation. However, why FEM1B recruitment on mitochondria is dependent on TOM20 but not PLD6, which also interacts with FEM1B, remains unknown. I hypothesized the abundance of TOM20 and PLD6 on mitochondria membrane is pivotal for the primary regulation determinant for FEM1B recruitment on mitochondria, or the two set of interactions are not sufficiently relevant. More exploration is needed to clarify the relationship between these interactions and why FEM1B recruitment is determined by TOM20 but not PLD6.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01894-4</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article summary 8/21/24</title>
-    <url>/2024/08/21/Article-summary-8-21-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
-<figure>
-    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
-    <figcaption>Ub-POD strategy</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
-<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Post-translational modifications (PTMs) regulate chromatin-templated processes such as chromatin spatial organization and transcription to determine cell fate. Monoaminylation on histone H3 stands for a PTM that attaches a monoamine neurotransmitter such as dopamine and serotonin. Monoaminylation regulates neural transcription related processes. Previously discovered H3 monoaminylation is induced by TG2 enzyme, whereas the erasing mechanism and relationship among different H3 monoaminylations remains unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
+<p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -331,6 +354,28 @@
       </tags>
   </entry>
   <entry>
+    <title>Article summary 8/21/24</title>
+    <url>/2024/08/21/Article-summary-8-21-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
+<figure>
+    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
+    <figcaption>Ub-POD strategy</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
+<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article summary 8/23/24</title>
     <url>/2024/08/23/Article-summary-8-23-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
@@ -353,85 +398,22 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 5.7 幽境危战</title>
-    <url>/2025/07/01/GI-5-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
-<span id="more"></span>
-
-<h2 id="水人-108s"><a href="#水人-108s" class="headerlink" title="水人 108s"></a>水人 108s</h2><h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
-<p><strong>@ 祭礼残章</strong> R5</p>
-<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  暴击</p>
-<p><strong>%</strong> 精通734 攻击1238 双暴58&#x2F;100 充能110</p>
-<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
-<p><strong>@ 西福斯的月光</strong> R3</p>
-<p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通877 生命26001 充能134</p>
-<h3 id="艾梅莉埃-赋光"><a href="#艾梅莉埃-赋光" class="headerlink" title="艾梅莉埃 (赋光)"></a>艾梅莉埃 (赋光)</h3><p><strong>Lv90_C0_7-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 教官4</strong>  攻击  生命  暴击(5⭐)</p>
-<p><strong>%</strong> 攻击1588 精通97 充能144 双暴46&#x2F;113</p>
-<h3 id="艾尔海森"><a href="#艾尔海森" class="headerlink" title="艾尔海森"></a>艾尔海森</h3><p><strong>Lv90_C0_9-9-9</strong></p>
-<p><strong>@ 狼牙</strong> R5</p>
-<p><strong>&amp; 饰金之梦4</strong>  精通  草伤  暴伤</p>
-<p><strong>%</strong> 精通409 攻击1269 双暴70&#x2F;176 充能121</p>
-<p><strong>打小水人先让草神扫码都连上，之后直接打大水人，小水人就会被慢慢破掉。开盾之后直接久岐忍E-海森Q直接打一套6剑雨，如果破盾之后光速吸收小水人则需要重开</strong></p>
-<h2 id="火锅-120s"><a href="#火锅-120s" class="headerlink" title="火锅 120s"></a>火锅 120s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
-<p><strong>@ 原木刀</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 充能273 生命28280</p>
-<h3 id="香菱-赋光"><a href="#香菱-赋光" class="headerlink" title="香菱 (赋光)"></a>香菱 (赋光)</h3><p><strong>Lv90_C6_1-9-12</strong></p>
-<p><strong>@ 鱼叉</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  火伤  暴击</p>
-<p><strong>%</strong> 充能258 攻击1231 双暴58&#x2F;129 精通150</p>
-<h3 id="夏沃蕾-赋光"><a href="#夏沃蕾-赋光" class="headerlink" title="夏沃蕾 (赋光)"></a>夏沃蕾 (赋光)</h3><p><strong>Lv84_C6_1-12-7</strong></p>
-<p><strong>@ 公义的酬报</strong> R5</p>
-<p><strong>&amp; 昔时之歌4</strong>  生命  生命  生命</p>
-<p><strong>%</strong> 生命40199 充能144 </p>
-<h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv87_C0_9-6-8</strong></p>
-<p><strong>@ 流浪乐章</strong> R5</p>
-<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 攻击1900 双暴94&#x2F;186 充能121</p>
-<p><strong>夏沃蕾Q之后E三枪，并且确保在瘫痪前开了班尼特和香菱的Q即可。2分钟瘫痪两次能打完</strong></p>
-<h2 id="冰锅-63s"><a href="#冰锅-63s" class="headerlink" title="冰锅 63s"></a>冰锅 63s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@ 静水流涌之辉</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 双暴88&#x2F;229 生命30349 充能164 </p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv85_C0_1-10-8</strong></p>
-<p><strong>@ 息灾</strong> R1 (Lv.80)</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  冰伤  暴击</p>
-<p><strong>%</strong> 攻击1828 双暴73&#x2F;168 充能186</p>
-<h3 id="茜特拉莉-赋光"><a href="#茜特拉莉-赋光" class="headerlink" title="茜特拉莉 (赋光)"></a>茜特拉莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
-<p><strong>@ 流浪的晚星</strong> R5</p>
-<p><strong>&amp; 勇者2饰金2</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通1041 充能118 </p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv88_C0_1-9-8</strong></p>
-<p><strong>@ 厄水之祸</strong> R5</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2609 双暴56&#x2F;236</p>
-<p><strong>直接打；面板没有计算丝柯克的战技+1等级. skk专武抽到之后再试试冰锅难度6</strong></p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 25/8/23</title>
-    <url>/2025/08/25/Article-Summary-25-8-23/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>NASP modulates histone turnover to drive PARP inhibitor resistance</strong></p>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
 <figure>
-    <img src="/2025/08/25/Article-Summary-25-8-23/image-20250825162357563.png" alt="NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells" width="60%">
-    <figcaption> NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells </figcaption>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; PARP inhibitor, genetics, drug resistance</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Homologous recombination-deficient cancer is a prevalent disease including breast cancer and ovarian cancer. To treat such cancers, PARP inhibitors are developed and approved to clinical trial. However, PARP inhibitors exhibit drug resistance. To explore the origin of PARPi drug resistance mass efforts had been made, mainly towards downstream pathways of PARP inhibition such as the function rescue of homologous recombination. However, whether PARPi affects PARP substrate: chromatin, and whether it is relevant to drug resistance is yet unknown.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work illustrated that PARPi induces the dissociation of H3&#x2F;H4 from cell chromatin. Next, they found INO80 complex-NASP could protect the dissociated H3&#x2F;H4 from being degraded by proteosome, thus maintaining genome integrity to generate drug resistance. </p>
-<p>In this article, traditional genetic methods, including gene knockdown, combined with gene knockout-FACS screening approaches were used to discover gene involved in PARPi-mediated H3&#x2F;H4 dissociation.</p>
-<p>However, the article does not mention the process of H3&#x2F;H4 recycling in chromatin mediated by NASP and PARP1. Further investigations need to be performed.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09414-z</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -480,28 +462,6 @@
 <p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
 <p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
 <h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article-summary-9-30-24</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -565,6 +525,68 @@
 <p><strong>&amp; 谐律异想断章4</strong>  攻击 雷伤 暴击</p>
 <p><strong>%</strong> 攻击2027 双暴87&#x2F;208 充能143</p>
 <p><strong>发黄光有眼睛的帽子是真帽子。没有龙王打的好像是吃力许多，克洛琳德伤害没有芙芙高。</strong></p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 5.7 幽境危战</title>
+    <url>/2025/07/01/GI-5-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
+<span id="more"></span>
+
+<h2 id="水人-108s"><a href="#水人-108s" class="headerlink" title="水人 108s"></a>水人 108s</h2><h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 祭礼残章</strong> R5</p>
+<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  暴击</p>
+<p><strong>%</strong> 精通734 攻击1238 双暴58&#x2F;100 充能110</p>
+<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
+<p><strong>@ 西福斯的月光</strong> R3</p>
+<p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通877 生命26001 充能134</p>
+<h3 id="艾梅莉埃-赋光"><a href="#艾梅莉埃-赋光" class="headerlink" title="艾梅莉埃 (赋光)"></a>艾梅莉埃 (赋光)</h3><p><strong>Lv90_C0_7-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 教官4</strong>  攻击  生命  暴击(5⭐)</p>
+<p><strong>%</strong> 攻击1588 精通97 充能144 双暴46&#x2F;113</p>
+<h3 id="艾尔海森"><a href="#艾尔海森" class="headerlink" title="艾尔海森"></a>艾尔海森</h3><p><strong>Lv90_C0_9-9-9</strong></p>
+<p><strong>@ 狼牙</strong> R5</p>
+<p><strong>&amp; 饰金之梦4</strong>  精通  草伤  暴伤</p>
+<p><strong>%</strong> 精通409 攻击1269 双暴70&#x2F;176 充能121</p>
+<p><strong>打小水人先让草神扫码都连上，之后直接打大水人，小水人就会被慢慢破掉。开盾之后直接久岐忍E-海森Q直接打一套6剑雨，如果破盾之后光速吸收小水人则需要重开</strong></p>
+<h2 id="火锅-120s"><a href="#火锅-120s" class="headerlink" title="火锅 120s"></a>火锅 120s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
+<p><strong>@ 原木刀</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
+<p><strong>%</strong> 充能273 生命28280</p>
+<h3 id="香菱-赋光"><a href="#香菱-赋光" class="headerlink" title="香菱 (赋光)"></a>香菱 (赋光)</h3><p><strong>Lv90_C6_1-9-12</strong></p>
+<p><strong>@ 鱼叉</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  火伤  暴击</p>
+<p><strong>%</strong> 充能258 攻击1231 双暴58&#x2F;129 精通150</p>
+<h3 id="夏沃蕾-赋光"><a href="#夏沃蕾-赋光" class="headerlink" title="夏沃蕾 (赋光)"></a>夏沃蕾 (赋光)</h3><p><strong>Lv84_C6_1-12-7</strong></p>
+<p><strong>@ 公义的酬报</strong> R5</p>
+<p><strong>&amp; 昔时之歌4</strong>  生命  生命  生命</p>
+<p><strong>%</strong> 生命40199 充能144 </p>
+<h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv87_C0_9-6-8</strong></p>
+<p><strong>@ 流浪乐章</strong> R5</p>
+<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 攻击1900 双暴94&#x2F;186 充能121</p>
+<p><strong>夏沃蕾Q之后E三枪，并且确保在瘫痪前开了班尼特和香菱的Q即可。2分钟瘫痪两次能打完</strong></p>
+<h2 id="冰锅-63s"><a href="#冰锅-63s" class="headerlink" title="冰锅 63s"></a>冰锅 63s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 静水流涌之辉</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 双暴88&#x2F;229 生命30349 充能164 </p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv85_C0_1-10-8</strong></p>
+<p><strong>@ 息灾</strong> R1 (Lv.80)</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  冰伤  暴击</p>
+<p><strong>%</strong> 攻击1828 双暴73&#x2F;168 充能186</p>
+<h3 id="茜特拉莉-赋光"><a href="#茜特拉莉-赋光" class="headerlink" title="茜特拉莉 (赋光)"></a>茜特拉莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
+<p><strong>@ 流浪的晚星</strong> R5</p>
+<p><strong>&amp; 勇者2饰金2</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通1041 充能118 </p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv88_C0_1-9-8</strong></p>
+<p><strong>@ 厄水之祸</strong> R5</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2609 双暴56&#x2F;236</p>
+<p><strong>直接打；面板没有计算丝柯克的战技+1等级. skk专武抽到之后再试试冰锅难度6</strong></p>
 ]]></content>
       <tags>
         <tag>Game</tag>
