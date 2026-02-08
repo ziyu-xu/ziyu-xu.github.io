@@ -10,10 +10,8 @@ tags: Articles
 
 **Antibody-lectin chimeras for glyco-immune checkpoint blockade**
 
-![image-20260130141103101](Article-Summary-26-01-24/image-20260130141103101.png)
-
 <figure>
-    <img src="image-20251223152351953.png" alt="Mechanism of antibody-lectin chimeras for glyco-immune checkpoint blockade" width="60%"/>
+    <img src="image-20260130141103101.png" alt="Mechanism of antibody-lectin chimeras for glyco-immune checkpoint blockade" width="60%"/>
     <figcaption> Antibody-lectin chimeras for glyco-immune checkpoint blockade </figcaption>
 </figure>
 # Journal
