@@ -209,9 +209,10 @@
     <img src="/2026/01/30/Article-Summary-26-01-24/image-20260130141103101.png" alt="Mechanism of antibody-lectin chimeras for glyco-immune checkpoint blockade" width="60%">
     <figcaption> Antibody-lectin chimeras for glyco-immune checkpoint blockade </figcaption>
 </figure>
-# Journal
 
-<p>Nature Biotechnology </p>
+
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Biotechnology </p>
 <h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Glycan; Checkpoint blockade therapy; Engineered antibody</p>
 <span id="more"></span>
 
@@ -220,6 +221,52 @@
 <p>Next, they expanded the range of AbLec to different cancer cell antigens and different lectin receptor, demonstrating its universality across most cancers. Also, fusing lectin receptor with another checkpoint blockage antibody, such as PD-1 and CD47, showed effect in cells.</p>
 <p>In summay, the AbLec strategy provided a path to block glycan immunologic checkpoint and established a wide platform to expand the use of AbLex chimera.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41587-025-02884-6</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 26/03/07</title>
+    <url>/2026/03/07/Article-Summary-26-03-07/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>High-throughput ligand diversification to discover chemical inducers of proximity</strong></p>
+<figure>
+    <img src="/2026/03/07/Article-Summary-26-03-07/image-20260307213750442.png" alt="High-throughput ligand diversification to discover chemical inducers of proximity" width="60%">
+    <figcaption> Ligand diversification to discover CIPs </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Molecular glue; SuFEX; drug screening</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Chemical inducers of proximity (CIPs), such as proteolysis-targeting chimeras (PROTACs) and molecular glues, represent a powerful class of small molecules capable of rewiring cellular biochemistry by stabilizing proximity between target proteins. While rational design strategies have accelerated the discovery of heterobifunctional CIPs like PROTACs, the identification of molecular glues has historically relied on serendipity, lacking systematic discovery approaches. Molecular glues often share structural similarities with protein binders, raising the hypothesis that systematic diversification of existing ligands could yield novel glue-type CIPs.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study addresses the key scientific question: Can high-throughput ligand diversification serve as a systematic strategy to discover new molecular glue CIPs? The authors employed sulfur(VI) fluoride exchange (SuFEx)-based high-throughput chemistry (HTC) to install 3,163 structurally diverse building blocks onto known ligands for two targets: ENL (eleven-nineteen leukemia), a transcriptional regulator implicated in leukemia, and BRD4 (bromodomain-containing protein 4). Screening this library for degrader activity led to the discovery of dHTC1, an ENL degrader that functions as a molecular glue by recruiting the CRL4CRBN E3 ligase complex. Furthermore, for BRD4, they identified dHTC3, a molecular glue that selectively dimerizes BRD4 bromodomain 1 with the previously inaccessible E3 ligase FBXO3.</p>
+<p>This work establishes HTC as a facile and potentially generalizable tool for the systematic discovery of novel CIPs and new effectors for proximity pharmacology, moving beyond reliance on chance findings towards a more prospective exploration of chemical space.</p>
+<p>While this study demonstrates the potential of high-throughput ligand diversification as a systematic strategy for discovering novel chemical inducers of proximity (CIPs), it also highlights several limitations. First, the approach is fundamentally a screening method rather than a rational design strategy, which may limit its predictive power and efficiency. Second, the generalizability of this high-throughput chemical (HTC) strategy across different target classes remains to be validated, as its success here with ENL and BRD4 does not guarantee broad applicability. Finally, despite the identification of a promising degrader (dHTC1) for the important leukemia target ENL, the study lacks validation in animal disease models, which is crucial for assessing the therapeutic potential and translational value of the discovered compounds.</p>
+<p>(Generated by DS v3.2.)</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-02137-2  </p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 5/24/25</title>
+    <url>/2025/05/26/Article-Summary-5-24-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
+<figure>
+    <img src="/2025/05/26/Article-Summary-5-24-25/image-20250526112842451.png" alt="TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion" width="60%">
+    <figcaption>TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>CRLs E3 ligase family; mitochondria dynamics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dynamics of mitochondria is intricately regulated. UPS-involved protein quality control regulates the level of mitochondria dynamic-related proteins. UPS involves E1&#x2F;E2&#x2F;E3 cascade enzymatic system in which E3 determines substrate specificity. CRLs complex family stands for the largest E3 family. CRL2 complex adapts different substrate receptors to engage different substrates, leading to UPS of different substrates. FEM1B is a CRL2 substrate receptor which recognizes ψ-Pro&#x2F;C-degron and Cys-degron. FEM1B-deficient cells show dysfunction of mitochondria, however the full substrate scope of FEM1B on mitochondria function does not clear. How does FEM1B regulate mitochondria dynamics?</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>To address this question, this work performed FEM1B-KO proteomic analysis and found PLD6 as CRL^FEM1B^ UPS degradation substrate. Cellular, biochemical and structural analysis revealed FEM1B degron-binding pocket bind PLD6 C-tail to promote its degradation. Next, they demonstrated FEM1B affects PLD6-mediated mitochondria dynamics. But does other factors affect FEM1B targeting mitochondria membrane? This work focused on mitochondria OM complex subunit TOM20. It co-locates with FEM1B and cells with TOM20 siRNA failed to locate FEM1B on mitochondria. Structural analysis indicated TOM20 interacts with FEM1B through hydrophobic interactions. Abortion of interaction abolished the regulation of FEM1B towards PLD6 level and mitochondria dynamics.</p>
+<p>Collectively, this work combined structural (cryo-EM), proteomics, cellular and biochemical approaches to depict the TOM20-FEM1B-PLD6 pathway in mitochondria dynamic regulation. However, why FEM1B recruitment on mitochondria is dependent on TOM20 but not PLD6, which also interacts with FEM1B, remains unknown. I hypothesized the abundance of TOM20 and PLD6 on mitochondria membrane is pivotal for the primary regulation determinant for FEM1B recruitment on mitochondria, or the two set of interactions are not sufficiently relevant. More exploration is needed to clarify the relationship between these interactions and why FEM1B recruitment is determined by TOM20 but not PLD6.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01894-4</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -243,6 +290,28 @@
 <p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
 <p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 9/14/24</title>
+    <url>/2024/09/15/Article-Summary-9-14-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
+<figure>
+    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
+    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
+<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -273,72 +342,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 5/24/25</title>
-    <url>/2025/05/26/Article-Summary-5-24-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
-<figure>
-    <img src="/2025/05/26/Article-Summary-5-24-25/image-20250526112842451.png" alt="TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion" width="60%">
-    <figcaption>TOM20 drives FEM1B anchoring mitochondria to recruit PLD6 for mitochondria fusion</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>CRLs E3 ligase family; mitochondria dynamics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dynamics of mitochondria is intricately regulated. UPS-involved protein quality control regulates the level of mitochondria dynamic-related proteins. UPS involves E1&#x2F;E2&#x2F;E3 cascade enzymatic system in which E3 determines substrate specificity. CRLs complex family stands for the largest E3 family. CRL2 complex adapts different substrate receptors to engage different substrates, leading to UPS of different substrates. FEM1B is a CRL2 substrate receptor which recognizes ψ-Pro&#x2F;C-degron and Cys-degron. FEM1B-deficient cells show dysfunction of mitochondria, however the full substrate scope of FEM1B on mitochondria function does not clear. How does FEM1B regulate mitochondria dynamics?</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>To address this question, this work performed FEM1B-KO proteomic analysis and found PLD6 as CRL^FEM1B^ UPS degradation substrate. Cellular, biochemical and structural analysis revealed FEM1B degron-binding pocket bind PLD6 C-tail to promote its degradation. Next, they demonstrated FEM1B affects PLD6-mediated mitochondria dynamics. But does other factors affect FEM1B targeting mitochondria membrane? This work focused on mitochondria OM complex subunit TOM20. It co-locates with FEM1B and cells with TOM20 siRNA failed to locate FEM1B on mitochondria. Structural analysis indicated TOM20 interacts with FEM1B through hydrophobic interactions. Abortion of interaction abolished the regulation of FEM1B towards PLD6 level and mitochondria dynamics.</p>
-<p>Collectively, this work combined structural (cryo-EM), proteomics, cellular and biochemical approaches to depict the TOM20-FEM1B-PLD6 pathway in mitochondria dynamic regulation. However, why FEM1B recruitment on mitochondria is dependent on TOM20 but not PLD6, which also interacts with FEM1B, remains unknown. I hypothesized the abundance of TOM20 and PLD6 on mitochondria membrane is pivotal for the primary regulation determinant for FEM1B recruitment on mitochondria, or the two set of interactions are not sufficiently relevant. More exploration is needed to clarify the relationship between these interactions and why FEM1B recruitment is determined by TOM20 but not PLD6.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01894-4</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 9/14/24</title>
-    <url>/2024/09/15/Article-Summary-9-14-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
-<figure>
-    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
-    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
-<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article-summary-03-07-25</title>
-    <url>/2025/04/10/Article-summary-03-07-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
-<figure>
-    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
-    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
-<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article summary 04-26-25</title>
     <url>/2025/05/08/Article-summary-04-26-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
@@ -355,6 +358,27 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
 <p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-11-09-24</title>
+    <url>/2024/11/12/Article-summary-11-09-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure-guided discovery of bile acid derivatives for treating liver diseases without causing itch</strong></p>
+<figure>
+    <img src="/2024/11/12/Article-summary-11-09-24/1-s2.0-S0092867424011498-fx1.jpg" alt="Structure-guided discovery of bile acid molecules for liver diseases without itch" width="60%">
+    <figcaption>Discover liver disease-targeting small molecule without itch adverse effect</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Cryo-EM structure, Drug rational design</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>NASH (non-alcoholic steatohepatitis) gains increasing attention as its prevalence in liver disease patients. Although no FDA-approved drug discovered for NASH, first in class bile acid derivative agonists targeting FXR receptors such as OCA have been investigated to treat such diseases. However, OCA causes cholesteric pruritus (itch) in clinical trials. Hitherto no approach has been suggested to overcome the adverse effect of itch. New leading compound is needed to be discovered to overcome OCA-induced itch.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Through cryo-EM, molecular dynamics, biochemical and cellular assays, the structural mechanism of how bile acid derivatives stimulates their itch-related acceptor, hX4, was demonstrated. bile acid derivatives utilized their acidic functional group (sulfurylated and phosphorylated) to recognize hX4 basic pocket. Based on the structural observation, a new compound named C7 was designed to prevent binding of itch-related receptor hX4 but retaining drug effect for liver diseases in organism models and rat models. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.cell.2024.10.001</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -383,21 +407,44 @@
       </tags>
   </entry>
   <entry>
-    <title>Article-summary-11-09-24</title>
-    <url>/2024/11/12/Article-summary-11-09-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure-guided discovery of bile acid derivatives for treating liver diseases without causing itch</strong></p>
+    <title>Article summary 8/21/24</title>
+    <url>/2024/08/21/Article-summary-8-21-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
 <figure>
-    <img src="/2024/11/12/Article-summary-11-09-24/1-s2.0-S0092867424011498-fx1.jpg" alt="Structure-guided discovery of bile acid molecules for liver diseases without itch" width="60%">
-    <figcaption>Discover liver disease-targeting small molecule without itch adverse effect</figcaption>
+    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
+    <figcaption>Ub-POD strategy</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Cell</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Cryo-EM structure, Drug rational design</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>NASH (non-alcoholic steatohepatitis) gains increasing attention as its prevalence in liver disease patients. Although no FDA-approved drug discovered for NASH, first in class bile acid derivative agonists targeting FXR receptors such as OCA have been investigated to treat such diseases. However, OCA causes cholesteric pruritus (itch) in clinical trials. Hitherto no approach has been suggested to overcome the adverse effect of itch. New leading compound is needed to be discovered to overcome OCA-induced itch.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Through cryo-EM, molecular dynamics, biochemical and cellular assays, the structural mechanism of how bile acid derivatives stimulates their itch-related acceptor, hX4, was demonstrated. bile acid derivatives utilized their acidic functional group (sulfurylated and phosphorylated) to recognize hX4 basic pocket. Based on the structural observation, a new compound named C7 was designed to prevent binding of itch-related receptor hX4 but retaining drug effect for liver diseases in organism models and rat models. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.cell.2024.10.001</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
+<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-03-07-25</title>
+    <url>/2025/04/10/Article-summary-03-07-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
+<figure>
+    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
+    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
+<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -422,28 +469,6 @@
 <p>In addition, amino acid sensors mainly sense amino acids to regulate tRNA-related pathway or mTORC related pathway. Whether amino acid sensors regulate pathways except tRNA and mTORC remains unknown.</p>
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here the article discovered that HDAC6, the deacetylase, is a valine sensor. Valine deprivation causes HDAC6 locating at nucleus rather than cytosol. Valine-caused HDAC6 relocation triggered TET2-TDG pathway to induce DNA damage. Moreover, induced valine deprivation could affect tumor growth through HDAC6-TET2-TDG pathway to trigger DNA damage. Low valine level reduced the tumor growth. Thus, valine-triggered HDAC6 sensing might be potential cancer treatment strategy in the future.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08248-5</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article summary 8/21/24</title>
-    <url>/2024/08/21/Article-summary-8-21-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
-<figure>
-    <img src="/2024/08/21/Article-summary-8-21-24/image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
-    <figcaption>Ub-POD strategy</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
-<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -520,28 +545,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article-summary-9-30-24</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GI 5.7 幽境危战</title>
     <url>/2025/07/01/GI-5-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
@@ -598,6 +601,91 @@
 <p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
 <p><strong>%</strong> 攻击2609 双暴56&#x2F;236</p>
 <p><strong>直接打；面板没有计算丝柯克的战技+1等级. skk专武抽到之后再试试冰锅难度6</strong></p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
+<figure>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 5.8 幽境危战</title>
+    <url>/2025/08/06/GI-5-8-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
+<p>最难的是次数盾，是真的太粪了</p>
+<span id="more"></span>
+
+<h2 id="深渊摹结株-119s"><a href="#深渊摹结株-119s" class="headerlink" title="深渊摹结株 119s"></a>深渊摹结株 119s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
+<p><strong>%</strong> 充能286 生命28779</p>
+<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
+<p><strong>@ 流浪的晚星</strong> R5</p>
+<p><strong>&amp; 勇者4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通985 充能139</p>
+<h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡 (赋光)"></a>玛薇卡 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 狼的末路</strong> R1</p>
+<p><strong>&amp; 黑曜秘典4</strong>  攻击 火伤 暴击</p>
+<p><strong>%</strong> 攻击2607 精通112 双暴64&#x2F;161</p>
+<h3 id="恰斯卡-赋光"><a href="#恰斯卡-赋光" class="headerlink" title="恰斯卡 (赋光)"></a>恰斯卡 (赋光)</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 黑曜秘典4</strong>  攻击 攻击 暴伤</p>
+<p><strong>%</strong> 攻击2379 双暴59&#x2F;279 充能121</p>
+<p><strong>奶奶+火神的融化用来补伤害。单独恰的伤害是有点不够的，班尼特打这只怪其实效果相当差，怪物多动，容易把人挤出圈。</strong></p>
+<h2 id="雷乌龟-101s"><a href="#雷乌龟-101s" class="headerlink" title="雷乌龟 101s"></a>雷乌龟 101s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命35444 双暴90&#x2F;210 充能197</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv86_C0_1-10-9</strong></p>
+<p><strong>@ 息灾</strong> R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 攻击2505 双暴75&#x2F;154 充能189</p>
+<h3 id="甘雨-剧诗加成"><a href="#甘雨-剧诗加成" class="headerlink" title="甘雨 (剧诗加成)"></a>甘雨 (剧诗加成)</h3><p><strong>Lv83_C0_8-3-8</strong></p>
+<p><strong>@ 祭礼弓</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  冰伤  暴伤</p>
+<p><strong>%</strong> 充能249 攻击1338 双暴31&#x2F;196 </p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_1-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2637 双暴74&#x2F;233</p>
+<p><strong>意外地好打。一开始慢慢打等夜兰的大招好了之后先all-in打一波，之后慢慢破盾，第二波的时候就打完了，总共仅破了一次盾</strong></p>
+<h2 id="帽子苦瓜-107s"><a href="#帽子苦瓜-107s" class="headerlink" title="帽子苦瓜 107s"></a>帽子苦瓜 107s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 静水流涌之辉</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 双暴75&#x2F;226 生命35073 充能194 </p>
+<h3 id="菲谢尔"><a href="#菲谢尔" class="headerlink" title="菲谢尔"></a>菲谢尔</h3><p><strong>Lv90_C6_3-12-9</strong></p>
+<p><strong>@ 绝弦</strong> R5 </p>
+<p><strong>&amp; 黄金剧团4</strong>  攻击 雷伤 暴击</p>
+<p><strong>%</strong> 攻击1758 双暴75&#x2F;130 充能113</p>
+<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
+<p><strong>@ 西风秘典</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>   充能 攻击 暴击</p>
+<p><strong>%</strong> 攻击2160 充能239 暴击53</p>
+<h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-8</strong></p>
+<p><strong>@ 有乐御簾切</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击 雷伤 暴击</p>
+<p><strong>%</strong> 攻击2027 双暴87&#x2F;208 充能143</p>
+<p><strong>发黄光有眼睛的帽子是真帽子。没有龙王打的好像是吃力许多，克洛琳德伤害没有芙芙高。</strong></p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -666,63 +754,63 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 5.8 幽境危战</title>
-    <url>/2025/08/06/GI-5-8-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
-<p>最难的是次数盾，是真的太粪了</p>
+    <title>GI 6.2 幽境危战</title>
+    <url>/2025/12/15/GI-6-2-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>暝视龙难度高，跳楼机难度较高，深罪浸礼者最简单。</p>
+<p>N5低金，超载感觉是版本答案</p>
 <span id="more"></span>
 
-<h2 id="深渊摹结株-119s"><a href="#深渊摹结株-119s" class="headerlink" title="深渊摹结株 119s"></a>深渊摹结株 119s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
-<p><strong>@ 天空之刃</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 充能286 生命28779</p>
-<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
-<p><strong>@ 流浪的晚星</strong> R5</p>
-<p><strong>&amp; 勇者4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通985 充能139</p>
-<h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡 (赋光)"></a>玛薇卡 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 狼的末路</strong> R1</p>
-<p><strong>&amp; 黑曜秘典4</strong>  攻击 火伤 暴击</p>
-<p><strong>%</strong> 攻击2607 精通112 双暴64&#x2F;161</p>
-<h3 id="恰斯卡-赋光"><a href="#恰斯卡-赋光" class="headerlink" title="恰斯卡 (赋光)"></a>恰斯卡 (赋光)</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 若水</strong> R1</p>
-<p><strong>&amp; 黑曜秘典4</strong>  攻击 攻击 暴伤</p>
-<p><strong>%</strong> 攻击2379 双暴59&#x2F;279 充能121</p>
-<p><strong>奶奶+火神的融化用来补伤害。单独恰的伤害是有点不够的，班尼特打这只怪其实效果相当差，怪物多动，容易把人挤出圈。</strong></p>
-<h2 id="雷乌龟-101s"><a href="#雷乌龟-101s" class="headerlink" title="雷乌龟 101s"></a>雷乌龟 101s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 若水</strong> R1</p>
+<h2 id="深罪浸礼者-64s"><a href="#深罪浸礼者-64s" class="headerlink" title="深罪浸礼者 64s"></a>深罪浸礼者 64s</h2><h3 id="夜兰"><a href="#夜兰" class="headerlink" title="夜兰"></a>夜兰</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
 <p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命35444 双暴90&#x2F;210 充能197</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv86_C0_1-10-9</strong></p>
+<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
 <p><strong>@ 息灾</strong> R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 攻击2505 双暴75&#x2F;154 充能189</p>
-<h3 id="甘雨-剧诗加成"><a href="#甘雨-剧诗加成" class="headerlink" title="甘雨 (剧诗加成)"></a>甘雨 (剧诗加成)</h3><p><strong>Lv83_C0_8-3-8</strong></p>
-<p><strong>@ 祭礼弓</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  冰伤  暴伤</p>
-<p><strong>%</strong> 充能249 攻击1338 双暴31&#x2F;196 </p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_1-10-10</strong></p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2436 双暴71&#x2F;159 充能174</p>
+<h3 id="茜特菈莉-赋光-剧诗"><a href="#茜特菈莉-赋光-剧诗" class="headerlink" title="茜特菈莉(赋光+剧诗)"></a>茜特菈莉(赋光+剧诗)</h3><p><strong>Lv86_C0_1-9-8</strong></p>
+<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
+<p><strong>&amp; 烬城勇者4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通836 充能138</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
 <p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2637 双暴74&#x2F;233</p>
-<p><strong>意外地好打。一开始慢慢打等夜兰的大招好了之后先all-in打一波，之后慢慢破盾，第二波的时候就打完了，总共仅破了一次盾</strong></p>
-<h2 id="帽子苦瓜-107s"><a href="#帽子苦瓜-107s" class="headerlink" title="帽子苦瓜 107s"></a>帽子苦瓜 107s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@ 静水流涌之辉</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 双暴75&#x2F;226 生命35073 充能194 </p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 攻击2222 双暴78&#x2F;247</p>
+<p>简单，丝柯克大人的数值这一块</p>
+<h2 id="暝视龙-101s"><a href="#暝视龙-101s" class="headerlink" title="暝视龙 101s"></a>暝视龙 101s</h2><h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-9</strong></p>
+<p><strong>@ 有乐御簾切</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 充能125 双暴84&#x2F;212 攻击2283</p>
 <h3 id="菲谢尔"><a href="#菲谢尔" class="headerlink" title="菲谢尔"></a>菲谢尔</h3><p><strong>Lv90_C6_3-12-9</strong></p>
-<p><strong>@ 绝弦</strong> R5 </p>
-<p><strong>&amp; 黄金剧团4</strong>  攻击 雷伤 暴击</p>
-<p><strong>%</strong> 攻击1758 双暴75&#x2F;130 充能113</p>
+<p><strong>@ 天空之翼</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 充能100 双暴92&#x2F;157 攻击2300</p>
+<h3 id="夏沃蕾"><a href="#夏沃蕾" class="headerlink" title="夏沃蕾"></a>夏沃蕾</h3><p><strong>Lv85_C6_1-12-7</strong></p>
+<p><strong>@ 沙中伟贤的对答</strong> R5</p>
+<p><strong>&amp; 昔时之歌4</strong>  生命  生命  生命</p>
+<p><strong>%</strong> 生命43793</p>
+<h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡(赋光)"></a>玛薇卡(赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 狼的末路</strong> R1</p>
+<p><strong>&amp; 烬城勇者4</strong>  攻击  火伤  暴击</p>
+<p><strong>%</strong> 双暴69&#x2F;143 攻击2911 精通19</p>
+<p>超载破冰盾这一块儿</p>
+<h2 id="实验性场力发生装置-99s"><a href="#实验性场力发生装置-99s" class="headerlink" title="实验性场力发生装置 99s"></a>实验性场力发生装置 99s</h2><h3 id="瓦雷莎-赋光"><a href="#瓦雷莎-赋光" class="headerlink" title="瓦雷莎(赋光)"></a>瓦雷莎(赋光)</h3><p><strong>Lv89_C0_9-8-9</strong></p>
+<p><strong>@ 四风原典</strong> R1</p>
+<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴伤</p>
+<p><strong>%</strong> 充能117 双暴96&#x2F;180 攻击2159</p>
+<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
+<p>**@西风剑 ** R5 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命33645 充能242 双暴79&#x2F;160</p>
 <h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
 <p><strong>@ 西风秘典</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>   充能 攻击 暴击</p>
-<p><strong>%</strong> 攻击2160 充能239 暴击53</p>
-<h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-8</strong></p>
-<p><strong>@ 有乐御簾切</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>  攻击 雷伤 暴击</p>
-<p><strong>%</strong> 攻击2027 双暴87&#x2F;208 充能143</p>
-<p><strong>发黄光有眼睛的帽子是真帽子。没有龙王打的好像是吃力许多，克洛琳德伤害没有芙芙高。</strong></p>
+<p><strong>&amp; 翠绿之影4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 充能239 暴击45 攻击2314</p>
+<h3 id="伊安珊"><a href="#伊安珊" class="headerlink" title="伊安珊"></a>伊安珊</h3><p><strong>Lv87_C0_1-3-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 烬城勇者4</strong>  攻击  攻击  攻击</p>
+<p><strong>%</strong> 充能175  暴击40 攻击2669</p>
+<p>牛牛打下落这一块儿</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -784,69 +872,6 @@
 <p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
 <p><strong>%</strong> 生命40301 充能157</p>
 <p>破两次盾之内应该可以打完，需要凹一下</p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI 6.2 幽境危战</title>
-    <url>/2025/12/15/GI-6-2-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>暝视龙难度高，跳楼机难度较高，深罪浸礼者最简单。</p>
-<p>N5低金，超载感觉是版本答案</p>
-<span id="more"></span>
-
-<h2 id="深罪浸礼者-64s"><a href="#深罪浸礼者-64s" class="headerlink" title="深罪浸礼者 64s"></a>深罪浸礼者 64s</h2><h3 id="夜兰"><a href="#夜兰" class="headerlink" title="夜兰"></a>夜兰</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 西风猎弓</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
-<p><strong>@ 息灾</strong> R1 </p>
-<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2436 双暴71&#x2F;159 充能174</p>
-<h3 id="茜特菈莉-赋光-剧诗"><a href="#茜特菈莉-赋光-剧诗" class="headerlink" title="茜特菈莉(赋光+剧诗)"></a>茜特菈莉(赋光+剧诗)</h3><p><strong>Lv86_C0_1-9-8</strong></p>
-<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
-<p><strong>&amp; 烬城勇者4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通836 充能138</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
-<p><strong>%</strong> 攻击2222 双暴78&#x2F;247</p>
-<p>简单，丝柯克大人的数值这一块</p>
-<h2 id="暝视龙-101s"><a href="#暝视龙-101s" class="headerlink" title="暝视龙 101s"></a>暝视龙 101s</h2><h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-9</strong></p>
-<p><strong>@ 有乐御簾切</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 充能125 双暴84&#x2F;212 攻击2283</p>
-<h3 id="菲谢尔"><a href="#菲谢尔" class="headerlink" title="菲谢尔"></a>菲谢尔</h3><p><strong>Lv90_C6_3-12-9</strong></p>
-<p><strong>@ 天空之翼</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 充能100 双暴92&#x2F;157 攻击2300</p>
-<h3 id="夏沃蕾"><a href="#夏沃蕾" class="headerlink" title="夏沃蕾"></a>夏沃蕾</h3><p><strong>Lv85_C6_1-12-7</strong></p>
-<p><strong>@ 沙中伟贤的对答</strong> R5</p>
-<p><strong>&amp; 昔时之歌4</strong>  生命  生命  生命</p>
-<p><strong>%</strong> 生命43793</p>
-<h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡(赋光)"></a>玛薇卡(赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 狼的末路</strong> R1</p>
-<p><strong>&amp; 烬城勇者4</strong>  攻击  火伤  暴击</p>
-<p><strong>%</strong> 双暴69&#x2F;143 攻击2911 精通19</p>
-<p>超载破冰盾这一块儿</p>
-<h2 id="实验性场力发生装置-99s"><a href="#实验性场力发生装置-99s" class="headerlink" title="实验性场力发生装置 99s"></a>实验性场力发生装置 99s</h2><h3 id="瓦雷莎-赋光"><a href="#瓦雷莎-赋光" class="headerlink" title="瓦雷莎(赋光)"></a>瓦雷莎(赋光)</h3><p><strong>Lv89_C0_9-8-9</strong></p>
-<p><strong>@ 四风原典</strong> R1</p>
-<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴伤</p>
-<p><strong>%</strong> 充能117 双暴96&#x2F;180 攻击2159</p>
-<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
-<p>**@西风剑 ** R5 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命33645 充能242 双暴79&#x2F;160</p>
-<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
-<p><strong>@ 西风秘典</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 充能239 暴击45 攻击2314</p>
-<h3 id="伊安珊"><a href="#伊安珊" class="headerlink" title="伊安珊"></a>伊安珊</h3><p><strong>Lv87_C0_1-3-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 烬城勇者4</strong>  攻击  攻击  攻击</p>
-<p><strong>%</strong> 充能175  暴击40 攻击2669</p>
-<p>牛牛打下落这一块儿</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -957,63 +982,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Upload images to hexo-based github.io portfolio</title>
-    <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
-    <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
-<span id="more"></span>
-
-<h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><h2 id="1-Install-plugins"><a href="#1-Install-plugins" class="headerlink" title="1 Install plugins"></a>1 Install plugins</h2><p>Install <code>hexo-asset-image</code> plugin</p>
-<p><code>npm install hexo-asset-image --save</code></p>
-<p>Install <code>hexo-renderer-marked</code> plugin</p>
-<p><code>npm install hexo-renderer-marked --save</code></p>
-<p>Edit <code>_config.yml</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">post_asset_folder: true</span><br><span class="line">marked:</span><br><span class="line"> prependRoot: true</span><br><span class="line"> postAsset: false</span><br></pre></td></tr></table></figure>
-
-<p>The “postAsset: false” is important due to the redundancy of generated absolute image path.</p>
-<h2 id="2-Insert-image"><a href="#2-Insert-image" class="headerlink" title="2 Insert image"></a>2 Insert image</h2><p>With <code>hexo-asset-image</code> plugin installed we make a new post:</p>
-<p><code>hexo new &quot;project name&quot;</code></p>
-<p>A new directory is automatically generated </p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png" alt="Illustration of new generated directory"><figcaption aria-hidden="true">Illustration of new generated directory</figcaption></figure></p>
-<p>Now we insert an image to the markdown: For instance:</p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png" alt="Screenshot of Furina"><figcaption aria-hidden="true">Screenshot of Furina</figcaption></figure></p>
-<p>Then delete all strings before ‘&#x2F;‘. Now the image is invisible in Typora.</p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina"><figcaption aria-hidden="true">Furina</figcaption></figure></p>
-<h2 id="3-Insert-image-with-specific-width-and-captions"><a href="#3-Insert-image-with-specific-width-and-captions" class="headerlink" title="3 Insert image with specific width and captions"></a>3 Insert image with specific width and captions</h2><p>We note that the Furina image above is too wide. To regulate the image width, previous command to insert image is replaced by following commands:</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;figure&gt;</span><br><span class="line">    &lt;img src=&quot;(your png/jpg path)&quot; alt=&quot;title&quot; width=&quot;60%&quot;/&gt; // or width=&quot;500&quot; to specify the width</span><br><span class="line">    &lt;figcaption&gt;your title&lt;/figcaption&gt;</span><br><span class="line">&lt;/figure&gt;</span><br></pre></td></tr></table></figure>
-
-<p>Now the command is applied to upload a 60% Furina:</p>
-<figure>
-    <img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina" width="60%">
-    <figcaption>Furina</figcaption>
-</figure>
-
-<p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
-<h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
-]]></content>
-      <tags>
-        <tag>Tutorials</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随笔 2024/9/20</title>
-    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
-    <content><![CDATA[<p>不可放下骄傲之心</p>
-<span id="more"></span>
-
-<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
-<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
-<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
-<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
-<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
-<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
-<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
-<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
-]]></content>
-      <tags>
-        <tag>Essay</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>使用Origin和Adobe Illustrator建立交联质谱图</title>
     <url>/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/</url>
     <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>使用Origin和Adobe Illustrator将原始的交联质谱数据转化为圆环形交联质谱图</p>
@@ -1074,6 +1042,63 @@
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Upload images to hexo-based github.io portfolio</title>
+    <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
+    <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
+<span id="more"></span>
+
+<h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><h2 id="1-Install-plugins"><a href="#1-Install-plugins" class="headerlink" title="1 Install plugins"></a>1 Install plugins</h2><p>Install <code>hexo-asset-image</code> plugin</p>
+<p><code>npm install hexo-asset-image --save</code></p>
+<p>Install <code>hexo-renderer-marked</code> plugin</p>
+<p><code>npm install hexo-renderer-marked --save</code></p>
+<p>Edit <code>_config.yml</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">post_asset_folder: true</span><br><span class="line">marked:</span><br><span class="line"> prependRoot: true</span><br><span class="line"> postAsset: false</span><br></pre></td></tr></table></figure>
+
+<p>The “postAsset: false” is important due to the redundancy of generated absolute image path.</p>
+<h2 id="2-Insert-image"><a href="#2-Insert-image" class="headerlink" title="2 Insert image"></a>2 Insert image</h2><p>With <code>hexo-asset-image</code> plugin installed we make a new post:</p>
+<p><code>hexo new &quot;project name&quot;</code></p>
+<p>A new directory is automatically generated </p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png" alt="Illustration of new generated directory"><figcaption aria-hidden="true">Illustration of new generated directory</figcaption></figure></p>
+<p>Now we insert an image to the markdown: For instance:</p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png" alt="Screenshot of Furina"><figcaption aria-hidden="true">Screenshot of Furina</figcaption></figure></p>
+<p>Then delete all strings before ‘&#x2F;‘. Now the image is invisible in Typora.</p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina"><figcaption aria-hidden="true">Furina</figcaption></figure></p>
+<h2 id="3-Insert-image-with-specific-width-and-captions"><a href="#3-Insert-image-with-specific-width-and-captions" class="headerlink" title="3 Insert image with specific width and captions"></a>3 Insert image with specific width and captions</h2><p>We note that the Furina image above is too wide. To regulate the image width, previous command to insert image is replaced by following commands:</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;figure&gt;</span><br><span class="line">    &lt;img src=&quot;(your png/jpg path)&quot; alt=&quot;title&quot; width=&quot;60%&quot;/&gt; // or width=&quot;500&quot; to specify the width</span><br><span class="line">    &lt;figcaption&gt;your title&lt;/figcaption&gt;</span><br><span class="line">&lt;/figure&gt;</span><br></pre></td></tr></table></figure>
+
+<p>Now the command is applied to upload a 60% Furina:</p>
+<figure>
+    <img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina" width="60%">
+    <figcaption>Furina</figcaption>
+</figure>
+
+<p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
+<h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
+]]></content>
+      <tags>
+        <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随笔 2024/9/20</title>
+    <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
+    <content><![CDATA[<p>不可放下骄傲之心</p>
+<span id="more"></span>
+
+<h1 id="这段时间"><a href="#这段时间" class="headerlink" title="这段时间"></a>这段时间</h1><p>​		从广州回到学校已经一个月有余。这段时间内，出现了亚健康症状：有些精神不振，昏昏欲睡。为了这个症状，多次往返校医院和北医三院，查了脑袋、颈椎、心脏等多个位置，没有查出什么问题，只能够对日常生活习惯加以控制。目前在吃一些中成药和中药，希望经过完整疗程之后有用。</p>
+<p>​		此外，出现了两次发烧的症状。第一次发烧在使用洛索洛芬钠后，大约6小时就退烧正常；第二次则是白天带烧做实验之后，晚上直接烧到了38.8度，第二天才退下烧。第一天晚上睡觉的时候简直头疼欲裂，眼皮一直在抖动，吃了泰诺之后半小时才勉强睡下。这一生没有过类似于这一次的头痛经历。</p>
+<p>​		实验方面进展不多，实话说主观上也没有太想要积极推进实验的想法，目前陷入了一个僵局，可能需要歇一下多想想，多写写。</p>
+<h1 id="生活方式"><a href="#生活方式" class="headerlink" title="生活方式"></a>生活方式</h1><p>​		由于可预见的方便能做的实验都做完了，目前进入了不想做实验的时间。因此这几天主要在磨写文章的洋工。但是一天也只能写几百个单词，远不到老板半小时3000字的水平，只能说还得练。</p>
+<p>​		今天由于不做实验，并且前几天掌握了远程操控电脑的黑科技，能够在寝室写实验室电脑的文件，所以在吃完饭之后我就回到寝室了。今天十点便洗了澡，不像以前一样十一点回寝室然后拖延到最后几分钟光速洗澡。打开热水之后我就站立在原地，任由热水从发梢流下。</p>
+<p>​		这让我想起了本科，晚上没有课的时候，和大伙吃完饭就回宿舍，七八点就可以洗上澡，甚至能透过浴室的窗户看见红日，洗完澡后慢悠悠地在寝室里工作或是玩耍，龙哥在玩儿健身环，坤哥和嘉禾在开黑。但是前两个月大伙聚了一次，不能说是过得不顺吧，也只能说是都在坐牢。人长大了会失去许多东西，但我希望当我以后慢下来闲下来之后，能把少许遗忘的东西重新拾起。</p>
+<h1 id="人来人往"><a href="#人来人往" class="headerlink" title="人来人往"></a>人来人往</h1><p>​		经历了一段时间的松弛，对自己和身边人进行了重新看待，发现还是对自己为人处世的态度做法比较满意的。像开篇提到的不可放下骄傲之心，我希望能够一直贯彻下去。</p>
+<p>​		坚持自信，坚持自身的正确性和独一无二，对人对事物有内心的是非观念，并且不惧于发表出来。不与德行堪忧之人过多交集，多与高尚之人教学相长。但与此同时，不代表不能与自身和解，不代表不能对自身的想法和行为加以改进和变化。我距离真正做到这一点，依然有相当的距离。</p>
+]]></content>
+      <tags>
+        <tag>Essay</tag>
       </tags>
   </entry>
 </search>
