@@ -1,34 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Article Summary 6/21/25</title>
-    <url>/2025/06/27/Article-Summary-06-21-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
-<figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
-    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
-<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
-<figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
-    <figcaption> BRAF working model </figcaption>
-</figure>
-
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
-<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>8小时组装核小体尝试</title>
     <url>/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/</url>
     <content><![CDATA[<h1 id="目标"><a href="#目标" class="headerlink" title="目标"></a>目标</h1><p>在1天的上班时间内完成核小体的组装和Native-PAGE表征</p>
@@ -79,6 +51,62 @@
       </tags>
   </entry>
   <entry>
+    <title>Article Summary 6/21/25</title>
+    <url>/2025/06/27/Article-Summary-06-21-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
+<figure>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
+    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
+<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
+<figure>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
+    <figcaption> BRAF working model </figcaption>
+</figure>
+
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
+<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 25/09/21</title>
+    <url>/2025/09/21/Article-Summary-25-09-21/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Diffusing protein binders to intrinsically disordered proteins</strong></p>
+<figure>
+    <img src="/2025/09/21/Article-Summary-25-09-21/image-20250921182148527.png" alt="Diffusing protein binders to intrinsically disordered proteins" width="60%">
+    <figcaption> Binder Designs of Intrinsic Disordered Proteins </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Protein design; RFdiffusion; Protein tool development</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Intrinsically disordered proteins represent ~50% of human proteome. It exerts biological functions without specific secondary structure of peptide. IDPs act as vital effector in disease generation, like amylin in diabetes, and C-peptide as biomarker for diabetes. </p>
+<p>Therefore, designing IDP binders helps to understand and regulate such disease and related pathways. Hitherto, binder design is only limited to structured target, while binders of unstructured targets such as IDPs mainly derived from high-cost and low-reproducibility antibody production. Protein computational design towards unstructured targets is urgently needed.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><h3 id="Principle"><a href="#Principle" class="headerlink" title="Principle"></a>Principle</h3><p>Specifically-trained RFdiffusion model from 2-chain PDB database (1 chain structure given, 1 chain only sequence given, structure randomized) to design proteins. In training only 50% of complete noise time is consumed, resulting in limited geometry with some randomness, rather than totally noised. Therefore using this trained model, we could input only target sequence to design a binder towards this target. In design, both target and binder is noised and denoised, which is different from previous approach in which only binder is noised and denoised. Thus the strategy is called two-sided partial diffusion.</p>
+<p>For short unstructured target peptides: also pretrained RFdiffusion model, capable of annotating specified secondary structures at a target region. Through this strategy, we can design target-binder pair other than helix-based interactions (maintained through hydrophobic interactions) which are prevalent in protein design, diversifying the designed binder pool.</p>
+<h3 id="Validation"><a href="#Validation" class="headerlink" title="Validation"></a>Validation</h3><p>In silicon validation: Rosetta relax (pLDDT; ddG etc.) to screen ~100 designs from ~10-50k candidates</p>
+<p>Binding evaluation: most binders bind target at 3-100 nM level.</p>
+<p>Crystal structure: RMSD of αC of predicted-resolved is low enough to confirm the correct design of binder-target interactions.</p>
+<p>Cellular validation: binders bind target in cell and affect physical properties of targets in cell.</p>
+<p>Disease-related: binder prevents amylin aggregation in cell and tag-fused binder cause amylin transported to lysozyme to degradation.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09248-9</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article Summary 25/11/08</title>
     <url>/2025/11/11/Article-Summary-25-11-08/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Lysine-specific histone demethylase complex restricts Epstein–Barr virus lytic reactivation</strong></p>
@@ -124,28 +152,27 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 25/09/21</title>
-    <url>/2025/09/21/Article-Summary-25-09-21/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Diffusing protein binders to intrinsically disordered proteins</strong></p>
+    <title>Article Summary 25/12/23</title>
+    <url>/2025/12/23/Article-Summary-25-12-23/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A chemical agonist and the Golgi-resident lipid PI4P activate STING by inducing transmembrane helix rearrangement</strong></p>
 <figure>
-    <img src="/2025/09/21/Article-Summary-25-09-21/image-20250921182148527.png" alt="Diffusing protein binders to intrinsically disordered proteins" width="60%">
-    <figcaption> Binder Designs of Intrinsic Disordered Proteins </figcaption>
+    <img src="/2025/12/23/Article-Summary-25-12-23/image-20251223152351953.png" alt="Chemical agonist and PI4P concertly activate STING and downstream pathways" width="60%">
+    <figcaption> Chemical agonist and PI4P concertly activate STING and downstream pathways </figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Protein design; RFdiffusion; Protein tool development</p>
+
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Immunity</p>
+<h2 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h2><p>Conggang Zhang (Tsinghua University)</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>cGAS-STING; PI4P; Molecular glue</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Intrinsically disordered proteins represent ~50% of human proteome. It exerts biological functions without specific secondary structure of peptide. IDPs act as vital effector in disease generation, like amylin in diabetes, and C-peptide as biomarker for diabetes. </p>
-<p>Therefore, designing IDP binders helps to understand and regulate such disease and related pathways. Hitherto, binder design is only limited to structured target, while binders of unstructured targets such as IDPs mainly derived from high-cost and low-reproducibility antibody production. Protein computational design towards unstructured targets is urgently needed.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><h3 id="Principle"><a href="#Principle" class="headerlink" title="Principle"></a>Principle</h3><p>Specifically-trained RFdiffusion model from 2-chain PDB database (1 chain structure given, 1 chain only sequence given, structure randomized) to design proteins. In training only 50% of complete noise time is consumed, resulting in limited geometry with some randomness, rather than totally noised. Therefore using this trained model, we could input only target sequence to design a binder towards this target. In design, both target and binder is noised and denoised, which is different from previous approach in which only binder is noised and denoised. Thus the strategy is called two-sided partial diffusion.</p>
-<p>For short unstructured target peptides: also pretrained RFdiffusion model, capable of annotating specified secondary structures at a target region. Through this strategy, we can design target-binder pair other than helix-based interactions (maintained through hydrophobic interactions) which are prevalent in protein design, diversifying the designed binder pool.</p>
-<h3 id="Validation"><a href="#Validation" class="headerlink" title="Validation"></a>Validation</h3><p>In silicon validation: Rosetta relax (pLDDT; ddG etc.) to screen ~100 designs from ~10-50k candidates</p>
-<p>Binding evaluation: most binders bind target at 3-100 nM level.</p>
-<p>Crystal structure: RMSD of αC of predicted-resolved is low enough to confirm the correct design of binder-target interactions.</p>
-<p>Cellular validation: binders bind target in cell and affect physical properties of targets in cell.</p>
-<p>Disease-related: binder prevents amylin aggregation in cell and tag-fused binder cause amylin transported to lysozyme to degradation.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09248-9</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>cGAS-STING pathway regulates innate immunity and is potential drug target. In cGAS-STING pathyway, cGAS recognizes dsDNA to produce STING agonist cGAMP, the latter stimulates STING oligomerization at Golgi and activates the downstream cascade reaction to trigger immunity pathway. Recently, the phospholipid PI4P was reported to activate STING pathway but the mechanism of how PI4P activates STING is yet elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Through screening the STING-activating phenotype using a small molecular drug library, GNE-6468 was discovered and found to be an agonist of STING-induced innate immunity in cell. Next, they analyzed the cryo-EM structure of GNE-6468 bound to STING and found GNE-6468 bound a new binding pocket formed by two STING dimers. Surprisingly, densities of PI4P was found in complex structure, indicating PI4P as a molecular glue to stimulate oligomerization of STING. </p>
+<p>Next, they performed detailed structure analysis and found GNE-6468 caused ~9.6 angstrom shift of STING transmembrane helix 2 and 3, which is orthogonal to other STING agonists. Inhibitors targeting TM2&#x2F;3 suppressed the stimulation of GNE-6468 towards STING. Moreover, mutation assays suggested that both the interaction PI4P and GNE-6468 with STING were indispensable for STING oligomerization and activation.</p>
+<p>Subsequently, they found PI4P was essential for GNE-6468 activating STING in cell, and verified the drug effect of GNE-6468 to model cells and mice of anti-cancer.</p>
+<p>In summary, this article accidently found PI4P acts as a molecular glue to confer binding between GNE-6468 and STING. Also, the new molecule GNE-6468 was found to be an attractive STING-target agonist drug. However whether there is endogenous factors regulating PI4P-STING interaction was not clear.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.immuni.2025.11.004</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -175,52 +202,30 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 26/01/24</title>
-    <url>/2026/01/30/Article-Summary-26-01-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Antibody-lectin chimeras for glyco-immune checkpoint blockade</strong></p>
+    <title>Article Summary 26/04/25</title>
+    <url>/2026/04/25/Article-Summary-26-04-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A cell-permeable nanobody to restore F508del cystic fibrosis transmembrane conductance regulator activity</strong></p>
 <figure>
-    <img src="/2026/01/30/Article-Summary-26-01-24/image-20260130141103101.png" alt="Mechanism of antibody-lectin chimeras for glyco-immune checkpoint blockade" width="60%">
-    <figcaption> Antibody-lectin chimeras for glyco-immune checkpoint blockade </figcaption>
+    <img src="/2026/04/25/Article-Summary-26-04-25/image-20260425204305814.png" alt="Cell-permeable nanobody to restore F508del CFTR activity" width="60%">
+    <figcaption> Cell-permeable nanobody to restore F508del CFTR activity </figcaption>
 </figure>
 
-
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Biotechnology </p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Glycan; Checkpoint blockade therapy; Engineered antibody</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Nanobody, Cell permeable peptides</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Checkpoint blockade therapy has been used to treat nearly 50% cancer patients in US, but suffered from low response (20% patient) and drug resistance. New checkpoint blockade strategy is needed. Glycans is an attractive target for checkpoint blockade. On cancer cell surface, glycans such as sialic acid regulate immune cell functions, helping immune escape of cancer cell. Targeting those glycans is a checkpoint blockade therapy. Currently, lectin (protein binding glycans) binders towards glycans have low affinity with cancer cells, limiting their application on this therapy. A glycan checkpoint-targeted therapy is urgently needed.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Carolyn Bertozzi et al. developed AbLec, in which cancer cell-related antibody (such as HER2), was fused with lectin to form a chimera. They demonstrated AbLec could enhance immune function in cells and inhibit cancer cell growth in mice. AbLec exerts its function through eliminating the Siglec Ab (the intrinsic lectin receptor) enrichment in immune synapse, thus block the immune escape.</p>
-<p>Next, they expanded the range of AbLec to different cancer cell antigens and different lectin receptor, demonstrating its universality across most cancers. Also, fusing lectin receptor with another checkpoint blockage antibody, such as PD-1 and CD47, showed effect in cells.</p>
-<p>In summay, the AbLec strategy provided a path to block glycan immunologic checkpoint and established a wide platform to expand the use of AbLex chimera.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41587-025-02884-6</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 25/12/23</title>
-    <url>/2025/12/23/Article-Summary-25-12-23/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A chemical agonist and the Golgi-resident lipid PI4P activate STING by inducing transmembrane helix rearrangement</strong></p>
-<figure>
-    <img src="/2025/12/23/Article-Summary-25-12-23/image-20251223152351953.png" alt="Chemical agonist and PI4P concertly activate STING and downstream pathways" width="60%">
-    <figcaption> Chemical agonist and PI4P concertly activate STING and downstream pathways </figcaption>
-</figure>
-
-
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Immunity</p>
-<h2 id="Authors"><a href="#Authors" class="headerlink" title="Authors"></a>Authors</h2><p>Conggang Zhang (Tsinghua University)</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>cGAS-STING; PI4P; Molecular glue</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>cGAS-STING pathway regulates innate immunity and is potential drug target. In cGAS-STING pathyway, cGAS recognizes dsDNA to produce STING agonist cGAMP, the latter stimulates STING oligomerization at Golgi and activates the downstream cascade reaction to trigger immunity pathway. Recently, the phospholipid PI4P was reported to activate STING pathway but the mechanism of how PI4P activates STING is yet elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Through screening the STING-activating phenotype using a small molecular drug library, GNE-6468 was discovered and found to be an agonist of STING-induced innate immunity in cell. Next, they analyzed the cryo-EM structure of GNE-6468 bound to STING and found GNE-6468 bound a new binding pocket formed by two STING dimers. Surprisingly, densities of PI4P was found in complex structure, indicating PI4P as a molecular glue to stimulate oligomerization of STING. </p>
-<p>Next, they performed detailed structure analysis and found GNE-6468 caused ~9.6 angstrom shift of STING transmembrane helix 2 and 3, which is orthogonal to other STING agonists. Inhibitors targeting TM2&#x2F;3 suppressed the stimulation of GNE-6468 towards STING. Moreover, mutation assays suggested that both the interaction PI4P and GNE-6468 with STING were indispensable for STING oligomerization and activation.</p>
-<p>Subsequently, they found PI4P was essential for GNE-6468 activating STING in cell, and verified the drug effect of GNE-6468 to model cells and mice of anti-cancer.</p>
-<p>In summary, this article accidently found PI4P acts as a molecular glue to confer binding between GNE-6468 and STING. Also, the new molecule GNE-6468 was found to be an attractive STING-target agonist drug. However whether there is endogenous factors regulating PI4P-STING interaction was not clear.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.immuni.2025.11.004</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Cystic fibrosis (CF) is a genetic disorder primarily caused by mutations in CFTR gene. The most prevalent mutation, F508del, leads to protein misfolding, and consequently, loss of chloride channel function. While small-molecule CFTR modulators, such as the triple-combination therapy elexacaftor&#x2F;tezacaftor&#x2F;ivacaftor (ETI), have improved clinical outcomes, they often provide only partial functional correction, highlighting an unmet therapeutic need.</p>
+<p>Nanobodies, represent a promising class of biologics due to their small size, high stability, and specificity. A previously identified nanobody, NB1, has been shown to act as a chaperone, stabilizing the F508del-CFTR protein <em>in vitro</em> and restoring its function. However, a major limitation for therapeutic application is the inefficient delivery of macromolecules like nanobodies into the cytosol to reach intracellular targets like CFTR. Cell-penetrating peptides (CPPs) offer a potential strategy to overcome this barrier by facilitating the cytosolic delivery of conjugated cargoes.</p>
+<p>Thus, the central scientific question addressed in this study is whether a cell-permeable nanobody can be engineered to effectively rescue the function of misfolded F508del-CFTR within cells, potentially synergizing with existing therapies to achieve more complete functional restoration.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study designed, synthesized, and functionally validated a cell-permeable nanobody to restore F508del-CFTR activity. The core achievements are outlined below:</p>
+<ol>
+<li><strong>Design and Synthesis of a Cell-Permeable Nanobody:</strong> The known CFTR-binding nanobody NB1 was conjugated to FITC and coupled to the arginine-rich cell-penetrating peptide R10 using a disulfide linkage strategy, creating a cell-permeable construct.</li>
+<li><strong>Demonstration of Efficient Cytosolic Delivery and Target Engagement:</strong> the study demonstrated that NB1 was efficiently delivered into the cytoplasm of various cell lines and, critically, into highly differentiated primary human airway epithelial cultures derived from CF patients. The nanobody retained its ability to bind intracellular F508del-CFTR, as evidenced by co-localization studies.</li>
+<li><strong>Rescue of F508del-CFTR Function in Model Cell Lines:</strong>  Increased levels of the mature, complex-glycosylated Band C form of CFTR, indicating improved maturation and trafficking. Functional assays, including transepithelial short-circuit current measurements, confirmed the rescue of chloride channel activity</li>
+<li><strong>Synergistic Functional Rescue in CF Patient-Derived Cells:</strong> The most significant finding was achieved in primary airway cultures from CF patients. The cell-permeable NB1-R10 nanobody not only entered cells but also synergized with the clinically approved small-molecule correctors in the ETI triple therapy. The combination therapy, targeting the NBD1 domain (via the nanobody) and other regions of CFTR (via small molecules), restored F508del-CFTR function to near-normal levels. This represents the first successful demonstration of CPP-mediated protein delivery and functional rescue by a nanobody in primary human cells from CF patients.</li>
+</ol>
+<p>(Generated by DS v3.2.)</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-026-02199-w  </p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -274,6 +279,55 @@
       </tags>
   </entry>
   <entry>
+    <title>Article Summary 7/5/25</title>
+    <url>/2025/07/08/Article-Summary-7-5-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Isoform-specific function of NSD3 in DNA replication stress confers resistance to PARP inhibitors in prostate cancer</strong></p>
+<figure>
+    <img src="/2025/07/08/Article-Summary-7-5-25/image-20250708150219735.png" alt="NSD3S in DNA replication stress determines the resistance to PARPi in prostate cancer" width="60%">
+    <figcaption> NSD3S in DNA replication stress determines the resistance to PARPi in prostate cancer </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP inhibitors; Drug resistance; Prostate cancer</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>mCRPC is a lethal cancer that belongs to prostate cancer (PC). Large fraction of mCRPC patients are shown genomic anomaly, especially in DNA repair related genes. PARP inhibitors have been employed to treat such DNA-repair deficient cancers. However, clinical trial of PARP1 towards mCRPC exhibited drug resistance with unknown mechanism. How mCRPC generates PARPi drug resistance remains elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>First, to discover the dark matter in mCPRC drug resistance towards PARPi, the article searched the mCPRC-relevant deleterious gene in patient database and searched human reference interactome to seek potential regulators. NSD3, a methyltransferase family, containing 2 paralogues NSD3S and NSD3L, is targeted. Through overexpression of NSD3S in cells, they found NSD3S confers drug PARPi resistance to PC cells. As well, they found that PARPi-resistant PC cells showed high NSD3S level, and knockdown of NSD3S significantly raised the sensitivity towards PARPi. In addition, PROTAC targeting of NSD3 also weaken the drug resistance. They then expanded the usage of PROTAC-PARPi to mouse model and found PROTAC-PARPi combination strategy robust for NSD3S-abundant PC cells.</p>
+<p>To explore why NSD3S is highly abundant in PARPi-resistant PC cells, they performed IP-MS and found CUL3^TBZB2^ E3 complex responsible for ubiquitination degradation of NSD3S. In PARPi-resistant cells, CUL3^TBZB2^ E3 is low abundant and thus unable to sufficiently degrade NSD3S.</p>
+<p>Next, to explore the mechanism by which NSD3S used to escape PARPi, they revealed NSD3S is phosphorylated and recruited to DNA replication fork and stabilizing the fork. Binding of NSD3S to replication fork requires PT1P, which generates a competition between NSD3S and nuclease MRE11 (which also requires PT1P to bind replication fork), thus preventing sufficient digestion of replication fork by MRE11.</p>
+<p>Finally, they systematically evaluated the relationship between NSD3S level in cell and PARPi resistance. They also searched the NSD3S-PARPi resistance relationship in ovarian cancer patients. They claimed NSD3S is competitive for playing as a PARPi resistance biomarker.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.molcel.2025.06.004</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 26/01/24</title>
+    <url>/2026/01/30/Article-Summary-26-01-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Antibody-lectin chimeras for glyco-immune checkpoint blockade</strong></p>
+<figure>
+    <img src="/2026/01/30/Article-Summary-26-01-24/image-20260130141103101.png" alt="Mechanism of antibody-lectin chimeras for glyco-immune checkpoint blockade" width="60%">
+    <figcaption> Antibody-lectin chimeras for glyco-immune checkpoint blockade </figcaption>
+</figure>
+
+
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Biotechnology </p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Glycan; Checkpoint blockade therapy; Engineered antibody</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Checkpoint blockade therapy has been used to treat nearly 50% cancer patients in US, but suffered from low response (20% patient) and drug resistance. New checkpoint blockade strategy is needed. Glycans is an attractive target for checkpoint blockade. On cancer cell surface, glycans such as sialic acid regulate immune cell functions, helping immune escape of cancer cell. Targeting those glycans is a checkpoint blockade therapy. Currently, lectin (protein binding glycans) binders towards glycans have low affinity with cancer cells, limiting their application on this therapy. A glycan checkpoint-targeted therapy is urgently needed.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Carolyn Bertozzi et al. developed AbLec, in which cancer cell-related antibody (such as HER2), was fused with lectin to form a chimera. They demonstrated AbLec could enhance immune function in cells and inhibit cancer cell growth in mice. AbLec exerts its function through eliminating the Siglec Ab (the intrinsic lectin receptor) enrichment in immune synapse, thus block the immune escape.</p>
+<p>Next, they expanded the range of AbLec to different cancer cell antigens and different lectin receptor, demonstrating its universality across most cancers. Also, fusing lectin receptor with another checkpoint blockage antibody, such as PD-1 and CD47, showed effect in cells.</p>
+<p>In summay, the AbLec strategy provided a path to block glycan immunologic checkpoint and established a wide platform to expand the use of AbLex chimera.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41587-025-02884-6</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article Summary 5/24/25</title>
     <url>/2025/05/26/Article-Summary-5-24-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
@@ -318,30 +372,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 7/5/25</title>
-    <url>/2025/07/08/Article-Summary-7-5-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Isoform-specific function of NSD3 in DNA replication stress confers resistance to PARP inhibitors in prostate cancer</strong></p>
-<figure>
-    <img src="/2025/07/08/Article-Summary-7-5-25/image-20250708150219735.png" alt="NSD3S in DNA replication stress determines the resistance to PARPi in prostate cancer" width="60%">
-    <figcaption> NSD3S in DNA replication stress determines the resistance to PARPi in prostate cancer </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP inhibitors; Drug resistance; Prostate cancer</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>mCRPC is a lethal cancer that belongs to prostate cancer (PC). Large fraction of mCRPC patients are shown genomic anomaly, especially in DNA repair related genes. PARP inhibitors have been employed to treat such DNA-repair deficient cancers. However, clinical trial of PARP1 towards mCRPC exhibited drug resistance with unknown mechanism. How mCRPC generates PARPi drug resistance remains elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>First, to discover the dark matter in mCPRC drug resistance towards PARPi, the article searched the mCPRC-relevant deleterious gene in patient database and searched human reference interactome to seek potential regulators. NSD3, a methyltransferase family, containing 2 paralogues NSD3S and NSD3L, is targeted. Through overexpression of NSD3S in cells, they found NSD3S confers drug PARPi resistance to PC cells. As well, they found that PARPi-resistant PC cells showed high NSD3S level, and knockdown of NSD3S significantly raised the sensitivity towards PARPi. In addition, PROTAC targeting of NSD3 also weaken the drug resistance. They then expanded the usage of PROTAC-PARPi to mouse model and found PROTAC-PARPi combination strategy robust for NSD3S-abundant PC cells.</p>
-<p>To explore why NSD3S is highly abundant in PARPi-resistant PC cells, they performed IP-MS and found CUL3^TBZB2^ E3 complex responsible for ubiquitination degradation of NSD3S. In PARPi-resistant cells, CUL3^TBZB2^ E3 is low abundant and thus unable to sufficiently degrade NSD3S.</p>
-<p>Next, to explore the mechanism by which NSD3S used to escape PARPi, they revealed NSD3S is phosphorylated and recruited to DNA replication fork and stabilizing the fork. Binding of NSD3S to replication fork requires PT1P, which generates a competition between NSD3S and nuclease MRE11 (which also requires PT1P to bind replication fork), thus preventing sufficient digestion of replication fork by MRE11.</p>
-<p>Finally, they systematically evaluated the relationship between NSD3S level in cell and PARPi resistance. They also searched the NSD3S-PARPi resistance relationship in ovarian cancer patients. They claimed NSD3S is competitive for playing as a PARPi resistance biomarker.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.molcel.2025.06.004</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article-summary-03-07-25</title>
     <url>/2025/04/10/Article-summary-03-07-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
@@ -364,28 +394,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 04-26-25</title>
-    <url>/2025/05/08/Article-summary-04-26-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
-<figure>
-    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
-    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
-<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article-summary-1-19-25</title>
     <url>/2025/02/01/Article-summary-1-19-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
@@ -402,6 +410,28 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
 <p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 04-26-25</title>
+    <url>/2025/05/08/Article-summary-04-26-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
+<figure>
+    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
+    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
+<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -453,6 +483,28 @@
       </tags>
   </entry>
   <entry>
+    <title>Article summary 8/23/24</title>
+    <url>/2024/08/23/Article-summary-8-23-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
+<figure>
+    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
+    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
+<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article summary 8/21/24</title>
     <url>/2024/08/21/Article-summary-8-21-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
@@ -475,22 +527,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 8/23/24</title>
-    <url>/2024/08/23/Article-summary-8-23-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
 <figure>
-    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
-    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
 </figure>
 
 <h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
-<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -539,28 +591,6 @@
 <p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
 <p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
 <h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article-summary-9-30-24</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -692,62 +722,125 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 6.0 幽境危战</title>
-    <url>/2025/09/19/GI-6-0-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>第二间极其需要菈乌玛；第三间除了牛牛以外的0+0雷C，力度已经不太够了。第一间较为好打。</p>
+    <title>GI 6.1 幽境危战</title>
+    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
 <span id="more"></span>
 
-<h2 id="兆载永劫龙兽-94s"><a href="#兆载永劫龙兽-94s" class="headerlink" title="兆载永劫龙兽 94s"></a>兆载永劫龙兽 94s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 若水</strong> R1</p>
+<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
 <p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命35444 双暴90&#x2F;210 充能197</p>
+<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
 <h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
 <p><strong>@ 息灾</strong> R1 </p>
 <p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 攻击2567 双暴81&#x2F;143 充能172</p>
+<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
 <h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
-<p><strong>@ 讨龙</strong> R5 Lv.20 </p>
+<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
 <p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
-<p><strong>%</strong> 充能229</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_3-10-10</strong></p>
+<p><strong>%</strong> 充能227</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
 <p><strong>@ 苍耀</strong> R1</p>
 <p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2806 双暴74&#x2F;239</p>
-<p>由于卡生命比例加抗性的机制，需要让丝柯克在转换抗性之前打尽可能多的伤害，需要卡爆发期.</p>
-<h2 id="绽放岩居蟹-93s"><a href="#绽放岩居蟹-93s" class="headerlink" title="绽放岩居蟹 93s"></a>绽放岩居蟹 93s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv86_C0_1-6-7</strong></p>
-<p><strong>@ 天光的纺琴</strong> R5 Lv.80 </p>
-<p><strong>&amp; 深林的记忆4</strong>  充能  精通  精通</p>
-<p><strong>%</strong> 精通898 充能215 双暴30&#x2F;104 攻击1101</p>
-<h3 id="行秋-剧诗Buff"><a href="#行秋-剧诗Buff" class="headerlink" title="行秋 (剧诗Buff)"></a>行秋 (剧诗Buff)</h3><p><strong>Lv90_C6_1-11-12</strong></p>
-<p><strong>@ 祭礼剑</strong> R5 </p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 攻击1270 双暴62&#x2F;130 充能248</p>
-<h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
-<p><strong>@ 祭礼残章</strong> R5 </p>
-<p><strong>&amp; 饰金之梦4</strong>  精通  草伤  暴击</p>
-<p><strong>%</strong> 精通819 充能120 双暴51&#x2F;133 攻击1132</p>
+<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
+<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
+<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5 </p>
+<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
+<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
+<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
+<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
+<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
+<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
+<p>**@静水流涌之辉 ** R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
 <h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
 <p><strong>@ 西福斯的月光</strong> R3</p>
 <p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通877 生命26001 充能134</p>
-<p>半刚需菈乌玛，一个长E可以同时激活6个蘑菇。如果只用小草打由于缺水，会非常麻烦</p>
-<h2 id="火刃突击队员-感电锅-100s"><a href="#火刃突击队员-感电锅-100s" class="headerlink" title="火刃突击队员 (感电锅) 100s"></a>火刃突击队员 (感电锅) 100s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@ 静水流涌之辉</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 双暴88&#x2F;229 生命30349 充能164 </p>
-<h3 id="欧洛伦"><a href="#欧洛伦" class="headerlink" title="欧洛伦"></a>欧洛伦</h3><p><strong>Lv85_C0_1-10-8</strong></p>
-<p><strong>@ 西风猎弓</strong> R5</p>
-<p><strong>&amp; 烬城勇者绘卷4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 攻击1579 双暴58&#x2F;129 充能218</p>
-<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
-<p><strong>@ 西风秘典</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>   充能 攻击 暴击</p>
-<p><strong>%</strong> 攻击2314 充能239 暴击44</p>
-<h3 id="瓦雷莎-赋光"><a href="#瓦雷莎-赋光" class="headerlink" title="瓦雷莎 (赋光)"></a>瓦雷莎 (赋光)</h3><p><strong>Lv87_C0_9-8-9</strong></p>
+<p><strong>%</strong> 精通877 生命25291 充能148</p>
+<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
+<p><strong>@ 和璞鸢</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
+<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
+<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 有乐</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
+<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
+<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
+<p><strong>%</strong> 生命27983 充能291</p>
+<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
+<p><strong>%</strong> 生命40301 充能157</p>
+<p>破两次盾之内应该可以打完，需要凹一下</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 6.3 幽境危战</title>
+    <url>/2026/02/01/GI-6-3-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>第一间黑龙极难，基本只有绽放能打</p>
+<p>第二间月感电，有人机就好说</p>
+<p>第三间龙王轻松打，但我无龙王，用丝柯克也能较为轻松打过去</p>
+<span id="more"></span>
+
+<h2 id="深黯魇语之主-80s"><a href="#深黯魇语之主-80s" class="headerlink" title="深黯魇语之主 80s"></a>深黯魇语之主 80s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5</p>
+<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通956 充能248 双暴31&#x2F;100 攻击1111</p>
+<h3 id="奈芙尔-赋光"><a href="#奈芙尔-赋光" class="headerlink" title="奈芙尔 (赋光)"></a>奈芙尔 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 霜辰</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>   精通  精通  暴伤</p>
+<p><strong>%</strong> 精通681 双暴50&#x2F;268 攻击1285</p>
+<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv88_C2_1-9-7</strong></p>
+<p><strong>@ 试作金珀</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>   充能  生命  暴击</p>
+<p><strong>%</strong> 生命39230 精通80 双暴79&#x2F;128 充能182</p>
+<h3 id="纳西妲"><a href="#纳西妲" class="headerlink" title="纳西妲"></a>纳西妲</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 祭礼残章</strong> R5</p>
+<p><strong>&amp; 深林的记忆4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通1049 双暴29&#x2F;96 充能148 攻击1144</p>
+<p>直接打大的，伤害会高</p>
+<h2 id="火刀哥-103s"><a href="#火刀哥-103s" class="headerlink" title="火刀哥 103s"></a>火刀哥 103s</h2><h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv90_C0_10-8-9</strong></p>
 <p><strong>@ 流浪乐章</strong> R5</p>
 <p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 攻击1900 双暴87&#x2F;200 充能117</p>
-<p>难打，主要还有回复盾，需要感电来抑制回复效果</p>
+<p><strong>%</strong> 充能117 双暴98&#x2F;193 攻击1914</p>
+<h3 id="伊涅芙-赋光"><a href="#伊涅芙-赋光" class="headerlink" title="伊涅芙(赋光)"></a>伊涅芙(赋光)</h3><p><strong>Lv85_C0_1-9-6</strong></p>
+<p><strong>@ 峡湾长歌</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 精通141 双暴82&#x2F;179 攻击2174</p>
+<h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C3_1-2-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
+<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  暴击</p>
+<p><strong>%</strong> 精通407 双暴64&#x2F;102 充能194</p>
+<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
+<p><strong>@ 西风秘典</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 充能239 暴击45 攻击2314</p>
+<p>正常打，火刀比6.0的并无额外提升</p>
+<h2 id="火螃蟹-93s"><a href="#火螃蟹-93s" class="headerlink" title="火螃蟹 93s"></a>火螃蟹 93s</h2><h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv90_C4_1-1-12</strong></p>
+<p><strong>@ 讨龙英杰谭</strong> R5</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
+<p><strong>%</strong>  充能219</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 攻击1945 双暴71&#x2F;159 充能204</p>
+<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@西风剑</strong> R5 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命27227 充能237 双暴91&#x2F;146</p>
+<h3 id="丝柯克"><a href="#丝柯克" class="headerlink" title="丝柯克"></a>丝柯克</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 攻击2222 双暴78&#x2F;247</p>
+<p>卡好空窗期，丝老师偷大后开E砍能砍接近一半</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -817,61 +910,62 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 6.1 幽境危战</title>
-    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
+    <title>GI 6.0 幽境危战</title>
+    <url>/2025/09/19/GI-6-0-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>第二间极其需要菈乌玛；第三间除了牛牛以外的0+0雷C，力度已经不太够了。第一间较为好打。</p>
 <span id="more"></span>
 
-<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 西风猎弓</strong> R5</p>
+<h2 id="兆载永劫龙兽-94s"><a href="#兆载永劫龙兽-94s" class="headerlink" title="兆载永劫龙兽 94s"></a>兆载永劫龙兽 94s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 若水</strong> R1</p>
 <p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
+<p><strong>%</strong> 生命35444 双暴90&#x2F;210 充能197</p>
 <h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
 <p><strong>@ 息灾</strong> R1 </p>
 <p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
+<p><strong>%</strong> 攻击2567 双暴81&#x2F;143 充能172</p>
 <h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
-<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
+<p><strong>@ 讨龙</strong> R5 Lv.20 </p>
 <p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
-<p><strong>%</strong> 充能227</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>%</strong> 充能229</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_3-10-10</strong></p>
 <p><strong>@ 苍耀</strong> R1</p>
 <p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
-<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
-<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 天光的纺琴</strong> R5 </p>
-<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
-<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
-<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
-<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
-<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
-<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
-<p>**@静水流涌之辉 ** R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
+<p><strong>%</strong> 攻击2806 双暴74&#x2F;239</p>
+<p>由于卡生命比例加抗性的机制，需要让丝柯克在转换抗性之前打尽可能多的伤害，需要卡爆发期.</p>
+<h2 id="绽放岩居蟹-93s"><a href="#绽放岩居蟹-93s" class="headerlink" title="绽放岩居蟹 93s"></a>绽放岩居蟹 93s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv86_C0_1-6-7</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5 Lv.80 </p>
+<p><strong>&amp; 深林的记忆4</strong>  充能  精通  精通</p>
+<p><strong>%</strong> 精通898 充能215 双暴30&#x2F;104 攻击1101</p>
+<h3 id="行秋-剧诗Buff"><a href="#行秋-剧诗Buff" class="headerlink" title="行秋 (剧诗Buff)"></a>行秋 (剧诗Buff)</h3><p><strong>Lv90_C6_1-11-12</strong></p>
+<p><strong>@ 祭礼剑</strong> R5 </p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 攻击1270 双暴62&#x2F;130 充能248</p>
+<h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 祭礼残章</strong> R5 </p>
+<p><strong>&amp; 饰金之梦4</strong>  精通  草伤  暴击</p>
+<p><strong>%</strong> 精通819 充能120 双暴51&#x2F;133 攻击1132</p>
 <h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
 <p><strong>@ 西福斯的月光</strong> R3</p>
 <p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通877 生命25291 充能148</p>
-<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
-<p><strong>@ 和璞鸢</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
-<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
-<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 有乐</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
-<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
-<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
-<p><strong>@ 天空之刃</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 生命27983 充能291</p>
-<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
-<p><strong>%</strong> 生命40301 充能157</p>
-<p>破两次盾之内应该可以打完，需要凹一下</p>
+<p><strong>%</strong> 精通877 生命26001 充能134</p>
+<p>半刚需菈乌玛，一个长E可以同时激活6个蘑菇。如果只用小草打由于缺水，会非常麻烦</p>
+<h2 id="火刃突击队员-感电锅-100s"><a href="#火刃突击队员-感电锅-100s" class="headerlink" title="火刃突击队员 (感电锅) 100s"></a>火刃突击队员 (感电锅) 100s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 静水流涌之辉</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 双暴88&#x2F;229 生命30349 充能164 </p>
+<h3 id="欧洛伦"><a href="#欧洛伦" class="headerlink" title="欧洛伦"></a>欧洛伦</h3><p><strong>Lv85_C0_1-10-8</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
+<p><strong>&amp; 烬城勇者绘卷4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 攻击1579 双暴58&#x2F;129 充能218</p>
+<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
+<p><strong>@ 西风秘典</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>   充能 攻击 暴击</p>
+<p><strong>%</strong> 攻击2314 充能239 暴击44</p>
+<h3 id="瓦雷莎-赋光"><a href="#瓦雷莎-赋光" class="headerlink" title="瓦雷莎 (赋光)"></a>瓦雷莎 (赋光)</h3><p><strong>Lv87_C0_9-8-9</strong></p>
+<p><strong>@ 流浪乐章</strong> R5</p>
+<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 攻击1900 双暴87&#x2F;200 充能117</p>
+<p>难打，主要还有回复盾，需要感电来抑制回复效果</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -939,14 +1033,54 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 6.3 幽境危战</title>
-    <url>/2026/02/01/GI-6-3-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>第一间黑龙极难，基本只有绽放能打</p>
-<p>第二间月感电，有人机就好说</p>
-<p>第三间龙王轻松打，但我无龙王，用丝柯克也能较为轻松打过去</p>
+    <title>GI 6.5 幽境危战</title>
+    <url>/2026/04/25/GI-6-5-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>月体系两队，丝老师一队，还是相对简单的，毕竟是版本队伍，总时长限制到了200s，这是第一次</p>
 <span id="more"></span>
 
-<h2 id="深黯魇语之主-80s"><a href="#深黯魇语之主-80s" class="headerlink" title="深黯魇语之主 80s"></a>深黯魇语之主 80s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<h2 id="岩守宫-59s"><a href="#岩守宫-59s" class="headerlink" title="岩守宫 59s"></a>岩守宫 59s</h2><h3 id="莉奈娅-赋光"><a href="#莉奈娅-赋光" class="headerlink" title="莉奈娅 (赋光)"></a>莉奈娅 (赋光)</h3><p><strong>Lv80_C0_1-8-8</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>   防御  防御  暴击</p>
+<p><strong>%</strong> 双暴73&#x2F;199 防御2058 精通234</p>
+<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
+<p><strong>@ 遗祀玉珑</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>   生命  生命  暴伤</p>
+<p><strong>%</strong> 生命35826 精通120 双暴78&#x2F;203 充能141</p>
+<h3 id="叶洛亚-赋光"><a href="#叶洛亚-赋光" class="headerlink" title="叶洛亚 (赋光)"></a>叶洛亚 (赋光)</h3><p><strong>Lv80_C6_1-6-11</strong></p>
+<p><strong>@ 匣里灭辰</strong> R5 Lv.70</p>
+<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通918 充能204 防御987</p>
+<h3 id="兹白-赋光"><a href="#兹白-赋光" class="headerlink" title="兹白 (赋光)"></a>兹白 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 岩峰巡歌</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴63&#x2F;181  防御3419  精通150</p>
+<p>没有啥说的，定制怪</p>
+<h2 id="次数盾洋葱-61s"><a href="#次数盾洋葱-61s" class="headerlink" title="次数盾洋葱 61s"></a>次数盾洋葱 61s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@西风剑</strong> R5 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命27227 充能237 双暴91&#x2F;146</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv88_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 攻击1950 双暴71&#x2F;159 充能204</p>
+<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
+<p><strong>@ 讨龙英杰谭</strong> R5</p>
+<p><strong>&amp; 烬城勇者4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通724 充能127</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 攻击2378 双暴81&#x2F;233</p>
+<p>错峰输出丝老师太厉害了</p>
+<h2 id="天马-80s"><a href="#天马-80s" class="headerlink" title="天马 80s"></a>天马 80s</h2><h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C6_1-5-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5</p>
+<p><strong>&amp; 教官4</strong>  充能 (5星)  精通  生命</p>
+<p><strong>%</strong>  精通446</p>
+<h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 试作金珀</strong> R5</p>
+<p><strong>&amp; 深林的记忆4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通829 双暴29&#x2F;96 充能148 攻击1201</p>
+<h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
 <p><strong>@ 天光的纺琴</strong> R5</p>
 <p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
 <p><strong>%</strong> 精通956 充能248 双暴31&#x2F;100 攻击1111</p>
@@ -954,49 +1088,7 @@
 <p><strong>@ 霜辰</strong> R1</p>
 <p><strong>&amp; 穹境示现之夜4</strong>   精通  精通  暴伤</p>
 <p><strong>%</strong> 精通681 双暴50&#x2F;268 攻击1285</p>
-<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv88_C2_1-9-7</strong></p>
-<p><strong>@ 试作金珀</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>   充能  生命  暴击</p>
-<p><strong>%</strong> 生命39230 精通80 双暴79&#x2F;128 充能182</p>
-<h3 id="纳西妲"><a href="#纳西妲" class="headerlink" title="纳西妲"></a>纳西妲</h3><p><strong>Lv90_C0_7-10-10</strong></p>
-<p><strong>@ 祭礼残章</strong> R5</p>
-<p><strong>&amp; 深林的记忆4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通1049 双暴29&#x2F;96 充能148 攻击1144</p>
-<p>直接打大的，伤害会高</p>
-<h2 id="火刀哥-103s"><a href="#火刀哥-103s" class="headerlink" title="火刀哥 103s"></a>火刀哥 103s</h2><h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv90_C0_10-8-9</strong></p>
-<p><strong>@ 流浪乐章</strong> R5</p>
-<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 充能117 双暴98&#x2F;193 攻击1914</p>
-<h3 id="伊涅芙-赋光"><a href="#伊涅芙-赋光" class="headerlink" title="伊涅芙(赋光)"></a>伊涅芙(赋光)</h3><p><strong>Lv85_C0_1-9-6</strong></p>
-<p><strong>@ 峡湾长歌</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 精通141 双暴82&#x2F;179 攻击2174</p>
-<h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C3_1-2-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
-<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  暴击</p>
-<p><strong>%</strong> 精通407 双暴64&#x2F;102 充能194</p>
-<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
-<p><strong>@ 西风秘典</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 充能239 暴击45 攻击2314</p>
-<p>正常打，火刀比6.0的并无额外提升</p>
-<h2 id="火螃蟹-93s"><a href="#火螃蟹-93s" class="headerlink" title="火螃蟹 93s"></a>火螃蟹 93s</h2><h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv90_C4_1-1-12</strong></p>
-<p><strong>@ 讨龙英杰谭</strong> R5</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
-<p><strong>%</strong>  充能219</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
-<p><strong>%</strong> 攻击1945 双暴71&#x2F;159 充能204</p>
-<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@西风剑</strong> R5 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 生命27227 充能237 双暴91&#x2F;146</p>
-<h3 id="丝柯克"><a href="#丝柯克" class="headerlink" title="丝柯克"></a>丝柯克</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
-<p><strong>%</strong> 攻击2222 双暴78&#x2F;247</p>
-<p>卡好空窗期，丝老师偷大后开E砍能砍接近一半</p>
+<p>爱诺换少女，破产版月绽放。</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
