@@ -106,7 +106,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/ziyu-xu/ziyu-xu.github.io
+  repo: git@github.com:ziyu-xu/ziyu-xu.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: main
 
