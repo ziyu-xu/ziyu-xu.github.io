@@ -1,6 +1,7 @@
 ---
 title: 发表文章
 date: 2026-07-10 14:10:00
+breadcrumb: false
 ---
 
 1. **Advances on structural mechanisms of ubiquitinated nucleosome complexes.**
