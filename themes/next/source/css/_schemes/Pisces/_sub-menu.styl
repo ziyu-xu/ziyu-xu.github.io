@@ -1,4 +1,6 @@
 .sub-menu {
+  background: transparent;
+  box-shadow: none;
   margin: 0;
   padding: 6px 0;
 
@@ -20,6 +22,15 @@
   .menu-item-active {
     border-bottom-color: $sidebar-highlight;
     color: $sidebar-highlight;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 4px;
+
+    &::after {
+      content: none !important;
+      display: none !important;
+    }
 
     &:hover {
       border-bottom-color: $sidebar-highlight;

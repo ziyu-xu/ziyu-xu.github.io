@@ -22,8 +22,11 @@
     {##################}
     {### PAGE BLOCK ###}
     {##################}
-    <div class="post-block" lang="{{ page.lang }}">
-      {%- include '_partials/header/sub-menu.njk' -%}
+    {%- set sub_menus = next_menu(page.path) %}
+    <div class="post-block{% if sub_menus %} has-sub-menu{% endif %}" lang="{{ page.lang }}">
+      {%- if sub_menus %}
+        {%- include '_partials/header/sub-menu.njk' -%}
+      {%- endif %}
       {%- if page.header !== false %}
         {%- include '_partials/page/page-header.njk' -%}
       {%- endif %}
