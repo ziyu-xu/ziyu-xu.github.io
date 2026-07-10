@@ -48,7 +48,3 @@ breadcrumb: false
    Huasong Ai, Guo-Chao Chu, Qingyue Gong, Ze-Bin Tong, Zhiheng Deng, Xin Liu, Fan Yang, **Ziyu Xu**, Jia-Bin Li\*, Changlin Tian\*, Lei Liu\*.
    *J. Am. Chem. Soc.*, 2022, **144**, 18329–18337.
    [DOI](https://doi.org/10.1021/jacs.2c06156)
-
----
-
-数据来源：[清华大学刘磊课题组 Publications](http://www.liulab-tsinghua.com/publication/)（整理于 2026-07-10）。\* 通讯作者。
