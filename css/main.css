@@ -1172,7 +1172,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #596cf2;
+    background: #933c7d;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1229,6 +1229,28 @@ pre code {
 }
 .cc-license img {
   display: inline-block;
+}
+.sidebar-count {
+  border-top: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  padding-top: 12px;
+}
+.sidebar-count .sidebar-count-item {
+  min-width: 72px;
+}
+.sidebar-count .sidebar-count-value,
+.sidebar-count .sidebar-count-name {
+  display: block;
+}
+.sidebar-count .sidebar-count-value {
+  color: var(--text-color);
+  font-size: 1.2em;
+}
+.sidebar-count .sidebar-count-name {
+  color: #bbb;
+  font-size: 1em;
 }
 .site-author-image {
   border: 1px solid #eee;
@@ -1574,6 +1596,12 @@ pre code {
   color: #ddd;
   display: inline-block;
   margin: 0 5px;
+}
+.busuanzi-count #busuanzi_container_site_uv {
+  display: none;
+}
+.busuanzi-count #busuanzi_container_site_pv {
+  display: none;
 }
 @keyframes icon-animate {
   0%, 100% {
