@@ -1172,7 +1172,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #f032ac;
+    background: #fff188;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2514,6 +2514,8 @@ header.header {
   }
 }
 .sub-menu {
+  background: transparent;
+  box-shadow: none;
   margin: 0;
   padding: 6px 0;
 }
@@ -2532,6 +2534,14 @@ header.header {
 .sub-menu .menu-item-active {
   border-bottom-color: #227;
   color: #227;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+.sub-menu .menu-item-active::after {
+  content: none !important;
+  display: none !important;
 }
 .sub-menu .menu-item-active:hover {
   border-bottom-color: #227;
@@ -2656,6 +2666,9 @@ header.header {
   .main-inner .pagination {
     margin-top: 8px;
   }
+}
+.page.posts-expand > .post-block.has-sub-menu {
+  margin-top: 0.5cm;
 }
 .post-block,
 .comments {

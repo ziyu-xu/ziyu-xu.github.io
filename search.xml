@@ -51,34 +51,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 25/09/21</title>
-    <url>/2025/09/21/Article-Summary-25-09-21/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Diffusing protein binders to intrinsically disordered proteins</strong></p>
-<figure>
-    <img data-src="image-20250921182148527.png" alt="Diffusing protein binders to intrinsically disordered proteins" width="60%">
-    <figcaption> Binder Designs of Intrinsic Disordered Proteins </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Protein design; RFdiffusion; Protein tool development</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Intrinsically disordered proteins represent ~50% of human proteome. It exerts biological functions without specific secondary structure of peptide. IDPs act as vital effector in disease generation, like amylin in diabetes, and C-peptide as biomarker for diabetes. </p>
-<p>Therefore, designing IDP binders helps to understand and regulate such disease and related pathways. Hitherto, binder design is only limited to structured target, while binders of unstructured targets such as IDPs mainly derived from high-cost and low-reproducibility antibody production. Protein computational design towards unstructured targets is urgently needed.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><h3 id="Principle"><a href="#Principle" class="headerlink" title="Principle"></a>Principle</h3><p>Specifically-trained RFdiffusion model from 2-chain PDB database (1 chain structure given, 1 chain only sequence given, structure randomized) to design proteins. In training only 50% of complete noise time is consumed, resulting in limited geometry with some randomness, rather than totally noised. Therefore using this trained model, we could input only target sequence to design a binder towards this target. In design, both target and binder is noised and denoised, which is different from previous approach in which only binder is noised and denoised. Thus the strategy is called two-sided partial diffusion.</p>
-<p>For short unstructured target peptides: also pretrained RFdiffusion model, capable of annotating specified secondary structures at a target region. Through this strategy, we can design target-binder pair other than helix-based interactions (maintained through hydrophobic interactions) which are prevalent in protein design, diversifying the designed binder pool.</p>
-<h3 id="Validation"><a href="#Validation" class="headerlink" title="Validation"></a>Validation</h3><p>In silicon validation: Rosetta relax (pLDDT; ddG etc.) to screen ~100 designs from ~10-50k candidates</p>
-<p>Binding evaluation: most binders bind target at 3-100 nM level.</p>
-<p>Crystal structure: RMSD of αC of predicted-resolved is low enough to confirm the correct design of binder-target interactions.</p>
-<p>Cellular validation: binders bind target in cell and affect physical properties of targets in cell.</p>
-<p>Disease-related: binder prevents amylin aggregation in cell and tag-fused binder cause amylin transported to lysozyme to degradation.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09248-9</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 6/21/25</title>
     <url>/2025/06/27/Article-Summary-06-21-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
@@ -101,6 +73,34 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
 <p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 25/09/21</title>
+    <url>/2025/09/21/Article-Summary-25-09-21/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Diffusing protein binders to intrinsically disordered proteins</strong></p>
+<figure>
+    <img data-src="image-20250921182148527.png" alt="Diffusing protein binders to intrinsically disordered proteins" width="60%">
+    <figcaption> Binder Designs of Intrinsic Disordered Proteins </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Protein design; RFdiffusion; Protein tool development</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Intrinsically disordered proteins represent ~50% of human proteome. It exerts biological functions without specific secondary structure of peptide. IDPs act as vital effector in disease generation, like amylin in diabetes, and C-peptide as biomarker for diabetes. </p>
+<p>Therefore, designing IDP binders helps to understand and regulate such disease and related pathways. Hitherto, binder design is only limited to structured target, while binders of unstructured targets such as IDPs mainly derived from high-cost and low-reproducibility antibody production. Protein computational design towards unstructured targets is urgently needed.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><h3 id="Principle"><a href="#Principle" class="headerlink" title="Principle"></a>Principle</h3><p>Specifically-trained RFdiffusion model from 2-chain PDB database (1 chain structure given, 1 chain only sequence given, structure randomized) to design proteins. In training only 50% of complete noise time is consumed, resulting in limited geometry with some randomness, rather than totally noised. Therefore using this trained model, we could input only target sequence to design a binder towards this target. In design, both target and binder is noised and denoised, which is different from previous approach in which only binder is noised and denoised. Thus the strategy is called two-sided partial diffusion.</p>
+<p>For short unstructured target peptides: also pretrained RFdiffusion model, capable of annotating specified secondary structures at a target region. Through this strategy, we can design target-binder pair other than helix-based interactions (maintained through hydrophobic interactions) which are prevalent in protein design, diversifying the designed binder pool.</p>
+<h3 id="Validation"><a href="#Validation" class="headerlink" title="Validation"></a>Validation</h3><p>In silicon validation: Rosetta relax (pLDDT; ddG etc.) to screen ~100 designs from ~10-50k candidates</p>
+<p>Binding evaluation: most binders bind target at 3-100 nM level.</p>
+<p>Crystal structure: RMSD of αC of predicted-resolved is low enough to confirm the correct design of binder-target interactions.</p>
+<p>Cellular validation: binders bind target in cell and affect physical properties of targets in cell.</p>
+<p>Disease-related: binder prevents amylin aggregation in cell and tag-fused binder cause amylin transported to lysozyme to degradation.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09248-9</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -251,36 +251,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 26/04/25</title>
-    <url>/2026/04/25/Article-Summary-26-04-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A cell-permeable nanobody to restore F508del cystic fibrosis transmembrane conductance regulator activity</strong></p>
-<figure>
-    <img data-src="image-20260425204305814.png" alt="Cell-permeable nanobody to restore F508del CFTR activity" width="60%">
-    <figcaption> Cell-permeable nanobody to restore F508del CFTR activity </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Nanobody, Cell permeable peptides</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Cystic fibrosis (CF) is a genetic disorder primarily caused by mutations in CFTR gene. The most prevalent mutation, F508del, leads to protein misfolding, and consequently, loss of chloride channel function. While small-molecule CFTR modulators, such as the triple-combination therapy elexacaftor&#x2F;tezacaftor&#x2F;ivacaftor (ETI), have improved clinical outcomes, they often provide only partial functional correction, highlighting an unmet therapeutic need.</p>
-<p>Nanobodies, represent a promising class of biologics due to their small size, high stability, and specificity. A previously identified nanobody, NB1, has been shown to act as a chaperone, stabilizing the F508del-CFTR protein <em>in vitro</em> and restoring its function. However, a major limitation for therapeutic application is the inefficient delivery of macromolecules like nanobodies into the cytosol to reach intracellular targets like CFTR. Cell-penetrating peptides (CPPs) offer a potential strategy to overcome this barrier by facilitating the cytosolic delivery of conjugated cargoes.</p>
-<p>Thus, the central scientific question addressed in this study is whether a cell-permeable nanobody can be engineered to effectively rescue the function of misfolded F508del-CFTR within cells, potentially synergizing with existing therapies to achieve more complete functional restoration.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study designed, synthesized, and functionally validated a cell-permeable nanobody to restore F508del-CFTR activity. The core achievements are outlined below:</p>
-<ol>
-<li><strong>Design and Synthesis of a Cell-Permeable Nanobody:</strong> The known CFTR-binding nanobody NB1 was conjugated to FITC and coupled to the arginine-rich cell-penetrating peptide R10 using a disulfide linkage strategy, creating a cell-permeable construct.</li>
-<li><strong>Demonstration of Efficient Cytosolic Delivery and Target Engagement:</strong> the study demonstrated that NB1 was efficiently delivered into the cytoplasm of various cell lines and, critically, into highly differentiated primary human airway epithelial cultures derived from CF patients. The nanobody retained its ability to bind intracellular F508del-CFTR, as evidenced by co-localization studies.</li>
-<li><strong>Rescue of F508del-CFTR Function in Model Cell Lines:</strong>  Increased levels of the mature, complex-glycosylated Band C form of CFTR, indicating improved maturation and trafficking. Functional assays, including transepithelial short-circuit current measurements, confirmed the rescue of chloride channel activity</li>
-<li><strong>Synergistic Functional Rescue in CF Patient-Derived Cells:</strong> The most significant finding was achieved in primary airway cultures from CF patients. The cell-permeable NB1-R10 nanobody not only entered cells but also synergized with the clinically approved small-molecule correctors in the ETI triple therapy. The combination therapy, targeting the NBD1 domain (via the nanobody) and other regions of CFTR (via small molecules), restored F508del-CFTR function to near-normal levels. This represents the first successful demonstration of CPP-mediated protein delivery and functional rescue by a nanobody in primary human cells from CF patients.</li>
-</ol>
-<p>(Generated by DS v3.2.)</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-026-02199-w  </p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 5/24/25</title>
     <url>/2025/05/26/Article-Summary-5-24-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
@@ -320,6 +290,36 @@
 <p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
 <p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 26/04/25</title>
+    <url>/2026/04/25/Article-Summary-26-04-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A cell-permeable nanobody to restore F508del cystic fibrosis transmembrane conductance regulator activity</strong></p>
+<figure>
+    <img data-src="image-20260425204305814.png" alt="Cell-permeable nanobody to restore F508del CFTR activity" width="60%">
+    <figcaption> Cell-permeable nanobody to restore F508del CFTR activity </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Nanobody, Cell permeable peptides</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Cystic fibrosis (CF) is a genetic disorder primarily caused by mutations in CFTR gene. The most prevalent mutation, F508del, leads to protein misfolding, and consequently, loss of chloride channel function. While small-molecule CFTR modulators, such as the triple-combination therapy elexacaftor&#x2F;tezacaftor&#x2F;ivacaftor (ETI), have improved clinical outcomes, they often provide only partial functional correction, highlighting an unmet therapeutic need.</p>
+<p>Nanobodies, represent a promising class of biologics due to their small size, high stability, and specificity. A previously identified nanobody, NB1, has been shown to act as a chaperone, stabilizing the F508del-CFTR protein <em>in vitro</em> and restoring its function. However, a major limitation for therapeutic application is the inefficient delivery of macromolecules like nanobodies into the cytosol to reach intracellular targets like CFTR. Cell-penetrating peptides (CPPs) offer a potential strategy to overcome this barrier by facilitating the cytosolic delivery of conjugated cargoes.</p>
+<p>Thus, the central scientific question addressed in this study is whether a cell-permeable nanobody can be engineered to effectively rescue the function of misfolded F508del-CFTR within cells, potentially synergizing with existing therapies to achieve more complete functional restoration.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study designed, synthesized, and functionally validated a cell-permeable nanobody to restore F508del-CFTR activity. The core achievements are outlined below:</p>
+<ol>
+<li><strong>Design and Synthesis of a Cell-Permeable Nanobody:</strong> The known CFTR-binding nanobody NB1 was conjugated to FITC and coupled to the arginine-rich cell-penetrating peptide R10 using a disulfide linkage strategy, creating a cell-permeable construct.</li>
+<li><strong>Demonstration of Efficient Cytosolic Delivery and Target Engagement:</strong> the study demonstrated that NB1 was efficiently delivered into the cytoplasm of various cell lines and, critically, into highly differentiated primary human airway epithelial cultures derived from CF patients. The nanobody retained its ability to bind intracellular F508del-CFTR, as evidenced by co-localization studies.</li>
+<li><strong>Rescue of F508del-CFTR Function in Model Cell Lines:</strong>  Increased levels of the mature, complex-glycosylated Band C form of CFTR, indicating improved maturation and trafficking. Functional assays, including transepithelial short-circuit current measurements, confirmed the rescue of chloride channel activity</li>
+<li><strong>Synergistic Functional Rescue in CF Patient-Derived Cells:</strong> The most significant finding was achieved in primary airway cultures from CF patients. The cell-permeable NB1-R10 nanobody not only entered cells but also synergized with the clinically approved small-molecule correctors in the ETI triple therapy. The combination therapy, targeting the NBD1 domain (via the nanobody) and other regions of CFTR (via small molecules), restored F508del-CFTR function to near-normal levels. This represents the first successful demonstration of CPP-mediated protein delivery and functional rescue by a nanobody in primary human cells from CF patients.</li>
+</ol>
+<p>(Generated by DS v3.2.)</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-026-02199-w  </p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -483,28 +483,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article summary 8/21/24</title>
-    <url>/2024/08/21/Article-summary-8-21-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
-<figure>
-    <img data-src="image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
-    <figcaption>Ub-POD strategy</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
-<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article summary 8/23/24</title>
     <url>/2024/08/23/Article-summary-8-23-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
@@ -521,6 +499,28 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
 <p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article summary 8/21/24</title>
+    <url>/2024/08/21/Article-summary-8-21-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
+<figure>
+    <img data-src="image-20240822234659049.png" alt="Ub-POD strategy" width="100%">
+    <figcaption>Ub-POD strategy</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>E3 ligase; Promixity labeling</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Dissecting E3 ligase substrates is of great importance for studying its cellular function. However, current methodologies could not target a specific E3 (di-GG antibody), or disturbs the ubiquitination pathway (biotin-Ub; biotin-Ub-E3 fusion). Thus, alternative E3 substrate screening approach is needed to expand the substrate screening toolbox.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
+<p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -575,146 +575,62 @@
       </tags>
   </entry>
   <entry>
-    <title>Article-summary-9-30-24</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img data-src="image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI 5.8 幽境危战</title>
-    <url>/2025/08/06/GI-5-8-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <title>GI 5.7 幽境危战</title>
+    <url>/2025/07/01/GI-5-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
-<p>最难的是次数盾，是真的太粪了</p>
 <span id="more"></span>
 
-<h2 id="深渊摹结株-119s"><a href="#深渊摹结株-119s" class="headerlink" title="深渊摹结株 119s"></a>深渊摹结株 119s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
-<p><strong>@ 天空之刃</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 充能286 生命28779</p>
-<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
-<p><strong>@ 流浪的晚星</strong> R5</p>
-<p><strong>&amp; 勇者4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通985 充能139</p>
-<h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡 (赋光)"></a>玛薇卡 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 狼的末路</strong> R1</p>
-<p><strong>&amp; 黑曜秘典4</strong>  攻击 火伤 暴击</p>
-<p><strong>%</strong> 攻击2607 精通112 双暴64&#x2F;161</p>
-<h3 id="恰斯卡-赋光"><a href="#恰斯卡-赋光" class="headerlink" title="恰斯卡 (赋光)"></a>恰斯卡 (赋光)</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 若水</strong> R1</p>
-<p><strong>&amp; 黑曜秘典4</strong>  攻击 攻击 暴伤</p>
-<p><strong>%</strong> 攻击2379 双暴59&#x2F;279 充能121</p>
-<p><strong>奶奶+火神的融化用来补伤害。单独恰的伤害是有点不够的，班尼特打这只怪其实效果相当差，怪物多动，容易把人挤出圈。</strong></p>
-<h2 id="雷乌龟-101s"><a href="#雷乌龟-101s" class="headerlink" title="雷乌龟 101s"></a>雷乌龟 101s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 若水</strong> R1</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命35444 双暴90&#x2F;210 充能197</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv86_C0_1-10-9</strong></p>
-<p><strong>@ 息灾</strong> R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 攻击2505 双暴75&#x2F;154 充能189</p>
-<h3 id="甘雨-剧诗加成"><a href="#甘雨-剧诗加成" class="headerlink" title="甘雨 (剧诗加成)"></a>甘雨 (剧诗加成)</h3><p><strong>Lv83_C0_8-3-8</strong></p>
-<p><strong>@ 祭礼弓</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  冰伤  暴伤</p>
-<p><strong>%</strong> 充能249 攻击1338 双暴31&#x2F;196 </p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_1-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2637 双暴74&#x2F;233</p>
-<p><strong>意外地好打。一开始慢慢打等夜兰的大招好了之后先all-in打一波，之后慢慢破盾，第二波的时候就打完了，总共仅破了一次盾</strong></p>
-<h2 id="帽子苦瓜-107s"><a href="#帽子苦瓜-107s" class="headerlink" title="帽子苦瓜 107s"></a>帽子苦瓜 107s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@ 静水流涌之辉</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 双暴75&#x2F;226 生命35073 充能194 </p>
-<h3 id="菲谢尔"><a href="#菲谢尔" class="headerlink" title="菲谢尔"></a>菲谢尔</h3><p><strong>Lv90_C6_3-12-9</strong></p>
-<p><strong>@ 绝弦</strong> R5 </p>
-<p><strong>&amp; 黄金剧团4</strong>  攻击 雷伤 暴击</p>
-<p><strong>%</strong> 攻击1758 双暴75&#x2F;130 充能113</p>
-<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
-<p><strong>@ 西风秘典</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>   充能 攻击 暴击</p>
-<p><strong>%</strong> 攻击2160 充能239 暴击53</p>
-<h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-8</strong></p>
-<p><strong>@ 有乐御簾切</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>  攻击 雷伤 暴击</p>
-<p><strong>%</strong> 攻击2027 双暴87&#x2F;208 充能143</p>
-<p><strong>发黄光有眼睛的帽子是真帽子。没有龙王打的好像是吃力许多，克洛琳德伤害没有芙芙高。</strong></p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI 6.1 幽境危战</title>
-    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
-<span id="more"></span>
-
-<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 西风猎弓</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
-<p><strong>@ 息灾</strong> R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
-<h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
-<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
-<p><strong>%</strong> 充能227</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
-<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
-<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 天光的纺琴</strong> R5 </p>
-<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
-<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
-<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
-<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
-<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
-<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
-<p>**@静水流涌之辉 ** R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
+<h2 id="水人-108s"><a href="#水人-108s" class="headerlink" title="水人 108s"></a>水人 108s</h2><h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 祭礼残章</strong> R5</p>
+<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  暴击</p>
+<p><strong>%</strong> 精通734 攻击1238 双暴58&#x2F;100 充能110</p>
 <h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
 <p><strong>@ 西福斯的月光</strong> R3</p>
 <p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通877 生命25291 充能148</p>
-<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
-<p><strong>@ 和璞鸢</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
-<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
-<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 有乐</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
-<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
-<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
-<p><strong>@ 天空之刃</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 生命27983 充能291</p>
-<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>%</strong> 精通877 生命26001 充能134</p>
+<h3 id="艾梅莉埃-赋光"><a href="#艾梅莉埃-赋光" class="headerlink" title="艾梅莉埃 (赋光)"></a>艾梅莉埃 (赋光)</h3><p><strong>Lv90_C0_7-10-9</strong></p>
 <p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
-<p><strong>%</strong> 生命40301 充能157</p>
-<p>破两次盾之内应该可以打完，需要凹一下</p>
+<p><strong>&amp; 教官4</strong>  攻击  生命  暴击(5⭐)</p>
+<p><strong>%</strong> 攻击1588 精通97 充能144 双暴46&#x2F;113</p>
+<h3 id="艾尔海森"><a href="#艾尔海森" class="headerlink" title="艾尔海森"></a>艾尔海森</h3><p><strong>Lv90_C0_9-9-9</strong></p>
+<p><strong>@ 狼牙</strong> R5</p>
+<p><strong>&amp; 饰金之梦4</strong>  精通  草伤  暴伤</p>
+<p><strong>%</strong> 精通409 攻击1269 双暴70&#x2F;176 充能121</p>
+<p><strong>打小水人先让草神扫码都连上，之后直接打大水人，小水人就会被慢慢破掉。开盾之后直接久岐忍E-海森Q直接打一套6剑雨，如果破盾之后光速吸收小水人则需要重开</strong></p>
+<h2 id="火锅-120s"><a href="#火锅-120s" class="headerlink" title="火锅 120s"></a>火锅 120s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
+<p><strong>@ 原木刀</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
+<p><strong>%</strong> 充能273 生命28280</p>
+<h3 id="香菱-赋光"><a href="#香菱-赋光" class="headerlink" title="香菱 (赋光)"></a>香菱 (赋光)</h3><p><strong>Lv90_C6_1-9-12</strong></p>
+<p><strong>@ 鱼叉</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  火伤  暴击</p>
+<p><strong>%</strong> 充能258 攻击1231 双暴58&#x2F;129 精通150</p>
+<h3 id="夏沃蕾-赋光"><a href="#夏沃蕾-赋光" class="headerlink" title="夏沃蕾 (赋光)"></a>夏沃蕾 (赋光)</h3><p><strong>Lv84_C6_1-12-7</strong></p>
+<p><strong>@ 公义的酬报</strong> R5</p>
+<p><strong>&amp; 昔时之歌4</strong>  生命  生命  生命</p>
+<p><strong>%</strong> 生命40199 充能144 </p>
+<h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv87_C0_9-6-8</strong></p>
+<p><strong>@ 流浪乐章</strong> R5</p>
+<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 攻击1900 双暴94&#x2F;186 充能121</p>
+<p><strong>夏沃蕾Q之后E三枪，并且确保在瘫痪前开了班尼特和香菱的Q即可。2分钟瘫痪两次能打完</strong></p>
+<h2 id="冰锅-63s"><a href="#冰锅-63s" class="headerlink" title="冰锅 63s"></a>冰锅 63s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 静水流涌之辉</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 双暴88&#x2F;229 生命30349 充能164 </p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv85_C0_1-10-8</strong></p>
+<p><strong>@ 息灾</strong> R1 (Lv.80)</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  冰伤  暴击</p>
+<p><strong>%</strong> 攻击1828 双暴73&#x2F;168 充能186</p>
+<h3 id="茜特拉莉-赋光"><a href="#茜特拉莉-赋光" class="headerlink" title="茜特拉莉 (赋光)"></a>茜特拉莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
+<p><strong>@ 流浪的晚星</strong> R5</p>
+<p><strong>&amp; 勇者2饰金2</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通1041 充能118 </p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv88_C0_1-9-8</strong></p>
+<p><strong>@ 厄水之祸</strong> R5</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2609 双暴56&#x2F;236</p>
+<p><strong>直接打；面板没有计算丝柯克的战技+1等级. skk专武抽到之后再试试冰锅难度6</strong></p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -783,62 +699,146 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 5.7 幽境危战</title>
-    <url>/2025/07/01/GI-5-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <title>GI 5.8 幽境危战</title>
+    <url>/2025/08/06/GI-5-8-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
+<p>最难的是次数盾，是真的太粪了</p>
 <span id="more"></span>
 
-<h2 id="水人-108s"><a href="#水人-108s" class="headerlink" title="水人 108s"></a>水人 108s</h2><h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
-<p><strong>@ 祭礼残章</strong> R5</p>
-<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  暴击</p>
-<p><strong>%</strong> 精通734 攻击1238 双暴58&#x2F;100 充能110</p>
+<h2 id="深渊摹结株-119s"><a href="#深渊摹结株-119s" class="headerlink" title="深渊摹结株 119s"></a>深渊摹结株 119s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
+<p><strong>%</strong> 充能286 生命28779</p>
+<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
+<p><strong>@ 流浪的晚星</strong> R5</p>
+<p><strong>&amp; 勇者4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通985 充能139</p>
+<h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡 (赋光)"></a>玛薇卡 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 狼的末路</strong> R1</p>
+<p><strong>&amp; 黑曜秘典4</strong>  攻击 火伤 暴击</p>
+<p><strong>%</strong> 攻击2607 精通112 双暴64&#x2F;161</p>
+<h3 id="恰斯卡-赋光"><a href="#恰斯卡-赋光" class="headerlink" title="恰斯卡 (赋光)"></a>恰斯卡 (赋光)</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 黑曜秘典4</strong>  攻击 攻击 暴伤</p>
+<p><strong>%</strong> 攻击2379 双暴59&#x2F;279 充能121</p>
+<p><strong>奶奶+火神的融化用来补伤害。单独恰的伤害是有点不够的，班尼特打这只怪其实效果相当差，怪物多动，容易把人挤出圈。</strong></p>
+<h2 id="雷乌龟-101s"><a href="#雷乌龟-101s" class="headerlink" title="雷乌龟 101s"></a>雷乌龟 101s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命35444 双暴90&#x2F;210 充能197</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv86_C0_1-10-9</strong></p>
+<p><strong>@ 息灾</strong> R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 攻击2505 双暴75&#x2F;154 充能189</p>
+<h3 id="甘雨-剧诗加成"><a href="#甘雨-剧诗加成" class="headerlink" title="甘雨 (剧诗加成)"></a>甘雨 (剧诗加成)</h3><p><strong>Lv83_C0_8-3-8</strong></p>
+<p><strong>@ 祭礼弓</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  冰伤  暴伤</p>
+<p><strong>%</strong> 充能249 攻击1338 双暴31&#x2F;196 </p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_1-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2637 双暴74&#x2F;233</p>
+<p><strong>意外地好打。一开始慢慢打等夜兰的大招好了之后先all-in打一波，之后慢慢破盾，第二波的时候就打完了，总共仅破了一次盾</strong></p>
+<h2 id="帽子苦瓜-107s"><a href="#帽子苦瓜-107s" class="headerlink" title="帽子苦瓜 107s"></a>帽子苦瓜 107s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 静水流涌之辉</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 双暴75&#x2F;226 生命35073 充能194 </p>
+<h3 id="菲谢尔"><a href="#菲谢尔" class="headerlink" title="菲谢尔"></a>菲谢尔</h3><p><strong>Lv90_C6_3-12-9</strong></p>
+<p><strong>@ 绝弦</strong> R5 </p>
+<p><strong>&amp; 黄金剧团4</strong>  攻击 雷伤 暴击</p>
+<p><strong>%</strong> 攻击1758 双暴75&#x2F;130 充能113</p>
+<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
+<p><strong>@ 西风秘典</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>   充能 攻击 暴击</p>
+<p><strong>%</strong> 攻击2160 充能239 暴击53</p>
+<h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-8</strong></p>
+<p><strong>@ 有乐御簾切</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击 雷伤 暴击</p>
+<p><strong>%</strong> 攻击2027 双暴87&#x2F;208 充能143</p>
+<p><strong>发黄光有眼睛的帽子是真帽子。没有龙王打的好像是吃力许多，克洛琳德伤害没有芙芙高。</strong></p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article-summary-9-30-24</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
+<figure>
+    <img data-src="image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 6.1 幽境危战</title>
+    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
+<span id="more"></span>
+
+<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
+<p><strong>@ 息灾</strong> R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
+<h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
+<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
+<p><strong>%</strong> 充能227</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
+<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
+<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5 </p>
+<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
+<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
+<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
+<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
+<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
+<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
+<p>**@静水流涌之辉 ** R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
 <h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
 <p><strong>@ 西福斯的月光</strong> R3</p>
 <p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通877 生命26001 充能134</p>
-<h3 id="艾梅莉埃-赋光"><a href="#艾梅莉埃-赋光" class="headerlink" title="艾梅莉埃 (赋光)"></a>艾梅莉埃 (赋光)</h3><p><strong>Lv90_C0_7-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 教官4</strong>  攻击  生命  暴击(5⭐)</p>
-<p><strong>%</strong> 攻击1588 精通97 充能144 双暴46&#x2F;113</p>
-<h3 id="艾尔海森"><a href="#艾尔海森" class="headerlink" title="艾尔海森"></a>艾尔海森</h3><p><strong>Lv90_C0_9-9-9</strong></p>
-<p><strong>@ 狼牙</strong> R5</p>
-<p><strong>&amp; 饰金之梦4</strong>  精通  草伤  暴伤</p>
-<p><strong>%</strong> 精通409 攻击1269 双暴70&#x2F;176 充能121</p>
-<p><strong>打小水人先让草神扫码都连上，之后直接打大水人，小水人就会被慢慢破掉。开盾之后直接久岐忍E-海森Q直接打一套6剑雨，如果破盾之后光速吸收小水人则需要重开</strong></p>
-<h2 id="火锅-120s"><a href="#火锅-120s" class="headerlink" title="火锅 120s"></a>火锅 120s</h2><h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
-<p><strong>@ 原木刀</strong> R1</p>
+<p><strong>%</strong> 精通877 生命25291 充能148</p>
+<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
+<p><strong>@ 和璞鸢</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
+<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
+<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 有乐</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
+<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
+<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R1</p>
 <p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 充能273 生命28280</p>
-<h3 id="香菱-赋光"><a href="#香菱-赋光" class="headerlink" title="香菱 (赋光)"></a>香菱 (赋光)</h3><p><strong>Lv90_C6_1-9-12</strong></p>
-<p><strong>@ 鱼叉</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  火伤  暴击</p>
-<p><strong>%</strong> 充能258 攻击1231 双暴58&#x2F;129 精通150</p>
-<h3 id="夏沃蕾-赋光"><a href="#夏沃蕾-赋光" class="headerlink" title="夏沃蕾 (赋光)"></a>夏沃蕾 (赋光)</h3><p><strong>Lv84_C6_1-12-7</strong></p>
-<p><strong>@ 公义的酬报</strong> R5</p>
-<p><strong>&amp; 昔时之歌4</strong>  生命  生命  生命</p>
-<p><strong>%</strong> 生命40199 充能144 </p>
-<h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv87_C0_9-6-8</strong></p>
-<p><strong>@ 流浪乐章</strong> R5</p>
-<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 攻击1900 双暴94&#x2F;186 充能121</p>
-<p><strong>夏沃蕾Q之后E三枪，并且确保在瘫痪前开了班尼特和香菱的Q即可。2分钟瘫痪两次能打完</strong></p>
-<h2 id="冰锅-63s"><a href="#冰锅-63s" class="headerlink" title="冰锅 63s"></a>冰锅 63s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@ 静水流涌之辉</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 双暴88&#x2F;229 生命30349 充能164 </p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv85_C0_1-10-8</strong></p>
-<p><strong>@ 息灾</strong> R1 (Lv.80)</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  冰伤  暴击</p>
-<p><strong>%</strong> 攻击1828 双暴73&#x2F;168 充能186</p>
-<h3 id="茜特拉莉-赋光"><a href="#茜特拉莉-赋光" class="headerlink" title="茜特拉莉 (赋光)"></a>茜特拉莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
-<p><strong>@ 流浪的晚星</strong> R5</p>
-<p><strong>&amp; 勇者2饰金2</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通1041 充能118 </p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv88_C0_1-9-8</strong></p>
-<p><strong>@ 厄水之祸</strong> R5</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2609 双暴56&#x2F;236</p>
-<p><strong>直接打；面板没有计算丝柯克的战技+1等级. skk专武抽到之后再试试冰锅难度6</strong></p>
+<p><strong>%</strong> 生命27983 充能291</p>
+<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
+<p><strong>%</strong> 生命40301 充能157</p>
+<p>破两次盾之内应该可以打完，需要凹一下</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -1031,6 +1031,83 @@
       </tags>
   </entry>
   <entry>
+    <title>GI 6.7 幽境危战</title>
+    <url>/2026/07/10/GI-6-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>超导锅要求较高，这一期还是能两个冰c同时上场的，但之后丝老师就业空间应该越来越少了</p>
+<span id="more"></span>
+
+<h2 id="超导锅-93s"><a href="#超导锅-93s" class="headerlink" title="超导锅 93s"></a>超导锅 93s</h2><h3 id="七七-赋光"><a href="#七七-赋光" class="headerlink" title="七七 (赋光)"></a>七七 (赋光)</h3><p><strong>Lv79_C2_1-6-6</strong></p>
+<p><strong>@ 海渊终曲</strong> R5</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  攻击  攻击  治疗加成</p>
+<p><strong>%</strong> 充能142.7 攻击2167</p>
+<h3 id="迪奥娜-剧诗"><a href="#迪奥娜-剧诗" class="headerlink" title="迪奥娜 (剧诗)"></a>迪奥娜 (剧诗)</h3><p><strong>Lv79_C6_1-7-9</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印2 + 纺月的夜歌2</strong>  充能  生命  治疗加成</p>
+<p><strong>%</strong> 充能280.3</p>
+<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
+<p><strong>@ 西福斯的月光</strong> R3</p>
+<p><strong>&amp; 千岩牢固4</strong>  精通  精通  治疗加成</p>
+<p><strong>%</strong> 充能162.8 生命31025</p>
+<h3 id="桑多涅-赋光"><a href="#桑多涅-赋光" class="headerlink" title="桑多涅 (赋光)"></a>桑多涅 (赋光)</h3><p><strong>Lv89_C0_10-8-7</strong></p>
+<p><strong>@ 超越之匙</strong> R1</p>
+<p><strong>&amp; 影中沉凝的幻灭4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 双暴67.7&#x2F;204.5 攻击2724 精通98</p>
+<p>专怪，星超导</p>
+<h2 id="深魇-53s"><a href="#深魇-53s" class="headerlink" title="深魇 53s"></a>深魇 53s</h2><h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
+<p><strong>@ 遗祀玉珑</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  生命  生命  暴伤</p>
+<p><strong>%</strong> 双暴82.7&#x2F;201.6 生命38054 充能140.1 精通120</p>
+<h3 id="莉奈娅-赋光"><a href="#莉奈娅-赋光" class="headerlink" title="莉奈娅 (赋光)"></a>莉奈娅 (赋光)</h3><p><strong>Lv89_C0_1-9-9</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴81.3&#x2F;195.7 防御2316 精通218</p>
+<h3 id="叶洛亚"><a href="#叶洛亚" class="headerlink" title="叶洛亚"></a>叶洛亚</h3><p><strong>Lv81_C6_1-6-12</strong></p>
+<p><strong>@ 匣里灭辰</strong> R5</p>
+<p><strong>&amp; 纺月的夜歌4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通981 充能204.2</p>
+<h3 id="兹白"><a href="#兹白" class="headerlink" title="兹白"></a>兹白</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 岩峰巡歌</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴62.9&#x2F;185.5 防御3315 精通150</p>
+<p>简单</p>
+<h2 id="夜魂锅-87s"><a href="#夜魂锅-87s" class="headerlink" title="夜魂锅 87s"></a>夜魂锅 87s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 西风剑</strong> R5</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 充能247.4 生命34360 双暴82.1&#x2F;142.5</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv90_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 攻击1958 充能204.4 双暴71.2&#x2F;159.6</p>
+<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-8</strong></p>
+<p><strong>@ 祭星者之望</strong> R1</p>
+<p><strong>&amp; 烬城勇者绘卷4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通1098 充能138.2</p>
+<h3 id="丝柯克"><a href="#丝柯克" class="headerlink" title="丝柯克"></a>丝柯克</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 双暴81.5&#x2F;233 攻击2378</p>
+<p>奶奶混机制，我丝老师还能打到明年！</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 8/21/24</title>
+    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
+    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
+<span id="more"></span>
+
+<p><figure><img data-src="/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
+<p><figure><img data-src="/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
+<p><figure><img data-src="/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
+<p><figure><img data-src="/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GI 6.3 幽境危战</title>
     <url>/2026/02/01/GI-6-3-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>第一间黑龙极难，基本只有绽放能打</p>
@@ -1154,108 +1231,6 @@
 ]]></content>
       <tags>
         <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI screenshot 6/14/25</title>
-    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
-    <content><![CDATA[<p>GI screenshots taken in PS5</p>
-<span id="more"></span>
-
-<p><figure><img data-src="/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
-<p><figure><img data-src="/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
-<p><figure><img data-src="/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
-<p><figure><img data-src="/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
-<p><figure><img data-src="/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
-<p><figure><img data-src="/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
-<p><figure><img data-src="/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
-<p><figure><img data-src="/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
-<p><figure><img data-src="/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
-<p><figure><img data-src="/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
-<p><figure><img data-src="/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
-<p><figure><img data-src="/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
-<p><figure><img data-src="/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
-<p><figure><img data-src="/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI 6.7 幽境危战</title>
-    <url>/2026/07/10/GI-6-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>超导锅要求较高，这一期还是能两个冰c同时上场的，但之后丝老师就业空间应该越来越少了</p>
-<span id="more"></span>
-
-<h2 id="超导锅-93s"><a href="#超导锅-93s" class="headerlink" title="超导锅 93s"></a>超导锅 93s</h2><h3 id="七七-赋光"><a href="#七七-赋光" class="headerlink" title="七七 (赋光)"></a>七七 (赋光)</h3><p><strong>Lv79_C2_1-6-6</strong></p>
-<p><strong>@ 海渊终曲</strong> R5</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  攻击  攻击  治疗加成</p>
-<p><strong>%</strong> 充能142.7 攻击2167</p>
-<h3 id="迪奥娜-剧诗"><a href="#迪奥娜-剧诗" class="headerlink" title="迪奥娜 (剧诗)"></a>迪奥娜 (剧诗)</h3><p><strong>Lv79_C6_1-7-9</strong></p>
-<p><strong>@ 西风猎弓</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印2 + 纺月的夜歌2</strong>  充能  生命  治疗加成</p>
-<p><strong>%</strong> 充能280.3</p>
-<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
-<p><strong>@ 西福斯的月光</strong> R3</p>
-<p><strong>&amp; 千岩牢固4</strong>  精通  精通  治疗加成</p>
-<p><strong>%</strong> 充能162.8 生命31025</p>
-<h3 id="桑多涅-赋光"><a href="#桑多涅-赋光" class="headerlink" title="桑多涅 (赋光)"></a>桑多涅 (赋光)</h3><p><strong>Lv89_C0_10-8-7</strong></p>
-<p><strong>@ 超越之匙</strong> R1</p>
-<p><strong>&amp; 影中沉凝的幻灭4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 双暴67.7&#x2F;204.5 攻击2724 精通98</p>
-<p>专怪，星超导</p>
-<h2 id="深魇-53s"><a href="#深魇-53s" class="headerlink" title="深魇 53s"></a>深魇 53s</h2><h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
-<p><strong>@ 遗祀玉珑</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>  生命  生命  暴伤</p>
-<p><strong>%</strong> 双暴82.7&#x2F;201.6 生命38054 充能140.1 精通120</p>
-<h3 id="莉奈娅-赋光"><a href="#莉奈娅-赋光" class="headerlink" title="莉奈娅 (赋光)"></a>莉奈娅 (赋光)</h3><p><strong>Lv89_C0_1-9-9</strong></p>
-<p><strong>@ 若水</strong> R1</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>  防御  防御  暴击</p>
-<p><strong>%</strong> 双暴81.3&#x2F;195.7 防御2316 精通218</p>
-<h3 id="叶洛亚"><a href="#叶洛亚" class="headerlink" title="叶洛亚"></a>叶洛亚</h3><p><strong>Lv81_C6_1-6-12</strong></p>
-<p><strong>@ 匣里灭辰</strong> R5</p>
-<p><strong>&amp; 纺月的夜歌4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通981 充能204.2</p>
-<h3 id="兹白"><a href="#兹白" class="headerlink" title="兹白"></a>兹白</h3><p><strong>Lv90_C0_1-10-8</strong></p>
-<p><strong>@ 岩峰巡歌</strong> R1</p>
-<p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
-<p><strong>%</strong> 双暴62.9&#x2F;185.5 防御3315 精通150</p>
-<p>简单</p>
-<h2 id="夜魂锅-87s"><a href="#夜魂锅-87s" class="headerlink" title="夜魂锅 87s"></a>夜魂锅 87s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@ 西风剑</strong> R5</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 充能247.4 生命34360 双暴82.1&#x2F;142.5</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv90_C0_1-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
-<p><strong>%</strong> 攻击1958 充能204.4 双暴71.2&#x2F;159.6</p>
-<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-8</strong></p>
-<p><strong>@ 祭星者之望</strong> R1</p>
-<p><strong>&amp; 烬城勇者绘卷4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通1098 充能138.2</p>
-<h3 id="丝柯克"><a href="#丝柯克" class="headerlink" title="丝柯克"></a>丝柯克</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
-<p><strong>%</strong> 双暴81.5&#x2F;233 攻击2378</p>
-<p>奶奶混机制，我丝老师还能打到明年！</p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI screenshot 8/21/24</title>
-    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
-    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
-<span id="more"></span>
-
-<p><figure><img data-src="/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
-<p><figure><img data-src="/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
-<p><figure><img data-src="/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
-<p><figure><img data-src="/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
       </tags>
   </entry>
   <entry>
@@ -1400,6 +1375,31 @@
 ]]></content>
       <tags>
         <tag>Essay</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 6/14/25</title>
+    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
+    <content><![CDATA[<p>GI screenshots taken in PS5</p>
+<span id="more"></span>
+
+<p><figure><img data-src="/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
+<p><figure><img data-src="/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
+<p><figure><img data-src="/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
+<p><figure><img data-src="/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
+<p><figure><img data-src="/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
+<p><figure><img data-src="/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
+<p><figure><img data-src="/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
+<p><figure><img data-src="/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
+<p><figure><img data-src="/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
+<p><figure><img data-src="/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
+<p><figure><img data-src="/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
+<p><figure><img data-src="/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
+<p><figure><img data-src="/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
+<p><figure><img data-src="/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
       </tags>
   </entry>
 </search>
