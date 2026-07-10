@@ -99,6 +99,7 @@ menu:
   home: / || fa fa-home
   about:
     default: /about/ || fa fa-user
+    introduction: ./ || fa fa-address-card
     publications: publications/ || fa fa-book
   tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
