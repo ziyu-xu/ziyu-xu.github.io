@@ -1,5 +1,5 @@
 ---
-title: Article Summary 25/8/23
+title: Article Summary 2025-08-23
 date: 2025-08-25 14:54:24
 tags: Articles
 ---

@@ -1,5 +1,5 @@
 ---
-title: Article Summary 25/09/21
+title: Article Summary 2025-09-21
 date: 2025-09-21 15:33:26
 tags: Articles
 ---

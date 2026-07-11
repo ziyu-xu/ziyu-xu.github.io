@@ -1,5 +1,5 @@
 ---
-title: Article Summary 25/11/22
+title: Article Summary 2025-11-22
 date: 2025-12-02 15:34:30
 tags: Articles
 ---

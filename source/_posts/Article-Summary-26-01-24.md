@@ -1,5 +1,5 @@
 ---
-title: Article Summary 26/01/24
+title: Article Summary 2026-01-24
 date: 2026-01-30 13:43:14
 tags: Articles
 ---

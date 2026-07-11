@@ -1,5 +1,5 @@
 ---
-title: Article-summary-9-30-24
+title: Article Summary 2024-09-30
 date: 2024-09-30 16:22:40
 tags: Articles
 ---

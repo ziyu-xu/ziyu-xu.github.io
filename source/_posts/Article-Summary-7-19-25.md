@@ -1,5 +1,5 @@
 ---
-title: Article Summary 7/19/25
+title: Article Summary 2025-07-19
 date: 2025-07-27 14:30:29
 tags: Articles
 ---

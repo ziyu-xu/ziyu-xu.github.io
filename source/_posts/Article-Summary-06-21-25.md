@@ -1,5 +1,5 @@
 ---
-title: Article Summary 6/21/25
+title: Article Summary 2025-06-21
 date: 2025-06-27 22:08:51
 tags: Articles
 
