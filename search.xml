@@ -79,34 +79,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2025-06-21</title>
-    <url>/2025/06/27/Article-Summary-06-21-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
-<figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
-    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
-<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
-<figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
-    <figcaption> BRAF working model </figcaption>
-</figure>
-
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
-<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 2025-11-08</title>
     <url>/2025/11/11/Article-Summary-25-11-08/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Lysine-specific histone demethylase complex restricts Epstein–Barr virus lytic reactivation</strong></p>
@@ -146,6 +118,34 @@
 <h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>ALS, a critical neurodegenerative disease, is relevant with protein misfolding and aggregation. SOD1 gene is related to over 200 ALS-correlated mutation, thus targeting SOD1 might be an applicable strategy to treat ALS. Target protein degradation is an attractive therapy to target undruggable targets. Recently, a gene therapy called BioPROTAC, fusing E3 catalytic domain and target binder, has emerged as a potential TPD approach. This work aimed to screen a BioPROTAC to target SOD1.</p>
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This work designed a BioPROTAC to fuse misfolded SOD1 antibody ScFv and E3 catalytic domain to mediate target protein degradation. They first proved BioPROTAC bound misfolded SOD1 but not correctly folded SOD1. Subsequently, they explored the pathway of BioPROTAC-mediated SOD1 degradation. Finally, they found the BioPROTAC they designed could alleviate the symptom of xenograft mice with ALS disease and decrease the SOD1 aggregation of mouse brain. </p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41467-025-65481-w</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2025-06-21</title>
+    <url>/2025/06/27/Article-Summary-06-21-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
+<figure>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
+    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
+<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
+<figure>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
+    <figcaption> BRAF working model </figcaption>
+</figure>
+
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
+<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -221,30 +221,6 @@
 <p>Next, they expanded the range of AbLec to different cancer cell antigens and different lectin receptor, demonstrating its universality across most cancers. Also, fusing lectin receptor with another checkpoint blockage antibody, such as PD-1 and CD47, showed effect in cells.</p>
 <p>In summay, the AbLec strategy provided a path to block glycan immunologic checkpoint and established a wide platform to expand the use of AbLex chimera.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41587-025-02884-6</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 2026-03-07</title>
-    <url>/2026/03/07/Article-Summary-26-03-07/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>High-throughput ligand diversification to discover chemical inducers of proximity</strong></p>
-<figure>
-    <img src="/2026/03/07/Article-Summary-26-03-07/image-20260307213750442.png" alt="High-throughput ligand diversification to discover chemical inducers of proximity" width="60%">
-    <figcaption> Ligand diversification to discover CIPs </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Molecular glue; SuFEX; drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Chemical inducers of proximity (CIPs), such as proteolysis-targeting chimeras (PROTACs) and molecular glues, represent a powerful class of small molecules capable of rewiring cellular biochemistry by stabilizing proximity between target proteins. While rational design strategies have accelerated the discovery of heterobifunctional CIPs like PROTACs, the identification of molecular glues has historically relied on serendipity, lacking systematic discovery approaches. Molecular glues often share structural similarities with protein binders, raising the hypothesis that systematic diversification of existing ligands could yield novel glue-type CIPs.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study addresses the key scientific question: Can high-throughput ligand diversification serve as a systematic strategy to discover new molecular glue CIPs? The authors employed sulfur(VI) fluoride exchange (SuFEx)-based high-throughput chemistry (HTC) to install 3,163 structurally diverse building blocks onto known ligands for two targets: ENL (eleven-nineteen leukemia), a transcriptional regulator implicated in leukemia, and BRD4 (bromodomain-containing protein 4). Screening this library for degrader activity led to the discovery of dHTC1, an ENL degrader that functions as a molecular glue by recruiting the CRL4CRBN E3 ligase complex. Furthermore, for BRD4, they identified dHTC3, a molecular glue that selectively dimerizes BRD4 bromodomain 1 with the previously inaccessible E3 ligase FBXO3.</p>
-<p>This work establishes HTC as a facile and potentially generalizable tool for the systematic discovery of novel CIPs and new effectors for proximity pharmacology, moving beyond reliance on chance findings towards a more prospective exploration of chemical space.</p>
-<p>While this study demonstrates the potential of high-throughput ligand diversification as a systematic strategy for discovering novel chemical inducers of proximity (CIPs), it also highlights several limitations. First, the approach is fundamentally a screening method rather than a rational design strategy, which may limit its predictive power and efficiency. Second, the generalizability of this high-throughput chemical (HTC) strategy across different target classes remains to be validated, as its success here with ENL and BRD4 does not guarantee broad applicability. Finally, despite the identification of a promising degrader (dHTC1) for the important leukemia target ENL, the study lacks validation in animal disease models, which is crucial for assessing the therapeutic potential and translational value of the discovered compounds.</p>
-<p>(Generated by DS v3.2.)</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-02137-2  </p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -372,28 +348,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2025-03-07</title>
-    <url>/2025/04/10/Article-summary-03-07-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
-<figure>
-    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
-    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
-<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 2025-04-26</title>
     <url>/2025/05/08/Article-summary-04-26-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
@@ -416,22 +370,46 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2025-01-19</title>
-    <url>/2025/02/01/Article-summary-1-19-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
+    <title>Article Summary 2026-03-07</title>
+    <url>/2026/03/07/Article-Summary-26-03-07/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>High-throughput ligand diversification to discover chemical inducers of proximity</strong></p>
 <figure>
-    <img src="/2025/02/01/Article-summary-1-19-25/image-20250201212011127.png" alt="Histone monoaminylation shows dynamic and regulates neural rhythmicity" width="60%">
-    <figcaption>Histone monoaminylation shows dynamic and regulates neural rhythmicity</figcaption>
+    <img src="/2026/03/07/Article-Summary-26-03-07/image-20260307213750442.png" alt="High-throughput ligand diversification to discover chemical inducers of proximity" width="60%">
+    <figcaption> Ligand diversification to discover CIPs </figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Histone PTMs; Metabolic PTMs; Genetics</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Molecular glue; SuFEX; drug screening</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Post-translational modifications (PTMs) regulate chromatin-templated processes such as chromatin spatial organization and transcription to determine cell fate. Monoaminylation on histone H3 stands for a PTM that attaches a monoamine neurotransmitter such as dopamine and serotonin. Monoaminylation regulates neural transcription related processes. Previously discovered H3 monoaminylation is induced by TG2 enzyme, whereas the erasing mechanism and relationship among different H3 monoaminylations remains unknown.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
-<p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Chemical inducers of proximity (CIPs), such as proteolysis-targeting chimeras (PROTACs) and molecular glues, represent a powerful class of small molecules capable of rewiring cellular biochemistry by stabilizing proximity between target proteins. While rational design strategies have accelerated the discovery of heterobifunctional CIPs like PROTACs, the identification of molecular glues has historically relied on serendipity, lacking systematic discovery approaches. Molecular glues often share structural similarities with protein binders, raising the hypothesis that systematic diversification of existing ligands could yield novel glue-type CIPs.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study addresses the key scientific question: Can high-throughput ligand diversification serve as a systematic strategy to discover new molecular glue CIPs? The authors employed sulfur(VI) fluoride exchange (SuFEx)-based high-throughput chemistry (HTC) to install 3,163 structurally diverse building blocks onto known ligands for two targets: ENL (eleven-nineteen leukemia), a transcriptional regulator implicated in leukemia, and BRD4 (bromodomain-containing protein 4). Screening this library for degrader activity led to the discovery of dHTC1, an ENL degrader that functions as a molecular glue by recruiting the CRL4CRBN E3 ligase complex. Furthermore, for BRD4, they identified dHTC3, a molecular glue that selectively dimerizes BRD4 bromodomain 1 with the previously inaccessible E3 ligase FBXO3.</p>
+<p>This work establishes HTC as a facile and potentially generalizable tool for the systematic discovery of novel CIPs and new effectors for proximity pharmacology, moving beyond reliance on chance findings towards a more prospective exploration of chemical space.</p>
+<p>While this study demonstrates the potential of high-throughput ligand diversification as a systematic strategy for discovering novel chemical inducers of proximity (CIPs), it also highlights several limitations. First, the approach is fundamentally a screening method rather than a rational design strategy, which may limit its predictive power and efficiency. Second, the generalizability of this high-throughput chemical (HTC) strategy across different target classes remains to be validated, as its success here with ENL and BRD4 does not guarantee broad applicability. Finally, despite the identification of a promising degrader (dHTC1) for the important leukemia target ENL, the study lacks validation in animal disease models, which is crucial for assessing the therapeutic potential and translational value of the discovered compounds.</p>
+<p>(Generated by DS v3.2.)</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-02137-2  </p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2025-03-07</title>
+    <url>/2025/04/10/Article-summary-03-07-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation</strong></p>
+<figure>
+    <img src="/2025/04/10/Article-summary-03-07-25/image-20250410102530836.png" alt="PARP2 utilizes an active site helix to permit DNA-induced activation" width="60%">
+    <figcaption>PARP2 utilizes an active site helix to permit DNA-induced activation</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Molecular Cell</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>ADP-ribosylation; Allosteric activation; HDX-MS</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>PARP1 and PARP2, both ADP-ribosylation writer, regulate DNA damage response and act as attractive drug target. In apo state, PARP1 and PARP2 show auto-inhibition, as DNA binding allosterically activates them to perform ADP-ribosylation activity. Previous studies indicated PARP1 is activated by HD unfolding upon DNA recognition. However, whether PARP2 adapts similar activation mechanism compared to PARP1 remains elusive. </p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
+<p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -483,6 +461,28 @@
       </tags>
   </entry>
   <entry>
+    <title>Article Summary 2025-01-19</title>
+    <url>/2025/02/01/Article-summary-1-19-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Bidirectional histone monoaminylation dynamics regulate neural rhythmicity</strong></p>
+<figure>
+    <img src="/2025/02/01/Article-summary-1-19-25/image-20250201212011127.png" alt="Histone monoaminylation shows dynamic and regulates neural rhythmicity" width="60%">
+    <figcaption>Histone monoaminylation shows dynamic and regulates neural rhythmicity</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Histone PTMs; Metabolic PTMs; Genetics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Post-translational modifications (PTMs) regulate chromatin-templated processes such as chromatin spatial organization and transcription to determine cell fate. Monoaminylation on histone H3 stands for a PTM that attaches a monoamine neurotransmitter such as dopamine and serotonin. Monoaminylation regulates neural transcription related processes. Previously discovered H3 monoaminylation is induced by TG2 enzyme, whereas the erasing mechanism and relationship among different H3 monoaminylations remains unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article adapted chemical biology approaches such as metabolite labeling by CuAAC clicking reaction and <em>in vitro</em> monoaminylation assay using synthetic peptide, showing that TG2 works as a H3Q5 monoaminylation writer, eraser and exchanger, regulating different H3Q5 monoaminylation. </p>
+<p>In addition, a new monoaminylation is discovered, that is, H3Q5his (histamine). H3Q5his could antagonize WDR5 (an H3K4 binder to write H3K4 methylation) binding towards chromatin. H3Q5his could also regulate neural rhythmicity according to cellular experiment performed by this work. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-024-08371-3</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article Summary 2024-08-21</title>
     <url>/2024/08/21/Article-summary-8-21-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates</strong></p>
@@ -499,6 +499,28 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
 <p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2024-08-23</title>
+    <url>/2024/08/23/Article-summary-8-23-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
+<figure>
+    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
+    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
+<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -547,28 +569,6 @@
 <p>Reconstitution of PARP1&#x2F;HPF1 activity on H3&#x2F;H4 tetramer, recombinant histone or histone peptides are performed, using autoradiogram. Nudix is used to cleave poly-ADP-ribosylation to single ribose phosphate which enables MS analysis.</p>
 <p>In addition, PARP1 auto-modified serine is also scanned. H1 is also proved to be PARP1 substrate in vitro. Notably, H2A and H4 N terminal serines are shown ADPr modified in vivo. </p>
 <h2 id="doi-2"><a href="#doi-2" class="headerlink" title="doi"></a>doi</h2><p>10.17632&#x2F;pmvv5mdmrm.1</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 2024-09-30</title>
-    <url>/2024/09/30/Article-summary-9-30-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
-<figure>
-    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
-    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
-<p>Details of drug screening and design is not discussed in article.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -886,22 +886,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2024-08-23</title>
-    <url>/2024/08/23/Article-summary-8-23-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Structure and repair of replication-coupled DNA breaks</strong></p>
+    <title>Article Summary 2024-09-30</title>
+    <url>/2024/09/30/Article-summary-9-30-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Targeting cancer with small-molecule pan-KRAS degraders</strong></p>
 <figure>
-    <img src="/2024/08/23/Article-summary-8-23-24/image-20240823205450979.png" alt="Replication-associated DSBs are processed differently from canonical one" width="100%">
-    <figcaption>Replication-associated DSBs are processed differently from canonical one</figcaption>
+    <img src="/2024/09/30/Article-summary-9-30-24/image-20240930162705818.png" alt="Targeting cancer with pan-KRAS PROTAC molecule" width="60%">
+    <figcaption>Targeting cancer with pan-KRAS PROTAC molecule</figcaption>
 </figure>
 
 <h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA replication; Next generation sequencing</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PROTAC, Drug screening</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA strand break is repaired in cellular processes. Unrepaired DNA breaks affect genome integrity. In cell division S phase, DNA single strand nick causes bypassing DNA replication fork stall and collapse. Recent reports showed that DNA single strand nick was converted to double strand break after fork collapse, triggering HR pathway to repair the break. <strong>However, how DNA replication fork behaves to convert DNA single strand break signal to HR pathway remains unknown</strong>.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Utilizing Cas9 technology to produce single strand nick at specific site, while using next-generation sequencing (END-seq) to label DNA double strand and resection. They found that leading and lagging strand produces distinct double strand break form (seDSB and deDSB), in which RAD51 knockoff affects not only the DSB type but also DNA resection. In addition, BRCA1 and 53BP1 are found to antagonizingly regulate RAD51 loading on fork collapse. </p>
-<p>Overall, genetic and sequencing approaches are applied to observe crosstalks among DNA replication, single strand nick and homologous recombination. </p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000"><a href="https://doi.org/10.1126/science.ado3867">10.1126&#x2F;science.ado3867</a></a></p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>KRAS is a vital drug target owing to its frequent mutation in cancer cells. Hitherto, small molecule drugs targeting KRAS 1) suffer from their specificity, that is, uncapable of binding various KRAS mutation discovered in disease. 2) not well-developed in their PROTAC forms. Developing pan-KRAS PROTAC degraders help addressing problems above. Recently, pan-KRAS small molecule inhibitor was developed (2023, Nature). This work aims to apply this pan-KRAS inhibitors to PROTAC.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work presented a PROTAC molecule (ACBI3) that can target 13 out of 17 disease-related KRAS mutants. Based on structure-guided rational design and sequential experiments in cells and in mouse. Extra in cell experiments validated that ACBI3 intervenes oncogenic (MAPK) pathways and cancer cell proliferation. Therefore, based on elaborate in cell and in mouse assays, this work confirmed that ACBI3 is a potential PROTAC solution to target pan-KRAS.</p>
+<p>Details of drug screening and design is not discussed in article.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adm8684">10.1126&#x2F;science.adm8684</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -1157,46 +1157,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GI screenshot 6/14/25</title>
-    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
-    <content><![CDATA[<p>GI screenshots taken in PS5</p>
-<span id="more"></span>
-
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.png" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.png" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.png" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.png" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.png" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.png" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.png" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.png" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.png" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.png" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.png" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.png" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.png" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.png" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI screenshot 8/21/24</title>
-    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
-    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
-<span id="more"></span>
-
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.png" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.png" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.png" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
-<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.png" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GI 6.6 幽境危战</title>
     <url>/2026/06/09/GI-6-6-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>北风狼缺少风c和全套火神队打的很艰难，另外两间不困难</p>
@@ -1259,41 +1219,28 @@
       </tags>
   </entry>
   <entry>
-    <title>Upload images to hexo-based github.io portfolio</title>
-    <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
-    <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
+    <title>GI screenshot 6/14/25</title>
+    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
+    <content><![CDATA[<p>GI screenshots taken in PS5</p>
 <span id="more"></span>
 
-<h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><h2 id="1-Install-plugins"><a href="#1-Install-plugins" class="headerlink" title="1 Install plugins"></a>1 Install plugins</h2><p>Install <code>hexo-asset-image</code> plugin</p>
-<p><code>npm install hexo-asset-image --save</code></p>
-<p>Install <code>hexo-renderer-marked</code> plugin</p>
-<p><code>npm install hexo-renderer-marked --save</code></p>
-<p>Edit <code>_config.yml</code></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">post_asset_folder: true</span><br><span class="line">marked:</span><br><span class="line"> prependRoot: true</span><br><span class="line"> postAsset: false</span><br></pre></td></tr></table></figure>
-
-<p>The “postAsset: false” is important due to the redundancy of generated absolute image path.</p>
-<h2 id="2-Insert-image"><a href="#2-Insert-image" class="headerlink" title="2 Insert image"></a>2 Insert image</h2><p>With <code>hexo-asset-image</code> plugin installed we make a new post:</p>
-<p><code>hexo new &quot;project name&quot;</code></p>
-<p>A new directory is automatically generated </p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png" alt="Illustration of new generated directory"><figcaption aria-hidden="true">Illustration of new generated directory</figcaption></figure></p>
-<p>Now we insert an image to the markdown: For instance:</p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png" alt="Screenshot of Furina"><figcaption aria-hidden="true">Screenshot of Furina</figcaption></figure></p>
-<p>Then delete all strings before ‘&#x2F;‘. Now the image is invisible in Typora.</p>
-<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina"><figcaption aria-hidden="true">Furina</figcaption></figure></p>
-<h2 id="3-Insert-image-with-specific-width-and-captions"><a href="#3-Insert-image-with-specific-width-and-captions" class="headerlink" title="3 Insert image with specific width and captions"></a>3 Insert image with specific width and captions</h2><p>We note that the Furina image above is too wide. To regulate the image width, previous command to insert image is replaced by following commands:</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;figure&gt;</span><br><span class="line">    &lt;img src=&quot;(your png/jpg path)&quot; alt=&quot;title&quot; width=&quot;60%&quot;/&gt; // or width=&quot;500&quot; to specify the width</span><br><span class="line">    &lt;figcaption&gt;your title&lt;/figcaption&gt;</span><br><span class="line">&lt;/figure&gt;</span><br></pre></td></tr></table></figure>
-
-<p>Now the command is applied to upload a 60% Furina:</p>
-<figure>
-    <img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina" width="60%">
-    <figcaption>Furina</figcaption>
-</figure>
-
-<p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
-<h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.jpg" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.jpg" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.jpg" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.jpg" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.jpg" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.jpg" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.jpg" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.jpg" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.jpg" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.jpg" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.jpg" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.jpg" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.jpg" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.jpg" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
 ]]></content>
       <tags>
-        <tag>Tutorials</tag>
+        <tag>Illustrations</tag>
       </tags>
   </entry>
   <entry>
@@ -1360,6 +1307,44 @@
       </tags>
   </entry>
   <entry>
+    <title>Upload images to hexo-based github.io portfolio</title>
+    <url>/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/</url>
+    <content><![CDATA[<h1 id="Aim"><a href="#Aim" class="headerlink" title="Aim"></a>Aim</h1><p>To upload images to my portfolio which is constructed by hexo-based github.io.</p>
+<span id="more"></span>
+
+<h1 id="Procedure"><a href="#Procedure" class="headerlink" title="Procedure"></a>Procedure</h1><h2 id="1-Install-plugins"><a href="#1-Install-plugins" class="headerlink" title="1 Install plugins"></a>1 Install plugins</h2><p>Install <code>hexo-asset-image</code> plugin</p>
+<p><code>npm install hexo-asset-image --save</code></p>
+<p>Install <code>hexo-renderer-marked</code> plugin</p>
+<p><code>npm install hexo-renderer-marked --save</code></p>
+<p>Edit <code>_config.yml</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">post_asset_folder: true</span><br><span class="line">marked:</span><br><span class="line"> prependRoot: true</span><br><span class="line"> postAsset: false</span><br></pre></td></tr></table></figure>
+
+<p>The “postAsset: false” is important due to the redundancy of generated absolute image path.</p>
+<h2 id="2-Insert-image"><a href="#2-Insert-image" class="headerlink" title="2 Insert image"></a>2 Insert image</h2><p>With <code>hexo-asset-image</code> plugin installed we make a new post:</p>
+<p><code>hexo new &quot;project name&quot;</code></p>
+<p>A new directory is automatically generated </p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215244435.png" alt="Illustration of new generated directory"><figcaption aria-hidden="true">Illustration of new generated directory</figcaption></figure></p>
+<p>Now we insert an image to the markdown: For instance:</p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/image-20240821215454491.png" alt="Screenshot of Furina"><figcaption aria-hidden="true">Screenshot of Furina</figcaption></figure></p>
+<p>Then delete all strings before ‘&#x2F;‘. Now the image is invisible in Typora.</p>
+<p><figure><img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina"><figcaption aria-hidden="true">Furina</figcaption></figure></p>
+<h2 id="3-Insert-image-with-specific-width-and-captions"><a href="#3-Insert-image-with-specific-width-and-captions" class="headerlink" title="3 Insert image with specific width and captions"></a>3 Insert image with specific width and captions</h2><p>We note that the Furina image above is too wide. To regulate the image width, previous command to insert image is replaced by following commands:</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;figure&gt;</span><br><span class="line">    &lt;img src=&quot;(your png/jpg path)&quot; alt=&quot;title&quot; width=&quot;60%&quot;/&gt; // or width=&quot;500&quot; to specify the width</span><br><span class="line">    &lt;figcaption&gt;your title&lt;/figcaption&gt;</span><br><span class="line">&lt;/figure&gt;</span><br></pre></td></tr></table></figure>
+
+<p>Now the command is applied to upload a 60% Furina:</p>
+<figure>
+    <img src="/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/115292447_p0-17242485245562.jpg" alt="Furina" width="60%">
+    <figcaption>Furina</figcaption>
+</figure>
+
+<p>Then perform <code>hexo clean</code> <code>hexo generate</code> and <code>hexo server</code> to inspect the insertion of images.</p>
+<h3 id="pixiv-id"><a href="#pixiv-id" class="headerlink" title="pixiv id"></a>pixiv id</h3><p>115292447</p>
+]]></content>
+      <tags>
+        <tag>Tutorials</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>随笔 2024/9/20</title>
     <url>/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/</url>
     <content><![CDATA[<p>不可放下骄傲之心</p>
@@ -1376,6 +1361,21 @@
 ]]></content>
       <tags>
         <tag>Essay</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI screenshot 8/21/24</title>
+    <url>/2024/08/22/GI-screenshot-8-21-24/</url>
+    <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
+<span id="more"></span>
+
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231018003839-17242515898431.jpg" alt="Hutao and Wangshu inn"><figcaption aria-hidden="true">Hutao and Wangshu inn</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240226003449.jpg" alt="Hutao and Liyue in lantern rite"><figcaption aria-hidden="true">Hutao and Liyue in lantern rite</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20240201113715.jpg" alt="Mountain top in Chenyu vale"><figcaption aria-hidden="true">Mountain top in Chenyu vale</figcaption></figure></p>
+<p><figure><img src="/2024/08/22/GI-screenshot-8-21-24/20231108004453.jpg" alt="Palais Mermonia from far"><figcaption aria-hidden="true">Palais Mermonia from far</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
       </tags>
   </entry>
   <entry>
