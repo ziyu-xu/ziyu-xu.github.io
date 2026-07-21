@@ -4,5 +4,7 @@ db.json
 *.log
 node_modules/
 public/
+!sites/public/
+!sites/public/og.png
 .deploy*/
 _multiconfig.yml

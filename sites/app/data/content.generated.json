@@ -1,0 +1,355 @@
+{
+  "introduction": [
+    "你好，我是一名学生，会在这里记录一些日常，也会偶尔写一写一些实验上的方法和小伎俩。",
+    "会不定时更新生物实验和数据处理、文献阅读、⚪神相关的内容。",
+    "希望我的内容对你产生了帮助。"
+  ],
+  "publications": [
+    {
+      "title": "Advances on structural mechanisms of ubiquitinated nucleosome complexes.",
+      "authors": "Ziyu Xu, Huasong Ai, Maoshen Sun, Jiakun Tian, Lei Liu.",
+      "venue": "Sci. Sin. Chim., 2020, 50, 415–436.",
+      "year": "2020",
+      "url": "http://engine.scichina.com/publisher/scp/journal/SSC/50/4/10.1360/SSC-2019-0170?slug=fulltext"
+    },
+    {
+      "title": "Unique gluing effect of ASXL1 K351 monoubiquitination stimulates the PR-DUB activity.",
+      "authors": "Tianyi Zhang, Jiqing Zheng, Zebing Tong, Zhiheng Deng, Zaozhen He, Xiangwei Wu, Miao Wang, Yunxiang Du, Ziyu Xu, Shixian Tao, Shizhang Wan, Xiaolin Tian, Haiteng Deng, Man Pan, Huasong Ai, Lei Liu.",
+      "venue": "Nat. Chem. Biol., 2026.",
+      "year": "2026",
+      "url": "https://doi.org/10.1038/s41589-025-02126-5"
+    },
+    {
+      "title": "Structural basis for E4 enzyme Ufd2-catalyzed K48/K29 branched ubiquitin chains.",
+      "authors": "Zebin Tong, Xiangwei Wu, Hongyi Cai, Shidian Wu, Tianyi Zhang, Zhiheng Deng, Ziyu Xu, Rujing Yuan, Huasong Ai, Lei Liu, Man Pan.",
+      "venue": "Nat. Chem. Biol., 2026, 22, 239–248.",
+      "year": "2026",
+      "url": "https://doi.org/10.1038/s41589-025-01985-2"
+    },
+    {
+      "title": "RAD18-catalysed formation of ubiquitination intermediate mimic of proliferating cell nuclear antigen PCNA.",
+      "authors": "Liying Zhang, Zhiheng Deng, Yunxiang Du, Ziyu Xu, Tianyi Zhang, Zebin Tong, Huasong Ai, Lu-Jun Liang, Lei Liu.",
+      "venue": "Bioorg. Med. Chem., 2025, 117, 118016.",
+      "year": "2025",
+      "url": "https://doi.org/10.1016/j.bmc.2024.118016"
+    },
+    {
+      "title": "Synovial sarcoma X breakpoint 1 protein uses a cryptic groove to selectively recognize H2AK119Ub nucleosomes.",
+      "authors": "Zebin Tong, Huasong Ai, Ziyu Xu, Kezhang He, Guo-Chao Chu, Qiang Shi, Zhiheng Deng, Qiaomei Xue, Maoshen Sun, Yunxiang Du, Lujun Liang, Jia-Bin Li, Man Pan, Lei Liu.",
+      "venue": "Nat. Struct. Mol. Biol., 2024, 31, 300–310.",
+      "year": "2024",
+      "url": "https://doi.org/10.1038/s41594-023-01141-1"
+    },
+    {
+      "title": "Mechanistic insights into nucleosomal H2B monoubiquitylation mediated by yeast Bre1-Rad6 and its human homolog RNF20/RNF40-hRAD6A.",
+      "authors": "Zhiheng Deng, Huasong Ai, Maoshen Sun, Zebin Tong, Yunxiang Du, Qian Qu, Liying Zhang, Ziyu Xu, Shixian Tao, Qiang Shi, Jia-Bin Li, Man Pan, Lei Liu.",
+      "venue": "Mol. Cell, 2023, 83, 3080–3094.",
+      "year": "2023",
+      "url": "https://doi.org/10.1016/j.molcel.2023.08.001"
+    },
+    {
+      "title": "Chemical mechanisms of nucleosomal histone ubiquitination by RING-type E3 enzymes.",
+      "authors": "Qiang Shi, Zebin Tong, Zhiheng Deng, Ziyu Xu, Huasong Ai, Yang Liu, Lei Liu.",
+      "venue": "Sci. Sin. Chim., 2023, 53, 1455–1471.",
+      "year": "2023",
+      "url": "https://doi.org/10.1360/SSC-2023-0066"
+    },
+    {
+      "title": "Synthetic E2-Ub-nucleosome conjugates for studying nucleosome ubiquitination.",
+      "authors": "Huasong Ai, Zebin Tong, Zhiheng Deng, Jiakun Tian, Liying Zhang, Maoshen Sun, Yunxiang Du, Ziyu Xu, Qiang Shi, Lujun Liang, Qingyun Zheng, Jia-Bin Li, Man Pan, Lei Liu.",
+      "venue": "Chem, 2023, 9, 1221–1240.",
+      "year": "2023",
+      "url": "https://doi.org/10.1016/j.chempr.2023.01.012"
+    },
+    {
+      "title": "Chemical synthesis of post-translationally modified H2AX reveals redundancy in interplay between histone phosphorylation, ubiquitination, and methylation on the binding of 53BP1 with nucleosomes.",
+      "authors": "Huasong Ai, Guo-Chao Chu, Qingyue Gong, Ze-Bin Tong, Zhiheng Deng, Xin Liu, Fan Yang, Ziyu Xu, Jia-Bin Li, Changlin Tian, Lei Liu.",
+      "venue": "J. Am. Chem. Soc., 2022, 144, 18329–18337.",
+      "year": "2022",
+      "url": "https://doi.org/10.1021/jacs.2c06156"
+    }
+  ],
+  "posts": [
+    {
+      "title": "GI 6.7 幽境危战",
+      "date": "2026-07-10",
+      "tag": "Game",
+      "excerpt": "超导锅要求较高，这一期还是能两个冰c同时上场的，但之后丝老师就业空间应该越来越少了",
+      "url": "https://ziyu-xu.github.io/2026/07/10/GI-6-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "GI 6.6 幽境危战",
+      "date": "2026-06-09",
+      "tag": "Game",
+      "excerpt": "北风狼缺少风c和全套火神队打的很艰难，另外两间不困难",
+      "url": "https://ziyu-xu.github.io/2026/06/09/GI-6-6-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "Article Summary 2026-04-25",
+      "date": "2026-04-25",
+      "tag": "Articles",
+      "excerpt": "Article title A cell-permeable nanobody to restore F508del cystic fibrosis transmembrane conductance regulator activity <figure <img src=\"image-2026042520430581",
+      "url": "https://ziyu-xu.github.io/2026/04/25/Article-Summary-26-04-25/"
+    },
+    {
+      "title": "GI 6.5 幽境危战",
+      "date": "2026-04-25",
+      "tag": "Game",
+      "excerpt": "月体系两队，丝老师一队，还是相对简单的，毕竟是版本队伍，总时长限制到了200s，这是第一次",
+      "url": "https://ziyu-xu.github.io/2026/04/25/GI-6-5-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "GI 6.4 幽境危战",
+      "date": "2026-03-12",
+      "tag": "Game",
+      "excerpt": "第一间曼德拉草相当难，只能靠火神力大砖飞 另外两间没有什么好说的",
+      "url": "https://ziyu-xu.github.io/2026/03/12/GI-6-4-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "蛋白半胱氨酸侧链烷基化",
+      "date": "2026-03-12",
+      "tag": "Protocols",
+      "excerpt": "<figure <img src=\"image-20260312225853146.png\" alt=\"Sulfhydryl alkylation to afford methylated proteins\" width=\"60%\"/ <figcaption Sulfhydryl alkylation to affor",
+      "url": "https://ziyu-xu.github.io/2026/03/12/%E8%9B%8B%E7%99%BD%E5%8D%8A%E8%83%B1%E6%B0%A8%E9%85%B8%E4%BE%A7%E9%93%BE%E7%83%B7%E5%9F%BA%E5%8C%96/"
+    },
+    {
+      "title": "Article Summary 2026-03-07",
+      "date": "2026-03-07",
+      "tag": "Articles",
+      "excerpt": "Article title High-throughput ligand diversification to discover chemical inducers of proximity <figure <img src=\"image-20260307213750442.png\" alt=\"High-through",
+      "url": "https://ziyu-xu.github.io/2026/03/07/Article-Summary-26-03-07/"
+    },
+    {
+      "title": "GI 6.3 幽境危战",
+      "date": "2026-02-01",
+      "tag": "Game",
+      "excerpt": "第一间黑龙极难，基本只有绽放能打 第二间月感电，有人机就好说 第三间龙王轻松打，但我无龙王，用丝柯克也能较为轻松打过去",
+      "url": "https://ziyu-xu.github.io/2026/02/01/GI-6-3-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "Article Summary 2026-01-24",
+      "date": "2026-01-30",
+      "tag": "Articles",
+      "excerpt": "Article title Antibody-lectin chimeras for glyco-immune checkpoint blockade <figure <img src=\"image-20260130141103101.png\" alt=\"Mechanism of antibody-lectin chi",
+      "url": "https://ziyu-xu.github.io/2026/01/30/Article-Summary-26-01-24/"
+    },
+    {
+      "title": "Article Summary 2025-12-23",
+      "date": "2025-12-23",
+      "tag": "Articles",
+      "excerpt": "Article title A chemical agonist and the Golgi-resident lipid PI4P activate STING by inducing transmembrane helix rearrangement <figure <img src=\"image-20251223",
+      "url": "https://ziyu-xu.github.io/2025/12/23/Article-Summary-25-12-23/"
+    },
+    {
+      "title": "GI 6.2 幽境危战",
+      "date": "2025-12-15",
+      "tag": "Game",
+      "excerpt": "暝视龙难度高，跳楼机难度较高，深罪浸礼者最简单。 N5低金，超载感觉是版本答案",
+      "url": "https://ziyu-xu.github.io/2025/12/15/GI-6-2-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "Article Summary 2025-11-22",
+      "date": "2025-12-02",
+      "tag": "Articles",
+      "excerpt": "Article title Development of a targeted BioPROTAC degrader selective for misfolded SOD1 <figure <img src=\"41467202565481Fig1HTML.png\" alt=\"Development of BioPRO",
+      "url": "https://ziyu-xu.github.io/2025/12/02/Article-Summary-25-11-22/"
+    },
+    {
+      "title": "Article Summary 2025-11-08",
+      "date": "2025-11-11",
+      "tag": "Articles",
+      "excerpt": "Article title Lysine-specific histone demethylase complex restricts Epstein–Barr virus lytic reactivation <figure <img src=\"image-20251111152114129.png\" alt=\"CR",
+      "url": "https://ziyu-xu.github.io/2025/11/11/Article-Summary-25-11-08/"
+    },
+    {
+      "title": "GI 6.1 幽境危战",
+      "date": "2025-11-04",
+      "tag": "Game",
+      "excerpt": "整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。",
+      "url": "https://ziyu-xu.github.io/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "Article Summary 2025-09-21",
+      "date": "2025-09-21",
+      "tag": "Articles",
+      "excerpt": "Article title Diffusing protein binders to intrinsically disordered proteins <figure <img src=\"image-20250921182148527.png\" alt=\"Diffusing protein binders to in",
+      "url": "https://ziyu-xu.github.io/2025/09/21/Article-Summary-25-09-21/"
+    },
+    {
+      "title": "GI 6.0 幽境危战",
+      "date": "2025-09-19",
+      "tag": "Game",
+      "excerpt": "第二间极其需要菈乌玛；第三间除了牛牛以外的0+0雷C，力度已经不太够了。第一间较为好打。",
+      "url": "https://ziyu-xu.github.io/2025/09/19/GI-6-0-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "Article Summary 2025-08-23",
+      "date": "2025-08-25",
+      "tag": "Articles",
+      "excerpt": "Article title NASP modulates histone turnover to drive PARP inhibitor resistance <figure <img src=\"image-20250825162357563.png\" alt=\"NASP and PARP1-involving hi",
+      "url": "https://ziyu-xu.github.io/2025/08/25/Article-Summary-25-8-23/"
+    },
+    {
+      "title": "GI 5.8 幽境危战",
+      "date": "2025-08-06",
+      "tag": "Game",
+      "excerpt": "整体难度偏难，5.0之前的队伍相当难打 最难的是次数盾，是真的太粪了",
+      "url": "https://ziyu-xu.github.io/2025/08/06/GI-5-8-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "Article Summary 2025-07-19",
+      "date": "2025-07-27",
+      "tag": "Articles",
+      "excerpt": "Article title Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation <figure <img src=\"image-20250727160503105.png\" alt=\"Schemati",
+      "url": "https://ziyu-xu.github.io/2025/07/27/Article-Summary-7-19-25/"
+    },
+    {
+      "title": "Article Summary 2025-07-05",
+      "date": "2025-07-08",
+      "tag": "Articles",
+      "excerpt": "Article title Isoform-specific function of NSD3 in DNA replication stress confers resistance to PARP inhibitors in prostate cancer <figure <img src=\"image-20250",
+      "url": "https://ziyu-xu.github.io/2025/07/08/Article-Summary-7-5-25/"
+    },
+    {
+      "title": "GI 5.7 幽境危战",
+      "date": "2025-07-01",
+      "tag": "Game",
+      "excerpt": "整体难度偏难，5.0之前的队伍相当难打",
+      "url": "https://ziyu-xu.github.io/2025/07/01/GI-5-7-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/"
+    },
+    {
+      "title": "Article Summary 2025-06-21",
+      "date": "2025-06-27",
+      "tag": "Articles",
+      "excerpt": "Article title BRAF oncogenic mutants evade autoinhibition through a common mechanism <figure <img src=\"image-20250627200419555.png\" alt=\"BRAF oncogenic mutants ",
+      "url": "https://ziyu-xu.github.io/2025/06/27/Article-Summary-06-21-25/"
+    },
+    {
+      "title": "GI screenshot 6/14/25",
+      "date": "2025-06-14",
+      "tag": "Illustrations",
+      "excerpt": "GI screenshots taken in PS5",
+      "url": "https://ziyu-xu.github.io/2025/06/14/GI-screenshot-6-14-25/"
+    },
+    {
+      "title": "Article Summary 2025-05-24",
+      "date": "2025-05-26",
+      "tag": "Articles",
+      "excerpt": "Article title TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6 <figure <img src=\"image-20250526112842451.png\" alt=\"TOM20 drives ",
+      "url": "https://ziyu-xu.github.io/2025/05/26/Article-Summary-5-24-25/"
+    },
+    {
+      "title": "8小时组装核小体尝试",
+      "date": "2025-05-17",
+      "tag": "Tutorials",
+      "excerpt": "目标 在1天的上班时间内完成核小体的组装和Native-PAGE表征",
+      "url": "https://ziyu-xu.github.io/2025/05/17/8%E5%B0%8F%E6%97%B6%E7%BB%84%E8%A3%85%E6%A0%B8%E5%B0%8F%E4%BD%93%E5%B0%9D%E8%AF%95/"
+    },
+    {
+      "title": "Article Summary 2025-04-26",
+      "date": "2025-05-08",
+      "tag": "Articles",
+      "excerpt": "Article title Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance <figure <img src=\"image-202505",
+      "url": "https://ziyu-xu.github.io/2025/05/08/Article-summary-04-26-25/"
+    },
+    {
+      "title": "Article Summary 2025-03-07",
+      "date": "2025-04-10",
+      "tag": "Articles",
+      "excerpt": "Article title A PARP2 active site helix melts to permit DNA damage-induced enzymatic activation <figure <img src=\"image-20250410102530836.png\" alt=\"PARP2 utiliz",
+      "url": "https://ziyu-xu.github.io/2025/04/10/Article-summary-03-07-25/"
+    },
+    {
+      "title": "Article Summary 2025-01-19",
+      "date": "2025-02-01",
+      "tag": "Articles",
+      "excerpt": "Article title Bidirectional histone monoaminylation dynamics regulate neural rhythmicity <figure <img src=\"image-20250201212011127.png\" alt=\"Histone monoaminyla",
+      "url": "https://ziyu-xu.github.io/2025/02/01/Article-summary-1-19-25/"
+    },
+    {
+      "title": "Article Summary 2024-12-07",
+      "date": "2024-12-12",
+      "tag": "Articles",
+      "excerpt": "Article title Human HDAC6 senses valine abundancy to regulate DNA damage <figure <img src=\"image-20241212165045200.png\" alt=\"Human HDAC6 senses valine abundancy",
+      "url": "https://ziyu-xu.github.io/2024/12/12/Article-summary-12-07-24/"
+    },
+    {
+      "title": "Article Summary 2024-11-09",
+      "date": "2024-11-12",
+      "tag": "Articles",
+      "excerpt": "Article title Structure-guided discovery of bile acid derivatives for treating liver diseases without causing itch <figure <img src=\"1-s2.0-S0092867424011498-fx",
+      "url": "https://ziyu-xu.github.io/2024/11/12/Article-summary-11-09-24/"
+    },
+    {
+      "title": "Article Summary 2024-09-30",
+      "date": "2024-09-30",
+      "tag": "Articles",
+      "excerpt": "Article title Targeting cancer with small-molecule pan-KRAS degraders <figure <img src=\"image-20240930162705818.png\" alt=\"Targeting cancer with pan-KRAS PROTAC ",
+      "url": "https://ziyu-xu.github.io/2024/09/30/Article-summary-9-30-24/"
+    },
+    {
+      "title": "使用Origin和Adobe Illustrator建立交联质谱图",
+      "date": "2024-09-25",
+      "tag": "Tutorials",
+      "excerpt": "目标 使用Origin和Adobe Illustrator将原始的交联质谱数据转化为圆环形交联质谱图",
+      "url": "https://ziyu-xu.github.io/2024/09/25/%E4%BD%BF%E7%94%A8Origin%E5%92%8CAdobe-Illustrator%E5%BB%BA%E7%AB%8B%E4%BA%A4%E8%81%94%E8%B4%A8%E8%B0%B1%E5%9B%BE/"
+    },
+    {
+      "title": "随笔 2024/9/20",
+      "date": "2024-09-20",
+      "tag": "Essay",
+      "excerpt": "不可放下骄傲之心",
+      "url": "https://ziyu-xu.github.io/2024/09/20/%E9%9A%8F%E7%AC%94-2024-9-20/"
+    },
+    {
+      "title": "Article Summary 2024-09-14",
+      "date": "2024-09-15",
+      "tag": "Articles",
+      "excerpt": "Article title Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome a",
+      "url": "https://ziyu-xu.github.io/2024/09/15/Article-Summary-9-14-24/"
+    },
+    {
+      "title": "Article Summary 2024-08-27",
+      "date": "2024-08-27",
+      "tag": "Articles",
+      "excerpt": "Article title Bridging of DNA breaks activates PARP2–HPF1 to modify chromatin Journal Nature Tags Nucleosome; PARP1; Cryo-EM structure",
+      "url": "https://ziyu-xu.github.io/2024/08/27/Article-summary-8-27-24/"
+    },
+    {
+      "title": "Article Summary 2024-08-23",
+      "date": "2024-08-23",
+      "tag": "Articles",
+      "excerpt": "Article title Structure and repair of replication-coupled DNA breaks <figure <img src=\"image-20240823205450979.png\" alt=\"Replication-associated DSBs are process",
+      "url": "https://ziyu-xu.github.io/2024/08/23/Article-summary-8-23-24/"
+    },
+    {
+      "title": "GI screenshot 8/21/24",
+      "date": "2024-08-22",
+      "tag": "Illustrations",
+      "excerpt": "4 GI screenshots taken in last year.",
+      "url": "https://ziyu-xu.github.io/2024/08/22/GI-screenshot-8-21-24/"
+    },
+    {
+      "title": "Article Summary 2024-08-21",
+      "date": "2024-08-21",
+      "tag": "Articles",
+      "excerpt": "Article title A ubiquitin-specific, proximity-based labeling approach for the identification of ubiquitin ligase substrates <figure <img src=\"image-202408222346",
+      "url": "https://ziyu-xu.github.io/2024/08/21/Article-summary-8-21-24/"
+    },
+    {
+      "title": "Upload images to hexo-based github.io portfolio",
+      "date": "2024-08-21",
+      "tag": "Tutorials",
+      "excerpt": "Aim To upload images to my portfolio which is constructed by hexo-based github.io.",
+      "url": "https://ziyu-xu.github.io/2024/08/21/Upload-images-to-hexo-based-github-io-portfolio/"
+    }
+  ],
+  "tags": [
+    "Articles",
+    "Essay",
+    "Game",
+    "Illustrations",
+    "Protocols",
+    "Tutorials"
+  ]
+}
