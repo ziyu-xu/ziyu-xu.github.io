@@ -15,7 +15,6 @@ export default function PublicationsPage() {
   return (
     <main className="full-publications">
       <header className="page-intro">
-        <p className="eyebrow">Publications</p>
         <h1>发表文章</h1>
         <p>按照第一作者、共同第一作者及发表顺序排列。</p>
       </header>

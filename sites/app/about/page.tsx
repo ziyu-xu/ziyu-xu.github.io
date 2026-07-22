@@ -10,7 +10,6 @@ export default function AboutPage() {
   return (
     <main>
       <header className="page-intro">
-        <p className="eyebrow">About</p>
         <h1>介绍</h1>
         <p>研究、实验和一些值得记下来的事情。</p>
       </header>
