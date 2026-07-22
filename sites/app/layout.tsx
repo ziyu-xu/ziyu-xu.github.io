@@ -37,7 +37,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <body>
         <div className="site-shell">
           <header className="site-header">
-            <Link href="/" className="wordmark">Ziyu Xu</Link>
+            <Link href="/" className="wordmark">主页</Link>
             <nav aria-label="主导航">
               <Link href="/about">介绍</Link>
               <Link href="/publications">发表文章</Link>
