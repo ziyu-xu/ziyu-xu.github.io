@@ -25,7 +25,7 @@ body {
   color: var(--ink);
   font-family: var(--font-main);
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -83,11 +83,11 @@ main {
 
 .hero {
   max-width: 880px;
-  padding: 64px 0 56px;
+  padding: 40px 0 32px;
 }
 
 .eyebrow {
-  margin: 0 0 18px;
+  margin: 0 0 8px;
   color: var(--muted);
   font-size: 12px;
   font-weight: 700;
@@ -117,14 +117,14 @@ h1 {
 
 .hero-lead {
   max-width: 680px;
-  margin: 24px 0 0;
+  margin: 12px 0 0;
   font-family: var(--font-main);
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.5;
 }
 
 .motto {
-  margin: 20px 0 0;
+  margin: 8px 0 0;
   color: var(--muted);
   font-size: 15px;
   letter-spacing: 0.06em;
@@ -133,7 +133,7 @@ h1 {
 .hero-actions {
   display: flex;
   gap: 26px;
-  margin-top: 28px;
+  margin-top: 16px;
   font-size: 14px;
   font-weight: 700;
 }
@@ -150,8 +150,8 @@ h1 {
 }
 
 .summary-grid > div {
-  min-height: 96px;
-  padding: 22px 0;
+  min-height: 68px;
+  padding: 12px 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -178,12 +178,12 @@ h1 {
 }
 
 .section-block {
-  padding: 64px 0;
+  padding: 40px 0;
   border-bottom: 1px solid var(--line);
 }
 
 .section-heading {
-  margin-bottom: 38px;
+  margin-bottom: 18px;
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
@@ -212,7 +212,7 @@ h1 {
 
 .publication-list li {
   border-top: 1px solid var(--line);
-  padding: 26px 0;
+  padding: 14px 0;
   display: grid;
   grid-template-columns: 84px 1fr;
   gap: 28px;
@@ -223,7 +223,7 @@ h1 {
   font-family: var(--font-main);
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.45;
+  line-height: 1.35;
 }
 
 .publication-list h3 a {
@@ -241,13 +241,14 @@ h1 {
 }
 
 .authors {
-  margin: 11px 0 0;
+  margin: 5px 0 0;
   color: #303030;
   font-size: 14px;
+  line-height: 1.45;
 }
 
 .venue {
-  margin: 4px 0 0;
+  margin: 1px 0 0;
 }
 
 .post-list {
@@ -255,7 +256,7 @@ h1 {
 }
 
 .post-row {
-  min-height: 72px;
+  min-height: 48px;
   border-bottom: 1px solid var(--line);
   display: grid;
   grid-template-columns: 118px 1fr 110px;
@@ -281,11 +282,11 @@ h1 {
 
 .page-intro {
   max-width: 830px;
-  padding: 64px 0 48px;
+  padding: 40px 0 24px;
 }
 
 .page-intro p:last-child {
-  margin: 20px 0 0;
+  margin: 8px 0 0;
   color: var(--muted);
   font-family: var(--font-main);
   font-size: 16px;
@@ -293,23 +294,23 @@ h1 {
 
 .prose {
   max-width: 720px;
-  padding: 48px 0 80px;
+  padding: 28px 0 48px;
   border-top: 1px solid var(--ink);
 }
 
 .prose p {
-  margin: 0 0 24px;
+  margin: 0 0 12px;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.55;
 }
 
 .full-publications,
 .full-writing {
-  padding-bottom: 80px;
+  padding-bottom: 48px;
 }
 
 .site-footer {
-  min-height: 112px;
+  min-height: 72px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -340,11 +341,11 @@ h1 {
   }
 
   .hero {
-    padding: 48px 0 44px;
+    padding: 32px 0 28px;
   }
 
   .hero-lead {
-    margin-top: 20px;
+    margin-top: 10px;
   }
 
   .summary-grid {
@@ -352,7 +353,7 @@ h1 {
   }
 
   .summary-grid > div {
-    min-height: 94px;
+    min-height: 64px;
   }
 
   .summary-grid > div + div {
@@ -362,7 +363,7 @@ h1 {
   }
 
   .section-block {
-    padding: 48px 0;
+    padding: 36px 0;
   }
 
   .publication-list li {
@@ -371,7 +372,7 @@ h1 {
   }
 
   .post-row {
-    padding: 18px 0;
+    padding: 10px 0;
     grid-template-columns: 1fr;
     gap: 3px;
   }
