@@ -46,7 +46,7 @@ a:focus-visible {
 }
 
 .site-header {
-  min-height: 88px;
+  min-height: 64px;
   border-bottom: 1px solid var(--line);
   display: flex;
   align-items: center;
@@ -56,7 +56,7 @@ a:focus-visible {
 
 .wordmark {
   font-family: var(--font-main);
-  font-size: 21px;
+  font-size: 16px;
   font-weight: 700;
   text-decoration: none;
 }
@@ -83,7 +83,7 @@ main {
 
 .hero {
   max-width: 880px;
-  padding: 112px 0 88px;
+  padding: 64px 0 56px;
 }
 
 .eyebrow {
@@ -109,18 +109,18 @@ h2 {
 
 h1 {
   margin: 0;
-  font-size: clamp(64px, 10vw, 124px);
-  font-weight: 400;
-  letter-spacing: -0.045em;
-  line-height: 0.94;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
 }
 
 .hero-lead {
   max-width: 680px;
-  margin: 42px 0 0;
+  margin: 24px 0 0;
   font-family: var(--font-main);
-  font-size: clamp(23px, 3.2vw, 34px);
-  line-height: 1.45;
+  font-size: 16px;
+  line-height: 1.7;
 }
 
 .motto {
@@ -133,7 +133,7 @@ h1 {
 .hero-actions {
   display: flex;
   gap: 26px;
-  margin-top: 38px;
+  margin-top: 28px;
   font-size: 14px;
   font-weight: 700;
 }
@@ -150,8 +150,8 @@ h1 {
 }
 
 .summary-grid > div {
-  min-height: 126px;
-  padding: 28px 0;
+  min-height: 96px;
+  padding: 22px 0;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -164,8 +164,9 @@ h1 {
 
 .summary-number {
   font-family: var(--font-main);
-  font-size: 38px;
-  line-height: 1;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.4;
 }
 
 .summary-label,
@@ -177,7 +178,7 @@ h1 {
 }
 
 .section-block {
-  padding: 88px 0;
+  padding: 64px 0;
   border-bottom: 1px solid var(--line);
 }
 
@@ -192,10 +193,10 @@ h1 {
 .section-heading h2,
 .page-intro h1 {
   margin: 0;
-  font-size: clamp(36px, 5vw, 54px);
-  font-weight: 400;
-  letter-spacing: -0.035em;
-  line-height: 1.08;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
 }
 
 .section-heading > a {
@@ -220,7 +221,7 @@ h1 {
 .publication-list h3 {
   margin: 0;
   font-family: var(--font-main);
-  font-size: 21px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 1.45;
 }
@@ -236,7 +237,7 @@ h1 {
 
 .publication-year {
   font-family: var(--font-main);
-  font-size: 18px;
+  font-size: 14px;
 }
 
 .authors {
@@ -271,7 +272,7 @@ h1 {
 
 .post-title {
   font-family: var(--font-main);
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .post-tag {
@@ -280,31 +281,31 @@ h1 {
 
 .page-intro {
   max-width: 830px;
-  padding: 92px 0 68px;
+  padding: 64px 0 48px;
 }
 
 .page-intro p:last-child {
-  margin: 26px 0 0;
+  margin: 20px 0 0;
   color: var(--muted);
   font-family: var(--font-main);
-  font-size: clamp(20px, 2.7vw, 28px);
+  font-size: 16px;
 }
 
 .prose {
   max-width: 720px;
-  padding: 68px 0 110px;
+  padding: 48px 0 80px;
   border-top: 1px solid var(--ink);
 }
 
 .prose p {
   margin: 0 0 24px;
-  font-size: 18px;
-  line-height: 1.9;
+  font-size: 16px;
+  line-height: 1.8;
 }
 
 .full-publications,
 .full-writing {
-  padding-bottom: 110px;
+  padding-bottom: 80px;
 }
 
 .site-footer {
@@ -339,11 +340,11 @@ h1 {
   }
 
   .hero {
-    padding: 76px 0 64px;
+    padding: 48px 0 44px;
   }
 
   .hero-lead {
-    margin-top: 30px;
+    margin-top: 20px;
   }
 
   .summary-grid {
@@ -361,7 +362,7 @@ h1 {
   }
 
   .section-block {
-    padding: 64px 0;
+    padding: 48px 0;
   }
 
   .publication-list li {
