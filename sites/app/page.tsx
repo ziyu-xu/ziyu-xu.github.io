@@ -24,14 +24,20 @@ export default function Home() {
       <section className="hero">
         <div className="hero-overview">
           <h1>Ziyu Xu</h1>
-          <div className="hero-stats" aria-label="网站内容概览">
-            <div>
-              <span className="summary-number">{content.posts.length}</span>
-              <span className="summary-label">篇日志</span>
+          <div className="hero-details">
+            <div className="hero-contact" aria-label="联系信息">
+              <span>@黄埔区，广州市</span>
+              <a href="mailto:ziyux99@163.com">ziyux99@163.com</a>
             </div>
-            <div>
-              <span className="summary-number">{content.tags.length}</span>
-              <span className="summary-label">个内容主题</span>
+            <div className="hero-stats" aria-label="网站内容概览">
+              <div>
+                <span className="summary-number">{content.posts.length}</span>
+                <span className="summary-label">篇日志</span>
+              </div>
+              <div>
+                <span className="summary-number">{content.tags.length}</span>
+                <span className="summary-label">个内容主题</span>
+              </div>
             </div>
           </div>
         </div>

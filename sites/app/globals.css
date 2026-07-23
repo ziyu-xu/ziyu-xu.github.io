@@ -110,10 +110,25 @@ h1 {
   gap: 48px;
 }
 
+.hero-details {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 20px;
+}
+
+.hero-contact {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  font-size: 13px;
+  white-space: nowrap;
+}
+
 .hero-stats {
   display: flex;
   align-items: center;
-  gap: 40px;
+  gap: 12px;
 }
 
 .hero-stats > div {
@@ -310,7 +325,22 @@ h1 {
   }
 
   .hero-overview {
+    align-items: flex-start;
+    flex-direction: column;
     gap: 14px;
+  }
+
+  .hero-details {
+    width: 100%;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 12px 18px;
+  }
+
+  .hero-contact {
+    flex-wrap: wrap;
+    gap: 6px 14px;
   }
 
   .hero-stats {
