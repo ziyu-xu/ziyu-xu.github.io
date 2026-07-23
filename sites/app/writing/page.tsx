@@ -28,11 +28,11 @@ export default async function WritingPage({ searchParams }: WritingPageProps) {
       </header>
       <div className="post-list">
         {posts.map((post) => (
-          <a key={post.url} href={post.url} target="_blank" rel="noreferrer" className="post-row">
+          <Link key={post.slug} href={`/writing/${encodeURIComponent(post.slug)}`} className="post-row">
             <span className="post-date">{post.date}</span>
             <span className="post-title">{post.title}</span>
             <span className="post-tag">{post.tag}</span>
-          </a>
+          </Link>
         ))}
       </div>
     </main>

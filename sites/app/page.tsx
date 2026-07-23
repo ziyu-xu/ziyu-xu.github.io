@@ -73,11 +73,11 @@ export default function Home() {
         </div>
         <div className="post-list">
           {latestPosts.map((post) => (
-            <a key={post.url} href={post.url} target="_blank" rel="noreferrer" className="post-row">
+            <Link key={post.slug} href={`/writing/${encodeURIComponent(post.slug)}`} className="post-row">
               <span className="post-date">{post.date}</span>
               <span className="post-title">{post.title}</span>
               <span className="post-tag">{post.tag}</span>
-            </a>
+            </Link>
           ))}
         </div>
       </section>

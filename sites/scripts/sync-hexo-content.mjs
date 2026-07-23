@@ -1,5 +1,6 @@
 import { readFile, readdir, mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { marked } from "marked";
 
 const siteRoot = process.cwd();
 const repoRoot = path.resolve(siteRoot, "..");
@@ -31,6 +32,17 @@ function plainText(markdown) {
     .trim();
 }
 
+function resolvePostAssets(markdown, baseUrl) {
+  const resolveUrl = (url) => {
+    const value = url.trim();
+    return /^(?:[a-z][a-z+.-]*:|\/|#)/i.test(value) ? value : `${baseUrl}${value}`;
+  };
+
+  return markdown
+    .replace(/(!\[[^\]]*\]\()([^)\s]+)([^)]*\))/g, (_, opening, url, closing) => `${opening}${resolveUrl(url)}${closing}`)
+    .replace(/(<img\b[^>]*\bsrc=["'])([^"']+)(["'])/gi, (_, opening, url, closing) => `${opening}${resolveUrl(url)}${closing}`);
+}
+
 async function readPosts() {
   const postsDir = path.join(sourceRoot, "_posts");
   const files = (await readdir(postsDir)).filter((file) => file.endsWith(".md"));
@@ -40,12 +52,16 @@ async function readPosts() {
     const [year, month, day] = date.split("-");
     const slug = path.basename(file, ".md");
     const preview = plainText(body.split("<!--more-->")[0]);
+    const sourceUrl = `https://ziyu-xu.github.io/${year}/${month}/${day}/${encodeURIComponent(slug)}/`;
+    const renderedBody = resolvePostAssets(body.replace(/<!--more-->/g, ""), sourceUrl);
     return {
       title: frontmatter.title ?? slug,
       date,
       tag: frontmatter.tags ?? "Notes",
+      slug,
       excerpt: preview.slice(0, 160),
-      url: `https://ziyu-xu.github.io/${year}/${month}/${day}/${encodeURIComponent(slug)}/`,
+      html: marked.parse(renderedBody, { gfm: true }),
+      sourceUrl,
     };
   }));
   return posts.sort((a, b) => b.date.localeCompare(a.date));
