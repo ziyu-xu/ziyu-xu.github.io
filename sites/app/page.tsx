@@ -1,5 +1,6 @@
 import Link from "next/link";
 import content from "./data/content.generated.json";
+import HeroTopics from "./HeroTopics";
 
 function AuthorLine({ authors }: { authors: string }) {
   const parts = authors.split("Ziyu Xu");
@@ -18,6 +19,10 @@ function AuthorLine({ authors }: { authors: string }) {
 export default function Home() {
   const featuredPublications = content.publications.slice(0, 3);
   const latestPosts = content.posts.slice(0, 5);
+  const topics = content.tags.map((tag) => ({
+    name: tag,
+    count: content.posts.filter((post) => post.tag === tag).length,
+  }));
 
   return (
     <main>
@@ -29,16 +34,7 @@ export default function Home() {
               <span>@黄埔区，广州市</span>
               <a href="mailto:ziyux99@163.com">ziyux99@163.com</a>
             </div>
-            <div className="hero-stats" aria-label="网站内容概览">
-              <div>
-                <span className="summary-number">{content.posts.length}</span>
-                <span className="summary-label">篇日志</span>
-              </div>
-              <div>
-                <span className="summary-number">{content.tags.length}</span>
-                <span className="summary-label">个内容主题</span>
-              </div>
-            </div>
+            <HeroTopics postsCount={content.posts.length} topics={topics} />
           </div>
         </div>
       </section>

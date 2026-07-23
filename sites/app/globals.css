@@ -131,13 +131,112 @@ h1 {
   gap: 12px;
 }
 
-.hero-stats > div {
+.hero-stat-control {
   display: flex;
   align-items: baseline;
   gap: 6px;
   padding: 3px 7px;
   border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
   white-space: nowrap;
+  cursor: pointer;
+}
+
+.hero-stat-control:hover,
+.hero-stat-control:focus-visible {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.hero-stat-control:hover .summary-label,
+.hero-stat-control:focus-visible .summary-label {
+  color: inherit;
+}
+
+.topic-dialog {
+  width: min(430px, calc(100% - 32px));
+  padding: 0;
+  border: 2px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  animation: topic-dialog-in 140ms ease-out;
+}
+
+.topic-dialog::backdrop {
+  background: rgb(0 0 0 / 48%);
+}
+
+.topic-dialog-header {
+  min-height: 48px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.topic-dialog-header h2 {
+  margin: 0;
+  font-size: 16px;
+}
+
+.topic-dialog-header button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+
+.topic-dialog-header button:hover,
+.topic-dialog-header button:focus-visible {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.topic-links {
+  display: grid;
+}
+
+.topic-links a {
+  min-height: 44px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.topic-links a:last-child {
+  border-bottom: 0;
+}
+
+@keyframes topic-dialog-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .topic-dialog {
+    animation: none;
+  }
 }
 
 .summary-number {
@@ -347,7 +446,7 @@ h1 {
     gap: 12px;
   }
 
-  .hero-stats > div {
+  .hero-stat-control {
     gap: 4px;
   }
 
