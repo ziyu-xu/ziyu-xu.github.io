@@ -161,21 +161,45 @@ h1 {
 .interactive-figure {
   width: 100%;
   margin: 0;
-  padding: 22px 0 18px;
+  padding: 0;
   border: 0;
-  border-bottom: 1px solid var(--line);
   display: grid;
-  justify-items: center;
+  justify-items: start;
   background: var(--paper);
   color: var(--ink);
   font: inherit;
 }
 
 .interactive-figure-stage {
-  width: min(390px, 82vw);
+  width: 100%;
   position: relative;
   display: block;
   overflow: hidden;
+}
+
+.nucleosome-feature {
+  padding: 30px 0;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+  align-items: center;
+  gap: 36px;
+}
+
+.nucleosome-copy p {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.65;
+}
+
+.nucleosome-copy p:first-child {
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.nucleosome-copy p:first-child strong {
+  font-size: 20px;
+  font-weight: 700;
 }
 
 .interactive-figure-stage img {
@@ -646,6 +670,16 @@ h1 {
 
   .section-block {
     padding: 28px 0;
+  }
+
+  .nucleosome-feature {
+    padding: 24px 0 28px;
+    grid-template-columns: 1fr;
+    gap: 22px;
+  }
+
+  .interactive-figure-stage {
+    width: min(100%, 520px);
   }
 
   .publication-list li {

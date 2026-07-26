@@ -40,7 +40,13 @@ export default function Home() {
         </div>
       </section>
 
-      <InteractiveImage />
+      <section className="nucleosome-feature">
+        <InteractiveImage />
+        <div
+          className="nucleosome-copy"
+          dangerouslySetInnerHTML={{ __html: content.homeIntroductionHtml }}
+        />
+      </section>
 
       <section className="section-block">
         <div className="section-heading">

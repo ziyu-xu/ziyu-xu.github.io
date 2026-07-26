@@ -72,6 +72,11 @@ async function readIntroduction() {
   return body.split(/\r?\n\s*\r?\n/).map(plainText).filter(Boolean);
 }
 
+async function readHomeIntroduction() {
+  const markdown = await readFile(path.join(siteRoot, "content", "home", "introduction.md"), "utf8");
+  return marked.parse(markdown, { gfm: true });
+}
+
 async function readPublications() {
   const { body } = splitDocument(await readFile(path.join(sourceRoot, "about", "publications", "index.md"), "utf8"));
   const blocks = body.split(/\r?\n(?=\d+\.\s+\*\*)/).filter((block) => /^\d+\./.test(block.trim()));
@@ -89,6 +94,7 @@ async function readPublications() {
 const posts = await readPosts();
 const output = {
   introduction: await readIntroduction(),
+  homeIntroductionHtml: await readHomeIntroduction(),
   publications: await readPublications(),
   posts,
   tags: [...new Set(posts.map((post) => post.tag))].sort(),
