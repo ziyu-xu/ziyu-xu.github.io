@@ -126,13 +126,7 @@ export default function InteractiveImage() {
             width={IMAGE_WIDTH}
             height={IMAGE_HEIGHT}
           />
-          <span ref={cursorRef} className="nahida-cursor" aria-hidden="true">
-            <i className="nahida-cursor-petal petal-one" />
-            <i className="nahida-cursor-petal petal-two" />
-            <i className="nahida-cursor-petal petal-three" />
-            <i className="nahida-cursor-petal petal-four" />
-            <i className="nahida-cursor-core" />
-          </span>
+          <span ref={cursorRef} className="nahida-cursor" aria-hidden="true" />
         </span>
       </span>
       <span className="interactive-figure-caption">
