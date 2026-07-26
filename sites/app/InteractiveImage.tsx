@@ -97,7 +97,7 @@ export default function InteractiveImage() {
         aria-label="点击一条组蛋白，在原位显示颜色与名称"
       >
         <img
-          src="/interactive-nucleosome.png"
+          src="/interactive-nucleosome-3x.png"
           alt="彩色纳西妲坐在黑白核小体 DNA 上的插画"
           width={IMAGE_WIDTH}
           height={IMAGE_HEIGHT}
@@ -132,7 +132,7 @@ export default function InteractiveImage() {
         })}
         <img
           className="nahida-foreground-guard"
-          src="/interactive-nucleosome.png"
+          src="/interactive-nucleosome-3x.png"
           alt=""
           aria-hidden="true"
           width={IMAGE_WIDTH}
