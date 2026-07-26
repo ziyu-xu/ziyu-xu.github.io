@@ -19,7 +19,6 @@ const histones = [
 type Histone = (typeof histones)[number];
 
 export default function InteractiveImage() {
-  const [hoveredHistone, setHoveredHistone] = useState<Histone | null>(null);
   const [selectedHistone, setSelectedHistone] = useState<Histone | null>(null);
   const cursorRef = useRef<HTMLSpanElement>(null);
   const masksRef = useRef<Array<{ histone: Histone; context: CanvasRenderingContext2D }>>([]);
@@ -82,8 +81,6 @@ export default function InteractiveImage() {
       cursorRef.current.style.transform = `translate3d(${event.clientX - bounds.left}px, ${event.clientY - bounds.top}px, 0) translate(-50%, -50%)`;
     }
 
-    const histone = histoneAtPosition(event.clientX, event.clientY, event.currentTarget);
-    setHoveredHistone((current) => (current?.chain === histone?.chain ? current : histone));
   }
 
   function handleClick(event: MouseEvent<HTMLSpanElement>) {
@@ -91,14 +88,11 @@ export default function InteractiveImage() {
     setSelectedHistone(histone);
   }
 
-  const caption = hoveredHistone ? "点击组蛋白显示颜色" : "移动四叶印，点击组蛋白显示颜色";
-
   return (
     <figure className="interactive-figure">
       <span
         className="interactive-figure-stage"
         onPointerMove={handlePointerMove}
-        onPointerLeave={() => setHoveredHistone(null)}
         onClick={handleClick}
         aria-label="点击一条组蛋白，在原位显示颜色与名称"
       >
@@ -146,7 +140,6 @@ export default function InteractiveImage() {
         />
         <span ref={cursorRef} className="nahida-cursor" aria-hidden="true" />
       </span>
-      <figcaption className="interactive-figure-caption">{caption}</figcaption>
     </figure>
   );
 }

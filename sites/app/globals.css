@@ -166,7 +166,6 @@ h1 {
   border-bottom: 1px solid var(--line);
   display: grid;
   justify-items: center;
-  gap: 7px;
   background: var(--paper);
   color: var(--ink);
   font: inherit;
@@ -242,16 +241,6 @@ h1 {
   .interactive-figure-stage:hover .nahida-cursor {
     display: block;
   }
-}
-
-.interactive-figure-caption {
-  text-decoration-line: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-}
-
-.interactive-figure:hover .interactive-figure-caption {
-  font-weight: 700;
 }
 
 .topic-dialog {
