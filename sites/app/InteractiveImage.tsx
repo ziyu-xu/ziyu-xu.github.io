@@ -6,14 +6,14 @@ const IMAGE_WIDTH = 1448;
 const IMAGE_HEIGHT = 1086;
 
 const histones = [
-  { chain: "A", name: "H3", direction: "down" },
-  { chain: "B", name: "H4", direction: "down" },
-  { chain: "C", name: "H2A", direction: "down" },
-  { chain: "D", name: "H2B", direction: "down" },
-  { chain: "E", name: "H3", direction: "up" },
-  { chain: "F", name: "H4", direction: "up" },
-  { chain: "G", name: "H2A", direction: "up" },
-  { chain: "H", name: "H2B", direction: "up" },
+  { chain: "A", name: "H3", labelX: 74, labelY: 57, color: "#347fbd" },
+  { chain: "B", name: "H4", labelX: 68, labelY: 72, color: "#438d58" },
+  { chain: "C", name: "H2A", labelX: 25, labelY: 55, color: "#b87816" },
+  { chain: "D", name: "H2B", labelX: 24, labelY: 71, color: "#b94f5b" },
+  { chain: "E", name: "H3", labelX: 34, labelY: 43, color: "#347fbd" },
+  { chain: "F", name: "H4", labelX: 34, labelY: 24, color: "#438d58" },
+  { chain: "G", name: "H2A", labelX: 76, labelY: 36, color: "#b87816" },
+  { chain: "H", name: "H2B", labelX: 56, labelY: 28, color: "#b94f5b" },
 ] as const;
 
 type Histone = (typeof histones)[number];
@@ -91,11 +91,7 @@ export default function InteractiveImage() {
     setSelectedHistone(histone);
   }
 
-  const caption = selectedHistone
-    ? `${selectedHistone.name} 组蛋白 · 链 ${selectedHistone.chain} 已抽出；点击空白处归位`
-    : hoveredHistone
-      ? `点击抽出 ${hoveredHistone.name} 组蛋白 · 链 ${hoveredHistone.chain}`
-      : "移动四叶印并点击组蛋白；点击空白处归位";
+  const caption = hoveredHistone ? "点击组蛋白显示颜色" : "移动四叶印，点击组蛋白显示颜色";
 
   return (
     <figure className="interactive-figure">
@@ -104,7 +100,7 @@ export default function InteractiveImage() {
         onPointerMove={handlePointerMove}
         onPointerLeave={() => setHoveredHistone(null)}
         onClick={handleClick}
-        aria-label="点击一条组蛋白，将它抽出并恢复彩色"
+        aria-label="点击一条组蛋白，在原位显示颜色与名称"
       >
         <img
           src="/interactive-nucleosome.png"
@@ -117,21 +113,26 @@ export default function InteractiveImage() {
           return (
             <span key={histone.chain}>
               <img
-                className={`histone-background-layer${isSelected ? " is-visible" : ""}`}
-                src={`/histone-overlays/chain-background-${histone.chain}.png`}
+                className={`histone-color-layer${isSelected ? " is-selected" : ""}`}
+                src={`/histone-overlays/chain-${histone.chain}.png`}
                 alt=""
                 aria-hidden="true"
                 width={IMAGE_WIDTH}
                 height={IMAGE_HEIGHT}
               />
-              <img
-                className={`histone-color-layer extract-${histone.direction}${isSelected ? " is-selected" : ""}`}
-                src={`/histone-overlays/chain-full-${histone.chain}.png`}
-                alt=""
-                aria-hidden="true"
-                width={IMAGE_WIDTH}
-                height={IMAGE_HEIGHT}
-              />
+              {isSelected ? (
+                <span
+                  className="histone-label"
+                  style={{
+                    left: `${histone.labelX}%`,
+                    top: `${histone.labelY}%`,
+                    color: histone.color,
+                  }}
+                  aria-hidden="true"
+                >
+                  {histone.name}
+                </span>
+              ) : null}
             </span>
           );
         })}
