@@ -1,26 +1,26 @@
 "use client";
 
-import { PointerEvent, useEffect, useRef, useState } from "react";
+import { MouseEvent, PointerEvent, useEffect, useRef, useState } from "react";
 
 const IMAGE_WIDTH = 1448;
 const IMAGE_HEIGHT = 1086;
 
 const histones = [
-  { chain: "A", name: "H3" },
-  { chain: "B", name: "H4" },
-  { chain: "C", name: "H2A" },
-  { chain: "D", name: "H2B" },
-  { chain: "E", name: "H3" },
-  { chain: "F", name: "H4" },
-  { chain: "G", name: "H2A" },
-  { chain: "H", name: "H2B" },
+  { chain: "A", name: "H3", direction: "down" },
+  { chain: "B", name: "H4", direction: "down" },
+  { chain: "C", name: "H2A", direction: "down" },
+  { chain: "D", name: "H2B", direction: "down" },
+  { chain: "E", name: "H3", direction: "up" },
+  { chain: "F", name: "H4", direction: "up" },
+  { chain: "G", name: "H2A", direction: "up" },
+  { chain: "H", name: "H2B", direction: "up" },
 ] as const;
 
 type Histone = (typeof histones)[number];
 
 export default function InteractiveImage() {
-  const [motionKey, setMotionKey] = useState(0);
-  const [activeHistone, setActiveHistone] = useState<Histone | null>(null);
+  const [hoveredHistone, setHoveredHistone] = useState<Histone | null>(null);
+  const [selectedHistone, setSelectedHistone] = useState<Histone | null>(null);
   const cursorRef = useRef<HTMLSpanElement>(null);
   const masksRef = useRef<Array<{ histone: Histone; context: CanvasRenderingContext2D }>>([]);
 
@@ -53,23 +53,15 @@ export default function InteractiveImage() {
     };
   }, []);
 
-  function handlePointerMove(event: PointerEvent<HTMLSpanElement>) {
-    const bounds = event.currentTarget.getBoundingClientRect();
-    const localX = event.clientX - bounds.left;
-    const localY = event.clientY - bounds.top;
-
-    if (cursorRef.current) {
-      cursorRef.current.style.transform = `translate3d(${localX}px, ${localY}px, 0) translate(-50%, -50%)`;
-    }
-
+  function histoneAtPosition(clientX: number, clientY: number, target: HTMLElement) {
+    const bounds = target.getBoundingClientRect();
+    const localX = clientX - bounds.left;
+    const localY = clientY - bounds.top;
     const normalizedX = localX / bounds.width;
     const normalizedY = localY / bounds.height;
 
-    // Nahida sits in front of the molecular model, so the histones behind her
-    // should not respond through her silhouette.
     if (normalizedX > 0.6 && normalizedX < 0.86 && normalizedY > 0.11 && normalizedY < 0.55) {
-      setActiveHistone(null);
-      return;
+      return null;
     }
 
     const pixelX = Math.max(0, Math.min(IMAGE_WIDTH - 1, Math.floor(normalizedX * IMAGE_WIDTH)));
@@ -81,59 +73,79 @@ export default function InteractiveImage() {
       if (alpha > (strongest?.alpha ?? 12)) strongest = { histone: mask.histone, alpha };
     }
 
-    setActiveHistone((current) =>
-      current?.chain === strongest?.histone.chain ? current : strongest?.histone ?? null,
-    );
+    return strongest?.histone ?? null;
   }
 
+  function handlePointerMove(event: PointerEvent<HTMLSpanElement>) {
+    const bounds = event.currentTarget.getBoundingClientRect();
+    if (cursorRef.current) {
+      cursorRef.current.style.transform = `translate3d(${event.clientX - bounds.left}px, ${event.clientY - bounds.top}px, 0) translate(-50%, -50%)`;
+    }
+
+    const histone = histoneAtPosition(event.clientX, event.clientY, event.currentTarget);
+    setHoveredHistone((current) => (current?.chain === histone?.chain ? current : histone));
+  }
+
+  function handleClick(event: MouseEvent<HTMLSpanElement>) {
+    const histone = histoneAtPosition(event.clientX, event.clientY, event.currentTarget);
+    setSelectedHistone(histone);
+  }
+
+  const caption = selectedHistone
+    ? `${selectedHistone.name} 组蛋白 · 链 ${selectedHistone.chain} 已抽出；点击空白处归位`
+    : hoveredHistone
+      ? `点击抽出 ${hoveredHistone.name} 组蛋白 · 链 ${hoveredHistone.chain}`
+      : "移动四叶印并点击组蛋白；点击空白处归位";
+
   return (
-    <button
-      type="button"
-      className="interactive-figure"
-      onClick={() => setMotionKey((current) => current + 1)}
-      aria-label="用四叶印查看彩色组蛋白，点击让核小体动一下"
-    >
+    <figure className="interactive-figure">
       <span
-        key={motionKey}
-        className={motionKey > 0 ? "interactive-figure-motion" : undefined}
+        className="interactive-figure-stage"
+        onPointerMove={handlePointerMove}
+        onPointerLeave={() => setHoveredHistone(null)}
+        onClick={handleClick}
+        aria-label="点击一条组蛋白，将它抽出并恢复彩色"
       >
-        <span
-          className="interactive-figure-stage"
-          onPointerMove={handlePointerMove}
-          onPointerLeave={() => setActiveHistone(null)}
-        >
-          <img
-            src="/interactive-nucleosome.png"
-            alt="彩色纳西妲坐在黑白核小体 DNA 上的插画"
-            width={IMAGE_WIDTH}
-            height={IMAGE_HEIGHT}
-          />
-          {activeHistone ? (
-            <img
-              className="histone-color-layer"
-              src={`/histone-overlays/chain-${activeHistone.chain}.png`}
-              alt=""
-              aria-hidden="true"
-              width={IMAGE_WIDTH}
-              height={IMAGE_HEIGHT}
-            />
-          ) : null}
-          <img
-            className="nahida-foreground-guard"
-            src="/interactive-nucleosome.png"
-            alt=""
-            aria-hidden="true"
-            width={IMAGE_WIDTH}
-            height={IMAGE_HEIGHT}
-          />
-          <span ref={cursorRef} className="nahida-cursor" aria-hidden="true" />
-        </span>
+        <img
+          src="/interactive-nucleosome.png"
+          alt="彩色纳西妲坐在黑白核小体 DNA 上的插画"
+          width={IMAGE_WIDTH}
+          height={IMAGE_HEIGHT}
+        />
+        {histones.map((histone) => {
+          const isSelected = selectedHistone?.chain === histone.chain;
+          return (
+            <span key={histone.chain}>
+              <img
+                className={`histone-background-layer${isSelected ? " is-visible" : ""}`}
+                src={`/histone-overlays/chain-background-${histone.chain}.png`}
+                alt=""
+                aria-hidden="true"
+                width={IMAGE_WIDTH}
+                height={IMAGE_HEIGHT}
+              />
+              <img
+                className={`histone-color-layer extract-${histone.direction}${isSelected ? " is-selected" : ""}`}
+                src={`/histone-overlays/chain-full-${histone.chain}.png`}
+                alt=""
+                aria-hidden="true"
+                width={IMAGE_WIDTH}
+                height={IMAGE_HEIGHT}
+              />
+            </span>
+          );
+        })}
+        <img
+          className="nahida-foreground-guard"
+          src="/interactive-nucleosome.png"
+          alt=""
+          aria-hidden="true"
+          width={IMAGE_WIDTH}
+          height={IMAGE_HEIGHT}
+        />
+        <span ref={cursorRef} className="nahida-cursor" aria-hidden="true" />
       </span>
-      <span className="interactive-figure-caption">
-        {activeHistone
-          ? `${activeHistone.name} 组蛋白 · 链 ${activeHistone.chain}`
-          : "移动四叶印查看组蛋白，点击图片让它动一下"}
-      </span>
-    </button>
+      <figcaption className="interactive-figure-caption">{caption}</figcaption>
+    </figure>
   );
 }
