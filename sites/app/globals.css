@@ -210,6 +210,11 @@ h1 {
   -webkit-user-drag: none;
 }
 
+.nucleosome-still-image,
+.nahida-still-guard {
+  display: none !important;
+}
+
 .histone-color-layer,
 .nahida-foreground-guard {
   position: absolute;
@@ -346,6 +351,19 @@ h1 {
   .topic-dialog,
   .interactive-figure-motion {
     animation: none;
+  }
+
+  .nucleosome-motion-image,
+  .nahida-motion-guard {
+    display: none !important;
+  }
+
+  .nucleosome-still-image {
+    display: block !important;
+  }
+
+  .nahida-still-guard {
+    display: block !important;
   }
 }
 

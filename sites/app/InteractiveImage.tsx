@@ -97,6 +97,14 @@ export default function InteractiveImage() {
         aria-label="点击一条组蛋白，在原位显示颜色与名称"
       >
         <img
+          className="nucleosome-motion-image"
+          src="/interactive-nucleosome-animated.webp"
+          alt="彩色纳西妲坐在黑白核小体 DNA 上，轻轻晃动头部和双腿的插画"
+          width={IMAGE_WIDTH}
+          height={IMAGE_HEIGHT}
+        />
+        <img
+          className="nucleosome-still-image"
           src="/interactive-nucleosome-3x.png"
           alt="彩色纳西妲坐在黑白核小体 DNA 上的插画"
           width={IMAGE_WIDTH}
@@ -131,7 +139,15 @@ export default function InteractiveImage() {
           );
         })}
         <img
-          className="nahida-foreground-guard"
+          className="nahida-foreground-guard nahida-motion-guard"
+          src="/interactive-nucleosome-animated.webp"
+          alt=""
+          aria-hidden="true"
+          width={IMAGE_WIDTH}
+          height={IMAGE_HEIGHT}
+        />
+        <img
+          className="nahida-foreground-guard nahida-still-guard"
           src="/interactive-nucleosome-3x.png"
           alt=""
           aria-hidden="true"
