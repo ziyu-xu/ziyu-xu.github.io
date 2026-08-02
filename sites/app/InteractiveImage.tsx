@@ -17,11 +17,14 @@ const histones = [
 ] as const;
 
 type Histone = (typeof histones)[number];
+type DnaSelection = { labelX: number; labelY: number };
 
 export default function InteractiveImage() {
   const [selectedHistone, setSelectedHistone] = useState<Histone | null>(null);
+  const [selectedDna, setSelectedDna] = useState<DnaSelection | null>(null);
   const cursorRef = useRef<HTMLSpanElement>(null);
   const masksRef = useRef<Array<{ histone: Histone; context: CanvasRenderingContext2D }>>([]);
+  const dnaMaskRef = useRef<CanvasRenderingContext2D | null>(null);
 
   useEffect(() => {
     let cancelled = false;
@@ -47,12 +50,24 @@ export default function InteractiveImage() {
       if (!cancelled) masksRef.current = masks;
     });
 
+    const dnaMask = new Image();
+    dnaMask.onload = () => {
+      const canvas = document.createElement("canvas");
+      canvas.width = IMAGE_WIDTH;
+      canvas.height = IMAGE_HEIGHT;
+      const context = canvas.getContext("2d", { willReadFrequently: true });
+      if (!context) return;
+      context.drawImage(dnaMask, 0, 0);
+      if (!cancelled) dnaMaskRef.current = context;
+    };
+    dnaMask.src = "/dna-hit-mask.png";
+
     return () => {
       cancelled = true;
     };
   }, []);
 
-  function histoneAtPosition(clientX: number, clientY: number, target: HTMLElement) {
+  function targetAtPosition(clientX: number, clientY: number, target: HTMLElement) {
     const bounds = target.getBoundingClientRect();
     const localX = clientX - bounds.left;
     const localY = clientY - bounds.top;
@@ -60,11 +75,20 @@ export default function InteractiveImage() {
     const normalizedY = localY / bounds.height;
 
     if (normalizedX > 0.6 && normalizedX < 0.86 && normalizedY > 0.11 && normalizedY < 0.55) {
-      return null;
+      return { kind: "blank" } as const;
     }
 
     const pixelX = Math.max(0, Math.min(IMAGE_WIDTH - 1, Math.floor(normalizedX * IMAGE_WIDTH)));
     const pixelY = Math.max(0, Math.min(IMAGE_HEIGHT - 1, Math.floor(normalizedY * IMAGE_HEIGHT)));
+
+    const dnaAlpha = dnaMaskRef.current?.getImageData(pixelX, pixelY, 1, 1).data[3] ?? 0;
+    if (dnaAlpha > 12) {
+      return {
+        kind: "dna",
+        labelX: Math.max(10, Math.min(90, normalizedX * 100 + 4)),
+        labelY: Math.max(10, Math.min(90, normalizedY * 100 - 4)),
+      } as const;
+    }
 
     let strongest: { histone: Histone; alpha: number } | null = null;
     for (const mask of masksRef.current) {
@@ -72,7 +96,9 @@ export default function InteractiveImage() {
       if (alpha > (strongest?.alpha ?? 12)) strongest = { histone: mask.histone, alpha };
     }
 
-    return strongest?.histone ?? null;
+    return strongest
+      ? ({ kind: "histone", histone: strongest.histone } as const)
+      : ({ kind: "blank" } as const);
   }
 
   function handlePointerMove(event: PointerEvent<HTMLSpanElement>) {
@@ -84,8 +110,15 @@ export default function InteractiveImage() {
   }
 
   function handleClick(event: MouseEvent<HTMLSpanElement>) {
-    const histone = histoneAtPosition(event.clientX, event.clientY, event.currentTarget);
-    setSelectedHistone(histone);
+    const target = targetAtPosition(event.clientX, event.clientY, event.currentTarget);
+    if (target.kind === "dna") {
+      setSelectedHistone(null);
+      setSelectedDna({ labelX: target.labelX, labelY: target.labelY });
+      return;
+    }
+
+    setSelectedDna(null);
+    setSelectedHistone(target.kind === "histone" ? target.histone : null);
   }
 
   return (
@@ -94,7 +127,7 @@ export default function InteractiveImage() {
         className="interactive-figure-stage"
         onPointerMove={handlePointerMove}
         onClick={handleClick}
-        aria-label="点击一条组蛋白，在原位显示颜色与名称"
+        aria-label="点击组蛋白或 DNA，在原位显示颜色与名称"
       >
         <img
           className="nucleosome-motion-image"
@@ -138,6 +171,23 @@ export default function InteractiveImage() {
             </span>
           );
         })}
+        <img
+          className={`dna-color-layer${selectedDna ? " is-selected" : ""}`}
+          src="/dna-overlay-white.png"
+          alt=""
+          aria-hidden="true"
+          width={IMAGE_WIDTH}
+          height={IMAGE_HEIGHT}
+        />
+        {selectedDna ? (
+          <span
+            className="dna-label"
+            style={{ left: `${selectedDna.labelX}%`, top: `${selectedDna.labelY}%` }}
+            aria-hidden="true"
+          >
+            核小体DNA
+          </span>
+        ) : null}
         <img
           className="nahida-foreground-guard nahida-motion-guard"
           src="/interactive-nucleosome-animated.webp"

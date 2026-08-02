@@ -216,6 +216,7 @@ h1 {
 }
 
 .histone-color-layer,
+.dna-color-layer,
 .nahida-foreground-guard {
   position: absolute;
   inset: 0;
@@ -232,7 +233,18 @@ h1 {
   opacity: 1;
 }
 
-.histone-label {
+.dna-color-layer {
+  z-index: 2;
+  opacity: 0;
+  transition: opacity 180ms ease;
+}
+
+.dna-color-layer.is-selected {
+  opacity: 1;
+}
+
+.histone-label,
+.dna-label {
   position: absolute;
   z-index: 4;
   padding: 0 3px;
@@ -242,6 +254,11 @@ h1 {
   line-height: 1.2;
   pointer-events: none;
   transform: translate(-50%, -50%);
+}
+
+.dna-label {
+  color: var(--ink);
+  background: rgb(255 255 255 / 88%);
 }
 
 .nahida-foreground-guard {
