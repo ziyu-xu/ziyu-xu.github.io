@@ -1172,7 +1172,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ffad63;
+    background: #12f6a6;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2767,52 +2767,4 @@ body {
 }
 .popup {
   opacity: 0.95;
-}
-.aplayer.aplayer-fixed {
-  right: 18px !important;
-  bottom: 18px !important;
-  left: auto !important;
-  z-index: 9999 !important;
-  font-family: Helvetica, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", sans-serif !important;
-}
-.aplayer.aplayer-fixed .aplayer-body,
-.aplayer.aplayer-fixed .aplayer-list {
-  border: 1px solid #000 !important;
-  border-radius: 0 !important;
-  background: #fff !important;
-  box-shadow: 4px 4px 0 rgba(0,0,0,0.22) !important;
-}
-.aplayer.aplayer-fixed .aplayer-info,
-.aplayer.aplayer-fixed .aplayer-list ol li {
-  color: #000 !important;
-  background: #fff !important;
-}
-.aplayer.aplayer-fixed .aplayer-list ol li:hover,
-.aplayer.aplayer-fixed .aplayer-list ol li.aplayer-list-light {
-  color: #fff !important;
-  background: #000 !important;
-}
-.aplayer.aplayer-fixed .aplayer-list ol li:hover .aplayer-list-author,
-.aplayer.aplayer-fixed .aplayer-list ol li.aplayer-list-light .aplayer-list-author {
-  color: #fff !important;
-}
-.aplayer.aplayer-fixed .aplayer-pic {
-  filter: grayscale(1) contrast(1.05);
-  border-radius: 0 !important;
-}
-.aplayer.aplayer-fixed .aplayer-icon {
-  color: #000 !important;
-}
-.aplayer.aplayer-fixed .aplayer-miniswitcher {
-  right: 0 !important;
-  left: auto !important;
-  border: 1px solid #000 !important;
-  border-radius: 0 !important;
-  background: #fff !important;
-}
-@media (max-width: 720px) {
-  .aplayer.aplayer-fixed {
-    right: 10px !important;
-    bottom: 10px !important;
-  }
 }
