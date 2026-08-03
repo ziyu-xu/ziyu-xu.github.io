@@ -1,0 +1,19 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<aside class="music-module" aria-label="QQ 音乐随机歌单">
+  <meting-js
+    server="{{ site.data.music.platform }}"
+    type="{{ site.data.music.type }}"
+    id="{{ site.data.music.playlistId }}"
+    fixed="true"
+    mini="true"
+    autoplay="{{ site.data.music.autoplay }}"
+    loop="all"
+    order="{{ site.data.music.order }}"
+    preload="metadata"
+    mutex="true"
+    list-folded="true">
+  </meting-js>
+  <noscript><a href="{{ site.data.music.shareUrl }}">在 QQ 音乐中打开歌单</a></noscript>
+</aside>
+<script defer src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>

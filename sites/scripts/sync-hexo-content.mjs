@@ -77,6 +77,10 @@ async function readHomeIntroduction() {
   return marked.parse(markdown, { gfm: true });
 }
 
+async function readMusicConfig() {
+  return JSON.parse(await readFile(path.join(sourceRoot, "_data", "music.json"), "utf8"));
+}
+
 async function readPublications() {
   const { body } = splitDocument(await readFile(path.join(sourceRoot, "about", "publications", "index.md"), "utf8"));
   const blocks = body.split(/\r?\n(?=\d+\.\s+\*\*)/).filter((block) => /^\d+\./.test(block.trim()));
@@ -98,6 +102,7 @@ const output = {
   publications: await readPublications(),
   posts,
   tags: [...new Set(posts.map((post) => post.tag))].sort(),
+  music: await readMusicConfig(),
 };
 
 const dataDir = path.join(siteRoot, "app", "data");

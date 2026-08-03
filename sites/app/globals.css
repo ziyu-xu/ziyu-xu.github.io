@@ -651,6 +651,73 @@ h1 {
   font-size: 16px;
 }
 
+.music-module-fallback {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  z-index: 9998;
+  padding: 6px 9px;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  box-shadow: 4px 4px 0 rgb(0 0 0 / 22%);
+}
+
+.music-module:not(.music-module-unavailable):has(.aplayer) .music-module-fallback {
+  display: none;
+}
+
+.aplayer.aplayer-fixed {
+  right: 18px !important;
+  bottom: 18px !important;
+  left: auto !important;
+  z-index: 9999 !important;
+  font-family: var(--font-main) !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-body,
+.aplayer.aplayer-fixed .aplayer-list {
+  border: 1px solid var(--ink) !important;
+  border-radius: 0 !important;
+  background: var(--paper) !important;
+  box-shadow: 4px 4px 0 rgb(0 0 0 / 22%) !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-info,
+.aplayer.aplayer-fixed .aplayer-list ol li {
+  color: var(--ink) !important;
+  background: var(--paper) !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-list ol li:hover,
+.aplayer.aplayer-fixed .aplayer-list ol li.aplayer-list-light {
+  color: var(--paper) !important;
+  background: var(--ink) !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-list ol li:hover .aplayer-list-author,
+.aplayer.aplayer-fixed .aplayer-list ol li.aplayer-list-light .aplayer-list-author {
+  color: var(--paper) !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-pic {
+  border-radius: 0 !important;
+  filter: grayscale(1) contrast(1.05);
+}
+
+.aplayer.aplayer-fixed .aplayer-icon {
+  color: var(--ink) !important;
+}
+
+.aplayer.aplayer-fixed .aplayer-miniswitcher {
+  right: 0 !important;
+  left: auto !important;
+  border: 1px solid var(--ink) !important;
+  border-radius: 0 !important;
+  background: var(--paper) !important;
+}
+
 @media (max-width: 720px) {
   .site-shell {
     width: min(100% - 32px, 960px);
@@ -738,5 +805,11 @@ h1 {
     flex-direction: column;
     justify-content: center;
     gap: 4px;
+  }
+
+  .music-module-fallback,
+  .aplayer.aplayer-fixed {
+    right: 10px !important;
+    bottom: 10px !important;
   }
 }
