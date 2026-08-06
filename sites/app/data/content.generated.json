@@ -79,6 +79,15 @@
   ],
   "posts": [
     {
+      "title": "薇尔琪塔CodeX宠物（GPT生成的）",
+      "date": "2026-08-06",
+      "tag": "Gadgets",
+      "slug": "Birgitta-Codex-Pet",
+      "excerpt": "伊涅芙的薇尔琪塔小机器人 Codex Pet，现在将它作为非商业同人资源分享出来。",
+      "html": "<p>伊涅芙的薇尔琪塔小机器人 Codex Pet，现在将它作为非商业同人资源分享出来。</p>\n<p>它是一只适用于 Codex 的 v2 动画宠物，包含待机、移动、挥手、跳跃、等待、工作和审阅等状态，以及 16 个视线方向。</p>\n<p>本来想做成更2D，像素风的，但是给了prompt做了一个半小时之后还是做成了这种3D风格，不过感觉也不差。</p>\n<h2 id=\"下载\">下载</h2>\n<p><a href=\"https://github.com/ziyu-xu/ziyu-xu.github.io/releases/download/birgitta-pet-v1.0.0/birgitta-codex-pet-v1.0.0.zip\">下载 Birgitta Codex Pet v1.0.0</a></p>\n<p>文件大小约 2.4 MB。SHA-256：</p>\n<pre><code class=\"language-text\">490382549c4f32ef2c3c6901f59a5a9c609ec00dc123faeed9e36924b5a41990\n</code></pre>\n<p>压缩包内包含：</p>\n<pre><code class=\"language-text\">birgitta/\n├── pet.json\n├── spritesheet.webp\n├── README.md\n└── THIRD_PARTY_NOTICES.md\n</code></pre>\n<h2 id=\"安装方法\">安装方法</h2>\n<h3 id=\"1-下载并解压\">1. 下载并解压</h3>\n<p>点击上方链接下载压缩包。解压后应得到一个名为 <code>birgitta</code> 的文件夹，请确认 <code>pet.json</code> 和 <code>spritesheet.webp</code> 位于该文件夹的第一层。</p>\n<h3 id=\"2-安装到-codex-pets-目录\">2. 安装到 Codex Pets 目录</h3>\n<p>在 macOS 的 Terminal 中运行：</p>\n<pre><code class=\"language-bash\">mkdir -p ~/.codex/pets\ncp -R ~/Downloads/birgitta ~/.codex/pets/\n</code></pre>\n<p>如果浏览器将文件解压到了其他位置，请将命令中的 <code>~/Downloads/birgitta</code> 换成实际路径。也可以在 Finder 中按下 <code>Command + Shift + G</code>，输入：</p>\n<pre><code class=\"language-text\">~/.codex/pets\n</code></pre>\n<p>然后手动将整个 <code>birgitta</code> 文件夹拖入该目录。</p>\n<p>正确安装后的结构应为：</p>\n<pre><code class=\"language-text\">~/.codex/pets/birgitta/pet.json\n~/.codex/pets/birgitta/spritesheet.webp\n</code></pre>\n<h3 id=\"3-启用\">3. 启用</h3>\n<p>完全退出并重新打开 Codex，然后在 Codex Pets 的宠物选择界面中选择 <strong>Birgitta</strong>。如果没有出现，请重新检查目录名称和文件层级，避免形成 <code>birgitta/birgitta/</code> 两层嵌套。</p>\n<h3 id=\"4-卸载\">4. 卸载</h3>\n<p>退出 Codex，然后删除下面的文件夹即可：</p>\n<pre><code class=\"language-text\">~/.codex/pets/birgitta\n</code></pre>\n<h2 id=\"使用范围与版权声明\">使用范围与版权声明</h2>\n<p>Birgitta Codex Pet 是基于《原神》已经公开的 Birgitta 机器人设计制作的非商业同人作品，与 HoYoverse、COGNOSPHERE、米哈游及 OpenAI 均无官方关联，也未获得上述主体的官方认可或赞助。</p>\n<p>本资源仅供个人、非商业用途。请勿销售、付费分发、用于商业宣传，或以任何方式暗示它是官方产品或官方合作内容。请勿将资源中的图像单独标注为 MIT、CC0 或其他会授予商业使用权及再许可权的开放许可证。相关权利方如提出移除要求，本资源可能停止分发。</p>\n<p>《原神》及 Birgitta 相关设计的知识产权归其相应权利人所有：</p>\n<blockquote>\n<p>© All rights reserved by COGNOSPHERE. Other properties belong to their respective owners.</p>\n</blockquote>\n<p>Codex、ChatGPT 和 OpenAI 的名称及相关标识归其相应权利人所有。本资源不包含《原神》游戏程序，不是针对《原神》的插件、模组或更新程序。</p>\n<p>下载、安装或继续使用本资源，即表示你理解以上说明。若你需要用于商业项目，请先自行取得相关权利人的书面许可。</p>\n<p>上述内容仅用于说明本资源的发布和使用范围，不构成法律意见，也不代表发布者可以替相关权利人授予许可。</p>\n<h2 id=\"内容协作声明\">内容协作声明</h2>\n<p>本文的结构、安装说明及部分文字由 <strong>ChatGPT</strong> 协助撰写，最终内容由 我审核和发布。宠物的创意选择、制作与发布决定由我完成。</p>\n<h2 id=\"问题反馈\">问题反馈</h2>\n<p>（其实我也完全不懂任何东西，所以问我不如问一问你的GPT吧）</p>\n",
+      "sourceUrl": "https://ziyu-xu.github.io/2026/08/06/Birgitta-Codex-Pet/"
+    },
+    {
       "title": "GI 6.7 幽境危战",
       "date": "2026-07-10",
       "tag": "Game",
@@ -433,6 +442,7 @@
   "tags": [
     "Articles",
     "Essay",
+    "Gadgets",
     "Game",
     "Illustrations",
     "Protocols",
