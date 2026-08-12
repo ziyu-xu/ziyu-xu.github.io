@@ -215,22 +215,12 @@ h1 {
   display: none !important;
 }
 
-.nucleosome-motion-image,
-.nucleosome-still-image {
-  visibility: hidden;
-}
-
-.nucleosome-base-canvas,
 .nahida-foreground-canvas {
   position: absolute;
   inset: 0;
   pointer-events: none;
   width: 100%;
   height: auto;
-}
-
-.nucleosome-base-canvas {
-  z-index: 0;
 }
 
 .histone-color-layer,
