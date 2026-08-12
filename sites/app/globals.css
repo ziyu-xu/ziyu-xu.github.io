@@ -286,7 +286,7 @@ h1 {
   transform: translate3d(var(--nahida-look-x), var(--nahida-look-y), 0)
     rotate(var(--nahida-look-angle));
   transform-origin: 70.5% 22.5%;
-  transition: transform 90ms ease-out;
+  transition: transform 100ms ease-out;
   will-change: transform;
 }
 
