@@ -211,15 +211,12 @@ h1 {
   -webkit-user-drag: none;
 }
 
-.nucleosome-still-image,
-.nahida-still-guard,
-.nahida-head-still {
+.nucleosome-still-image {
   display: none !important;
 }
 
 .histone-color-layer,
-.dna-color-layer,
-.nahida-foreground-guard {
+.dna-color-layer {
   position: absolute;
   inset: 0;
   pointer-events: none;
@@ -263,31 +260,13 @@ h1 {
   background: rgb(255 255 255 / 88%);
 }
 
-.nahida-foreground-guard {
+.nahida-foreground-canvas {
+  position: absolute;
+  inset: 0;
   z-index: 3;
-  clip-path: polygon(60% 10%, 81% 10%, 88% 25%, 86% 53%, 72% 57%, 59% 44%);
-}
-
-.nahida-head-window {
-  --nahida-look-x: 0px;
-  --nahida-look-y: 0px;
-  --nahida-look-angle: 0deg;
-  position: absolute;
-  inset: 0;
-  z-index: 4;
-  overflow: hidden;
-  clip-path: ellipse(10.5% 14% at 70.5% 22.5%);
   pointer-events: none;
-}
-
-.nahida-head-tracker {
-  position: absolute;
-  inset: 0;
-  transform: translate3d(var(--nahida-look-x), var(--nahida-look-y), 0)
-    rotate(var(--nahida-look-angle));
-  transform-origin: 70.5% 22.5%;
-  transition: transform 100ms ease-out;
-  will-change: transform;
+  width: 100%;
+  height: auto;
 }
 
 .nahida-cursor {
@@ -395,8 +374,7 @@ h1 {
   }
 
   .nucleosome-motion-image,
-  .nahida-motion-guard,
-  .nahida-head-motion {
+  .interactive-figure-motion {
     display: none !important;
   }
 
@@ -404,10 +382,6 @@ h1 {
     display: block !important;
   }
 
-  .nahida-still-guard,
-  .nahida-head-still {
-    display: block !important;
-  }
 }
 
 .summary-number {

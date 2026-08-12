@@ -23,7 +23,10 @@ export default function InteractiveImage() {
   const [selectedHistone, setSelectedHistone] = useState<Histone | null>(null);
   const [selectedDna, setSelectedDna] = useState<DnaSelection | null>(null);
   const cursorRef = useRef<HTMLSpanElement>(null);
-  const headRef = useRef<HTMLSpanElement>(null);
+  const motionImageRef = useRef<HTMLImageElement>(null);
+  const stillImageRef = useRef<HTMLImageElement>(null);
+  const foregroundCanvasRef = useRef<HTMLCanvasElement>(null);
+  const lookRef = useRef({ x: 0, y: 0, angle: 0 });
   const masksRef = useRef<Array<{ histone: Histone; context: CanvasRenderingContext2D }>>([]);
   const dnaMaskRef = useRef<CanvasRenderingContext2D | null>(null);
 
@@ -68,6 +71,58 @@ export default function InteractiveImage() {
     };
   }, []);
 
+  useEffect(() => {
+    const canvas = foregroundCanvasRef.current;
+    const context = canvas?.getContext("2d");
+    if (!canvas || !context) return;
+
+    const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    let animationFrame = 0;
+
+    const drawForeground = () => {
+      const image = reducedMotion.matches ? stillImageRef.current : motionImageRef.current;
+      context.clearRect(0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+
+      if (image?.complete && image.naturalWidth) {
+        context.save();
+        context.beginPath();
+        context.moveTo(IMAGE_WIDTH * 0.6, IMAGE_HEIGHT * 0.1);
+        context.lineTo(IMAGE_WIDTH * 0.81, IMAGE_HEIGHT * 0.1);
+        context.lineTo(IMAGE_WIDTH * 0.88, IMAGE_HEIGHT * 0.25);
+        context.lineTo(IMAGE_WIDTH * 0.86, IMAGE_HEIGHT * 0.53);
+        context.lineTo(IMAGE_WIDTH * 0.72, IMAGE_HEIGHT * 0.57);
+        context.lineTo(IMAGE_WIDTH * 0.59, IMAGE_HEIGHT * 0.44);
+        context.closePath();
+        context.clip();
+        context.drawImage(image, 0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+        context.restore();
+
+        const centerX = IMAGE_WIDTH * 0.695;
+        const centerY = IMAGE_HEIGHT * 0.245;
+        const look = lookRef.current;
+        context.save();
+        context.beginPath();
+        context.moveTo(IMAGE_WIDTH * 0.61, IMAGE_HEIGHT * 0.13);
+        context.lineTo(IMAGE_WIDTH * 0.77, IMAGE_HEIGHT * 0.11);
+        context.lineTo(IMAGE_WIDTH * 0.79, IMAGE_HEIGHT * 0.29);
+        context.lineTo(IMAGE_WIDTH * 0.72, IMAGE_HEIGHT * 0.36);
+        context.lineTo(IMAGE_WIDTH * 0.62, IMAGE_HEIGHT * 0.33);
+        context.closePath();
+        context.clip();
+        context.translate(centerX + look.x, centerY + look.y);
+        context.rotate(look.angle);
+        context.translate(-centerX, -centerY);
+        context.drawImage(image, 0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+        context.restore();
+      }
+
+      animationFrame = requestAnimationFrame(drawForeground);
+    };
+
+    drawForeground();
+    return () => cancelAnimationFrame(animationFrame);
+  }, []);
+
   function targetAtPosition(clientX: number, clientY: number, target: HTMLElement) {
     const bounds = target.getBoundingClientRect();
     const localX = clientX - bounds.left;
@@ -110,21 +165,15 @@ export default function InteractiveImage() {
       cursorRef.current.style.transform = `translate3d(${event.clientX - bounds.left}px, ${event.clientY - bounds.top}px, 0) translate(-50%, -50%)`;
     }
 
-    if (headRef.current) {
-      const lookX = Math.max(-4, Math.min(4, (normalizedX - 0.7) * 10));
-      const lookY = Math.max(-4, Math.min(4, (normalizedY - 0.22) * 10));
-      const angle = Math.max(-6, Math.min(6, (0.22 - normalizedY) * 13));
-      headRef.current.style.setProperty("--nahida-look-x", `${lookX}px`);
-      headRef.current.style.setProperty("--nahida-look-y", `${lookY}px`);
-      headRef.current.style.setProperty("--nahida-look-angle", `${angle}deg`);
-    }
+    lookRef.current = {
+      x: Math.max(-3, Math.min(3, (normalizedX - 0.7) * 7)),
+      y: Math.max(-3, Math.min(3, (normalizedY - 0.23) * 7)),
+      angle: Math.max(-2.2, Math.min(2.2, (0.23 - normalizedY) * 5)) * (Math.PI / 180),
+    };
   }
 
   function handlePointerLeave() {
-    if (!headRef.current) return;
-    headRef.current.style.setProperty("--nahida-look-x", "0px");
-    headRef.current.style.setProperty("--nahida-look-y", "0px");
-    headRef.current.style.setProperty("--nahida-look-angle", "0deg");
+    lookRef.current = { x: 0, y: 0, angle: 0 };
   }
 
   function handleClick(event: MouseEvent<HTMLSpanElement>) {
@@ -149,6 +198,7 @@ export default function InteractiveImage() {
         aria-label="点击组蛋白或 DNA，在原位显示颜色与名称"
       >
         <img
+          ref={motionImageRef}
           className="nucleosome-motion-image"
           src="/interactive-nucleosome-animated.webp"
           alt="彩色纳西妲坐在黑白核小体 DNA 上，轻轻晃动头部和双腿的插画"
@@ -156,6 +206,7 @@ export default function InteractiveImage() {
           height={IMAGE_HEIGHT}
         />
         <img
+          ref={stillImageRef}
           className="nucleosome-still-image"
           src="/interactive-nucleosome-3x.png"
           alt="彩色纳西妲坐在黑白核小体 DNA 上的插画"
@@ -207,38 +258,13 @@ export default function InteractiveImage() {
             核小体DNA
           </span>
         ) : null}
-        <img
-          className="nahida-foreground-guard nahida-motion-guard"
-          src="/interactive-nucleosome-animated.webp"
-          alt=""
-          aria-hidden="true"
+        <canvas
+          ref={foregroundCanvasRef}
+          className="nahida-foreground-canvas"
           width={IMAGE_WIDTH}
           height={IMAGE_HEIGHT}
-        />
-        <img
-          className="nahida-foreground-guard nahida-still-guard"
-          src="/interactive-nucleosome-3x.png"
-          alt=""
           aria-hidden="true"
-          width={IMAGE_WIDTH}
-          height={IMAGE_HEIGHT}
         />
-        <span ref={headRef} className="nahida-head-window" aria-hidden="true">
-          <img
-            className="nahida-head-tracker nahida-head-motion"
-            src="/interactive-nucleosome-animated.webp"
-            alt=""
-            width={IMAGE_WIDTH}
-            height={IMAGE_HEIGHT}
-          />
-          <img
-            className="nahida-head-tracker nahida-head-still"
-            src="/interactive-nucleosome-3x.png"
-            alt=""
-            width={IMAGE_WIDTH}
-            height={IMAGE_HEIGHT}
-          />
-        </span>
         <span ref={cursorRef} className="nahida-cursor" aria-hidden="true" />
       </span>
     </figure>
