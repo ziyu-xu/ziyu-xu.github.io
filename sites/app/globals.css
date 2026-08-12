@@ -212,7 +212,8 @@ h1 {
 }
 
 .nucleosome-still-image,
-.nahida-still-guard {
+.nahida-still-guard,
+.nahida-head-still {
   display: none !important;
 }
 
@@ -265,6 +266,28 @@ h1 {
 .nahida-foreground-guard {
   z-index: 3;
   clip-path: polygon(60% 10%, 81% 10%, 88% 25%, 86% 53%, 72% 57%, 59% 44%);
+}
+
+.nahida-head-window {
+  --nahida-look-x: 0px;
+  --nahida-look-y: 0px;
+  --nahida-look-angle: 0deg;
+  position: absolute;
+  inset: 0;
+  z-index: 4;
+  overflow: hidden;
+  clip-path: ellipse(10.5% 14% at 70.5% 22.5%);
+  pointer-events: none;
+}
+
+.nahida-head-tracker {
+  position: absolute;
+  inset: 0;
+  transform: translate3d(var(--nahida-look-x), var(--nahida-look-y), 0)
+    rotate(var(--nahida-look-angle));
+  transform-origin: 70.5% 22.5%;
+  transition: transform 90ms ease-out;
+  will-change: transform;
 }
 
 .nahida-cursor {
@@ -372,7 +395,8 @@ h1 {
   }
 
   .nucleosome-motion-image,
-  .nahida-motion-guard {
+  .nahida-motion-guard,
+  .nahida-head-motion {
     display: none !important;
   }
 
@@ -380,7 +404,8 @@ h1 {
     display: block !important;
   }
 
-  .nahida-still-guard {
+  .nahida-still-guard,
+  .nahida-head-still {
     display: block !important;
   }
 }

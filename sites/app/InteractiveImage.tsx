@@ -23,6 +23,7 @@ export default function InteractiveImage() {
   const [selectedHistone, setSelectedHistone] = useState<Histone | null>(null);
   const [selectedDna, setSelectedDna] = useState<DnaSelection | null>(null);
   const cursorRef = useRef<HTMLSpanElement>(null);
+  const headRef = useRef<HTMLSpanElement>(null);
   const masksRef = useRef<Array<{ histone: Histone; context: CanvasRenderingContext2D }>>([]);
   const dnaMaskRef = useRef<CanvasRenderingContext2D | null>(null);
 
@@ -103,10 +104,27 @@ export default function InteractiveImage() {
 
   function handlePointerMove(event: PointerEvent<HTMLSpanElement>) {
     const bounds = event.currentTarget.getBoundingClientRect();
+    const normalizedX = (event.clientX - bounds.left) / bounds.width;
+    const normalizedY = (event.clientY - bounds.top) / bounds.height;
     if (cursorRef.current) {
       cursorRef.current.style.transform = `translate3d(${event.clientX - bounds.left}px, ${event.clientY - bounds.top}px, 0) translate(-50%, -50%)`;
     }
 
+    if (headRef.current) {
+      const lookX = Math.max(-4, Math.min(4, (normalizedX - 0.7) * 10));
+      const lookY = Math.max(-4, Math.min(4, (normalizedY - 0.22) * 10));
+      const angle = Math.max(-6, Math.min(6, (0.22 - normalizedY) * 13));
+      headRef.current.style.setProperty("--nahida-look-x", `${lookX}px`);
+      headRef.current.style.setProperty("--nahida-look-y", `${lookY}px`);
+      headRef.current.style.setProperty("--nahida-look-angle", `${angle}deg`);
+    }
+  }
+
+  function handlePointerLeave() {
+    if (!headRef.current) return;
+    headRef.current.style.setProperty("--nahida-look-x", "0px");
+    headRef.current.style.setProperty("--nahida-look-y", "0px");
+    headRef.current.style.setProperty("--nahida-look-angle", "0deg");
   }
 
   function handleClick(event: MouseEvent<HTMLSpanElement>) {
@@ -126,6 +144,7 @@ export default function InteractiveImage() {
       <span
         className="interactive-figure-stage"
         onPointerMove={handlePointerMove}
+        onPointerLeave={handlePointerLeave}
         onClick={handleClick}
         aria-label="点击组蛋白或 DNA，在原位显示颜色与名称"
       >
@@ -204,6 +223,22 @@ export default function InteractiveImage() {
           width={IMAGE_WIDTH}
           height={IMAGE_HEIGHT}
         />
+        <span ref={headRef} className="nahida-head-window" aria-hidden="true">
+          <img
+            className="nahida-head-tracker nahida-head-motion"
+            src="/interactive-nucleosome-animated.webp"
+            alt=""
+            width={IMAGE_WIDTH}
+            height={IMAGE_HEIGHT}
+          />
+          <img
+            className="nahida-head-tracker nahida-head-still"
+            src="/interactive-nucleosome-3x.png"
+            alt=""
+            width={IMAGE_WIDTH}
+            height={IMAGE_HEIGHT}
+          />
+        </span>
         <span ref={cursorRef} className="nahida-cursor" aria-hidden="true" />
       </span>
     </figure>
