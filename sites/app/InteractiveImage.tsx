@@ -25,8 +25,9 @@ export default function InteractiveImage() {
   const cursorRef = useRef<HTMLSpanElement>(null);
   const motionImageRef = useRef<HTMLImageElement>(null);
   const stillImageRef = useRef<HTMLImageElement>(null);
+  const baseCanvasRef = useRef<HTMLCanvasElement>(null);
   const foregroundCanvasRef = useRef<HTMLCanvasElement>(null);
-  const lookRef = useRef({ x: 0, y: 0, angle: 0 });
+  const lookAngleRef = useRef(0);
   const masksRef = useRef<Array<{ histone: Histone; context: CanvasRenderingContext2D }>>([]);
   const dnaMaskRef = useRef<CanvasRenderingContext2D | null>(null);
 
@@ -72,48 +73,66 @@ export default function InteractiveImage() {
   }, []);
 
   useEffect(() => {
-    const canvas = foregroundCanvasRef.current;
-    const context = canvas?.getContext("2d");
-    if (!canvas || !context) return;
+    const baseCanvas = baseCanvasRef.current;
+    const foregroundCanvas = foregroundCanvasRef.current;
+    const baseContext = baseCanvas?.getContext("2d");
+    const foregroundContext = foregroundCanvas?.getContext("2d");
+    if (!baseCanvas || !foregroundCanvas || !baseContext || !foregroundContext) return;
 
     const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
     let animationFrame = 0;
 
+    const traceHead = (context: CanvasRenderingContext2D) => {
+      context.moveTo(IMAGE_WIDTH * 0.69, IMAGE_HEIGHT * 0.135);
+      context.lineTo(IMAGE_WIDTH * 0.755, IMAGE_HEIGHT * 0.13);
+      context.lineTo(IMAGE_WIDTH * 0.795, IMAGE_HEIGHT * 0.18);
+      context.lineTo(IMAGE_WIDTH * 0.79, IMAGE_HEIGHT * 0.285);
+      context.lineTo(IMAGE_WIDTH * 0.755, IMAGE_HEIGHT * 0.325);
+      context.lineTo(IMAGE_WIDTH * 0.715, IMAGE_HEIGHT * 0.305);
+      context.lineTo(IMAGE_WIDTH * 0.695, IMAGE_HEIGHT * 0.25);
+      context.closePath();
+    };
+
     const drawForeground = () => {
       const image = reducedMotion.matches ? stillImageRef.current : motionImageRef.current;
-      context.clearRect(0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+      baseContext.clearRect(0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+      foregroundContext.clearRect(0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
 
       if (image?.complete && image.naturalWidth) {
-        context.save();
-        context.beginPath();
-        context.moveTo(IMAGE_WIDTH * 0.6, IMAGE_HEIGHT * 0.1);
-        context.lineTo(IMAGE_WIDTH * 0.81, IMAGE_HEIGHT * 0.1);
-        context.lineTo(IMAGE_WIDTH * 0.88, IMAGE_HEIGHT * 0.25);
-        context.lineTo(IMAGE_WIDTH * 0.86, IMAGE_HEIGHT * 0.53);
-        context.lineTo(IMAGE_WIDTH * 0.72, IMAGE_HEIGHT * 0.57);
-        context.lineTo(IMAGE_WIDTH * 0.59, IMAGE_HEIGHT * 0.44);
-        context.closePath();
-        context.clip();
-        context.drawImage(image, 0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
-        context.restore();
+        baseContext.drawImage(image, 0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+        baseContext.save();
+        baseContext.globalCompositeOperation = "destination-out";
+        baseContext.beginPath();
+        traceHead(baseContext);
+        baseContext.clip();
+        baseContext.clearRect(0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+        baseContext.restore();
 
-        const centerX = IMAGE_WIDTH * 0.695;
-        const centerY = IMAGE_HEIGHT * 0.245;
-        const look = lookRef.current;
-        context.save();
-        context.beginPath();
-        context.moveTo(IMAGE_WIDTH * 0.61, IMAGE_HEIGHT * 0.13);
-        context.lineTo(IMAGE_WIDTH * 0.77, IMAGE_HEIGHT * 0.11);
-        context.lineTo(IMAGE_WIDTH * 0.79, IMAGE_HEIGHT * 0.29);
-        context.lineTo(IMAGE_WIDTH * 0.72, IMAGE_HEIGHT * 0.36);
-        context.lineTo(IMAGE_WIDTH * 0.62, IMAGE_HEIGHT * 0.33);
-        context.closePath();
-        context.clip();
-        context.translate(centerX + look.x, centerY + look.y);
-        context.rotate(look.angle);
-        context.translate(-centerX, -centerY);
-        context.drawImage(image, 0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
-        context.restore();
+        foregroundContext.save();
+        foregroundContext.beginPath();
+        foregroundContext.moveTo(IMAGE_WIDTH * 0.6, IMAGE_HEIGHT * 0.1);
+        foregroundContext.lineTo(IMAGE_WIDTH * 0.81, IMAGE_HEIGHT * 0.1);
+        foregroundContext.lineTo(IMAGE_WIDTH * 0.88, IMAGE_HEIGHT * 0.25);
+        foregroundContext.lineTo(IMAGE_WIDTH * 0.86, IMAGE_HEIGHT * 0.53);
+        foregroundContext.lineTo(IMAGE_WIDTH * 0.72, IMAGE_HEIGHT * 0.57);
+        foregroundContext.lineTo(IMAGE_WIDTH * 0.59, IMAGE_HEIGHT * 0.44);
+        foregroundContext.closePath();
+        traceHead(foregroundContext);
+        foregroundContext.clip("evenodd");
+        foregroundContext.drawImage(image, 0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+        foregroundContext.restore();
+
+        const neckX = IMAGE_WIDTH * 0.745;
+        const neckY = IMAGE_HEIGHT * 0.305;
+        foregroundContext.save();
+        foregroundContext.beginPath();
+        traceHead(foregroundContext);
+        foregroundContext.clip();
+        foregroundContext.translate(neckX, neckY);
+        foregroundContext.rotate(lookAngleRef.current);
+        foregroundContext.translate(-neckX, -neckY);
+        foregroundContext.drawImage(image, 0, 0, IMAGE_WIDTH, IMAGE_HEIGHT);
+        foregroundContext.restore();
       }
 
       animationFrame = requestAnimationFrame(drawForeground);
@@ -165,15 +184,12 @@ export default function InteractiveImage() {
       cursorRef.current.style.transform = `translate3d(${event.clientX - bounds.left}px, ${event.clientY - bounds.top}px, 0) translate(-50%, -50%)`;
     }
 
-    lookRef.current = {
-      x: Math.max(-3, Math.min(3, (normalizedX - 0.7) * 7)),
-      y: Math.max(-3, Math.min(3, (normalizedY - 0.23) * 7)),
-      angle: Math.max(-2.2, Math.min(2.2, (0.23 - normalizedY) * 5)) * (Math.PI / 180),
-    };
+    const angle = (normalizedY - 0.22) * 6 + (normalizedX - 0.73) * 2;
+    lookAngleRef.current = Math.max(-3, Math.min(3, angle)) * (Math.PI / 180);
   }
 
   function handlePointerLeave() {
-    lookRef.current = { x: 0, y: 0, angle: 0 };
+    lookAngleRef.current = 0;
   }
 
   function handleClick(event: MouseEvent<HTMLSpanElement>) {
@@ -204,6 +220,13 @@ export default function InteractiveImage() {
           alt="彩色纳西妲坐在黑白核小体 DNA 上，轻轻晃动头部和双腿的插画"
           width={IMAGE_WIDTH}
           height={IMAGE_HEIGHT}
+        />
+        <canvas
+          ref={baseCanvasRef}
+          className="nucleosome-base-canvas"
+          width={IMAGE_WIDTH}
+          height={IMAGE_HEIGHT}
+          aria-hidden="true"
         />
         <img
           ref={stillImageRef}
