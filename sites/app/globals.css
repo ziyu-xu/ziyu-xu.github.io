@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap");
 
 :root {
   --paper: #ffffff;
@@ -607,18 +608,87 @@ h1 {
 
 .post-content code,
 .post-content pre {
-  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-family: "IBM Plex Mono", "SFMono-Regular", Menlo, Consolas, "PingFang SC", monospace;
 }
 
-.post-content code {
-  background: var(--soft);
+.post-content :not(pre) > code {
+  padding: 1px 5px;
+  background: #f2f2f2;
+  border: 1px solid #888888;
+  color: #000000;
+  font-size: 0.94em;
 }
 
 .post-content pre {
-  padding: 14px;
-  border: 1px solid var(--line);
+  position: relative;
+  padding: 19px 0 12px;
+  background: #f6f6f6;
+  border: 1px solid #000000;
+  border-top-width: 3px;
+  color: #111111;
+  font-size: 15px;
+  line-height: 1.7;
   overflow-x: auto;
+  white-space: normal;
+}
+
+.post-content pre code {
+  display: block;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  color: inherit;
+  font: inherit;
+}
+
+.post-content pre::before {
+  position: absolute;
+  top: 7px;
+  right: 12px;
+  color: #555555;
+  content: attr(data-language);
+  font-family: "IBM Plex Mono", "SFMono-Regular", Menlo, monospace;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.post-content .code-line {
+  display: grid;
+  grid-template-columns: 44px minmax(max-content, 1fr);
+  min-width: max-content;
+}
+
+.post-content .code-line-number {
+  padding-right: 10px;
+  border-right: 1px solid #bdbdbd;
+  color: #777777;
+  text-align: right;
+  user-select: none;
+}
+
+.post-content .code-line-text {
+  padding: 0 48px 0 14px;
   white-space: pre;
+}
+
+@media (max-width: 560px) {
+  .post-content pre {
+    font-size: 14px;
+  }
+
+  .post-content .code-line {
+    grid-template-columns: 36px minmax(max-content, 1fr);
+  }
+
+  .post-content .code-line-number {
+    padding-right: 8px;
+  }
+
+  .post-content .code-line-text {
+    padding-left: 10px;
+  }
 }
 
 .post-content table {

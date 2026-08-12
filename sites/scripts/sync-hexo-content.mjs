@@ -43,6 +43,21 @@ function resolvePostAssets(markdown, baseUrl) {
     .replace(/(<img\b[^>]*\bsrc=["'])([^"']+)(["'])/gi, (_, opening, url, closing) => `${opening}${resolveUrl(url)}${closing}`);
 }
 
+function renderMarkdown(markdown) {
+  return marked.parse(markdown, { gfm: true }).replace(
+    /<pre><code(?: class="language-([^"]+)")?>([\s\S]*?)<\/code><\/pre>/g,
+    (_, rawLanguage = "code", rawCode) => {
+      const language = rawLanguage.replace(/[^a-z0-9_-]/gi, "") || "code";
+      const lines = rawCode.replace(/\n$/, "").split("\n");
+      const rows = lines.map((line, index) => (
+        `<span class="code-line"><span class="code-line-number" aria-hidden="true">${index + 1}</span>`
+        + `<span class="code-line-text">${line || "&#8203;"}</span></span>`
+      )).join("");
+      return `<pre data-language="${language}"><code class="language-${language}">${rows}</code></pre>`;
+    },
+  );
+}
+
 async function readPosts() {
   const postsDir = path.join(sourceRoot, "_posts");
   const files = (await readdir(postsDir)).filter((file) => file.endsWith(".md"));
@@ -60,7 +75,7 @@ async function readPosts() {
       tag: frontmatter.tags ?? "Notes",
       slug,
       excerpt: preview.slice(0, 160),
-      html: marked.parse(renderedBody, { gfm: true }),
+      html: renderMarkdown(renderedBody),
       sourceUrl,
     };
   }));
