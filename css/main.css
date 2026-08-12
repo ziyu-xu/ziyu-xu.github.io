@@ -1172,7 +1172,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #01ffff;
+    background: #ffffe5;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2767,4 +2767,136 @@ body {
 }
 .popup {
   opacity: 0.95;
+}
+.post-body code,
+.post-body pre,
+figure.highlight {
+  font-family: 'IBM Plex Mono', 'SFMono-Regular', Menlo, Consolas, 'PingFang SC', monospace;
+}
+.post-body > p code,
+.post-body li code,
+.post-body td code {
+  background: #f3f1ea;
+  border: 1px solid #b9b5aa;
+  border-radius: 0;
+  color: #171717;
+  font-size: 0.94em;
+  padding: 1px 5px;
+}
+figure.highlight {
+  background: #f3f1ea !important;
+  border: 1px solid #171717;
+  border-radius: 0;
+  border-top-width: 3px;
+  box-shadow: none;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 0 auto 20px;
+  padding-top: 7px;
+  position: relative;
+}
+figure.highlight::before {
+  color: #77746d;
+  content: 'code';
+  font-family: 'IBM Plex Mono', 'SFMono-Regular', Menlo, Consolas, 'PingFang SC', monospace;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  position: absolute;
+  right: 12px;
+  text-transform: uppercase;
+  top: 7px;
+  z-index: 2;
+}
+figure.highlight.text::before {
+  content: 'text';
+}
+figure.highlight.bash::before,
+figure.highlight.shell::before {
+  content: 'bash';
+}
+figure.highlight.javascript::before,
+figure.highlight.js::before {
+  content: 'javascript';
+}
+figure.highlight.typescript::before,
+figure.highlight.ts::before {
+  content: 'typescript';
+}
+figure.highlight.python::before,
+figure.highlight.py::before {
+  content: 'python';
+}
+figure.highlight.json::before {
+  content: 'json';
+}
+figure.highlight.yaml::before,
+figure.highlight.yml::before {
+  content: 'yaml';
+}
+figure.highlight.css::before {
+  content: 'css';
+}
+figure.highlight.html::before,
+figure.highlight.xml::before {
+  content: 'html';
+}
+figure.highlight table,
+figure.highlight pre,
+figure.highlight td,
+figure.highlight .code,
+figure.highlight .gutter {
+  background: transparent !important;
+}
+figure.highlight pre {
+  color: #171717 !important;
+  font-size: 15px;
+  line-height: 1.7;
+  padding-bottom: 12px;
+  padding-top: 12px;
+}
+figure.highlight .gutter {
+  border-right: 1px solid #cbc7bd;
+}
+figure.highlight .gutter pre {
+  color: #8a877f !important;
+}
+figure.highlight .code pre {
+  padding-left: 14px;
+  padding-right: 48px;
+}
+figure.highlight .keyword,
+figure.highlight .selector-tag,
+figure.highlight .meta-keyword {
+  color: #76445d !important;
+  font-weight: 600;
+}
+figure.highlight .title,
+figure.highlight .function,
+figure.highlight .built_in,
+figure.highlight .name,
+figure.highlight .attribute {
+  color: #355f73 !important;
+}
+figure.highlight .string,
+figure.highlight .attr,
+figure.highlight .template-variable,
+figure.highlight .variable {
+  color: #3f6b56 !important;
+}
+figure.highlight .number,
+figure.highlight .literal,
+figure.highlight .symbol,
+figure.highlight .bullet {
+  color: #8a5a2b !important;
+}
+figure.highlight .comment,
+figure.highlight .quote,
+figure.highlight .meta {
+  color: #77746d !important;
+}
+@media (max-width: 567px) {
+  figure.highlight,
+  figure.highlight pre {
+    font-size: 14px;
+  }
 }
