@@ -80,16 +80,16 @@ export default function InteractiveImage() {
     let animationFrame = 0;
 
     const traceHead = (context: CanvasRenderingContext2D) => {
-      context.moveTo(1010, 160);
-      context.lineTo(1080, 145);
-      context.lineTo(1142, 165);
-      context.lineTo(1170, 225);
-      context.lineTo(1165, 305);
-      context.lineTo(1135, 365);
-      context.lineTo(1095, 382);
-      context.lineTo(1050, 345);
-      context.lineTo(1005, 318);
-      context.lineTo(985, 260);
+      context.moveTo(965, 145);
+      context.lineTo(1080, 125);
+      context.lineTo(1160, 150);
+      context.lineTo(1195, 215);
+      context.lineTo(1190, 315);
+      context.lineTo(1155, 385);
+      context.lineTo(1090, 410);
+      context.lineTo(1020, 380);
+      context.lineTo(970, 335);
+      context.lineTo(945, 255);
       context.closePath();
     };
 
@@ -124,7 +124,7 @@ export default function InteractiveImage() {
         foregroundContext.restore();
 
         const neckX = 1080;
-        const neckY = 337;
+        const neckY = 365;
         foregroundContext.save();
         foregroundContext.beginPath();
         traceHead(foregroundContext);
@@ -192,8 +192,8 @@ export default function InteractiveImage() {
       cursorRef.current.style.transform = `translate3d(${event.clientX - bounds.left}px, ${event.clientY - bounds.top}px, 0) translate(-50%, -50%)`;
     }
 
-    const angle = (normalizedY - 0.22) * 6 + (normalizedX - 0.73) * 2;
-    lookAngleRef.current = Math.max(-3, Math.min(3, angle)) * (Math.PI / 180);
+    const angle = (normalizedY - 0.22) * 2.5 + (normalizedX - 0.73) * 0.8;
+    lookAngleRef.current = Math.max(-1.2, Math.min(1.2, angle)) * (Math.PI / 180);
   }
 
   function handlePointerLeave() {
