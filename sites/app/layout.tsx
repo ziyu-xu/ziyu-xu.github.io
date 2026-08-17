@@ -3,6 +3,7 @@ import { headers } from "next/headers";
 import Link from "next/link";
 import content from "./data/content.generated.json";
 import MusicPlayer from "./MusicPlayer";
+import VisitTracker from "./VisitTracker";
 import "./globals.css";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -53,6 +54,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             <span>内容与 Hexo 共用同一份 Markdown</span>
           </footer>
         </div>
+        <VisitTracker />
         <MusicPlayer config={content.music} />
       </body>
     </html>
