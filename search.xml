@@ -179,29 +179,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2025-08-23</title>
-    <url>/2025/08/25/Article-Summary-25-8-23/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>NASP modulates histone turnover to drive PARP inhibitor resistance</strong></p>
-<figure>
-    <img src="/2025/08/25/Article-Summary-25-8-23/image-20250825162357563.png" alt="NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells" width="60%">
-    <figcaption> NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; PARP inhibitor, genetics, drug resistance</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Homologous recombination-deficient cancer is a prevalent disease including breast cancer and ovarian cancer. To treat such cancers, PARP inhibitors are developed and approved to clinical trial. However, PARP inhibitors exhibit drug resistance. To explore the origin of PARPi drug resistance mass efforts had been made, mainly towards downstream pathways of PARP inhibition such as the function rescue of homologous recombination. However, whether PARPi affects PARP substrate: chromatin, and whether it is relevant to drug resistance is yet unknown.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work illustrated that PARPi induces the dissociation of H3&#x2F;H4 from cell chromatin. Next, they found INO80 complex-NASP could protect the dissociated H3&#x2F;H4 from being degraded by proteosome, thus maintaining genome integrity to generate drug resistance. </p>
-<p>In this article, traditional genetic methods, including gene knockdown, combined with gene knockout-FACS screening approaches were used to discover gene involved in PARPi-mediated H3&#x2F;H4 dissociation.</p>
-<p>However, the article does not mention the process of H3&#x2F;H4 recycling in chromatin mediated by NASP and PARP1. Further investigations need to be performed.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09414-z</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 2026-01-24</title>
     <url>/2026/01/30/Article-Summary-26-01-24/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Antibody-lectin chimeras for glyco-immune checkpoint blockade</strong></p>
@@ -221,6 +198,29 @@
 <p>Next, they expanded the range of AbLec to different cancer cell antigens and different lectin receptor, demonstrating its universality across most cancers. Also, fusing lectin receptor with another checkpoint blockage antibody, such as PD-1 and CD47, showed effect in cells.</p>
 <p>In summay, the AbLec strategy provided a path to block glycan immunologic checkpoint and established a wide platform to expand the use of AbLex chimera.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41587-025-02884-6</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2025-08-23</title>
+    <url>/2025/08/25/Article-Summary-25-8-23/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>NASP modulates histone turnover to drive PARP inhibitor resistance</strong></p>
+<figure>
+    <img src="/2025/08/25/Article-Summary-25-8-23/image-20250825162357563.png" alt="NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells" width="60%">
+    <figcaption> NASP and PARP1-involving histone H3/H4 cycle in PARPi resistant cells </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; PARP inhibitor, genetics, drug resistance</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Homologous recombination-deficient cancer is a prevalent disease including breast cancer and ovarian cancer. To treat such cancers, PARP inhibitors are developed and approved to clinical trial. However, PARP inhibitors exhibit drug resistance. To explore the origin of PARPi drug resistance mass efforts had been made, mainly towards downstream pathways of PARP inhibition such as the function rescue of homologous recombination. However, whether PARPi affects PARP substrate: chromatin, and whether it is relevant to drug resistance is yet unknown.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Here, this work illustrated that PARPi induces the dissociation of H3&#x2F;H4 from cell chromatin. Next, they found INO80 complex-NASP could protect the dissociated H3&#x2F;H4 from being degraded by proteosome, thus maintaining genome integrity to generate drug resistance. </p>
+<p>In this article, traditional genetic methods, including gene knockdown, combined with gene knockout-FACS screening approaches were used to discover gene involved in PARPi-mediated H3&#x2F;H4 dissociation.</p>
+<p>However, the article does not mention the process of H3&#x2F;H4 recycling in chromatin mediated by NASP and PARP1. Further investigations need to be performed.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09414-z</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -326,28 +326,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2024-09-14</title>
-    <url>/2024/09/15/Article-Summary-9-14-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
-<figure>
-    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
-    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
-<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 2025-07-05</title>
     <url>/2025/07/08/Article-Summary-7-5-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Isoform-specific function of NSD3 in DNA replication stress confers resistance to PARP inhibitors in prostate cancer</strong></p>
@@ -372,22 +350,22 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2025-04-26</title>
-    <url>/2025/05/08/Article-summary-04-26-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
+    <title>Article Summary 2024-09-14</title>
+    <url>/2024/09/15/Article-Summary-9-14-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Cancer-associated DNA hypermethylation of Polycomb targets requires DNMT3A dual recognition of histone H2AK119 ubiquitination and the nucleosome acidic patch</strong></p>
 <figure>
-    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
-    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
+    <img src="/2024/09/15/Article-Summary-9-14-24/image-20240915174519376.png" alt="Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP" width="80%">
+    <figcaption>Cryo-EM structure of DNMT3A1 UDR domain with H2A119Ub NCP</figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p><em><strong>Science Advances</strong></em></p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>DNA methylation; Ubiquitinated nucleosome complex; Genetics</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
-<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>DNA methylation is vital epigenetic mark, dysregulation of DNA methylation causes disease. De novo chromatin DNA methylation is mediated by DNMT3A. An isoform DNMT3A1, mainly locates on heterochromatin. DNMT3A1 utilizes its PTM reader domains, such as UDR to H2AK119Ub, to correctly target specific chromatin foci, but in diseases such as neurocrine cancers, pathogenic DNMT3A1 mutation results in redistribution of DNMT3A1 on chromatin, making it enriched in polycomb promoters, in which H2AK119Ub is abundant. However, the mechanism of DNMT3A1 redistribution on chromatin polycomb promoter remain elusive.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Determine the cryo-EM structure of DNMT3A1 UDR domain bound to H2AK119Ub NCP (seemingly like SSX1-H2A119Ub structure). Based on the structure, a vital mutant that eliminates DNMT3A1-H2AK119Ub NCP was discovered. Using this mutant, it is found that the DNMT3A1-H2AK119Ub NCP interaction regulates the hypermethylation on redistributed DNMT3A1-enriched chromatin polycomb promoter.</p>
+<p>Supplemented the structure with much sequencing data, such as RRBS to detect methylation landscape, as well as RNA-seq to probe transcripts change followed by DNMT3A1 mutation. As well, cancer model mice were adapted to illustrate the importance of UDR-NCP interaction in cancer progression.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1126&#x2F;sciadv.adp0975</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -410,6 +388,28 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
 <p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2025-04-26</title>
+    <url>/2025/05/08/Article-summary-04-26-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
+<figure>
+    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
+    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
+<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -705,6 +705,67 @@
       </tags>
   </entry>
   <entry>
+    <title>GI 6.1 幽境危战</title>
+    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
+<span id="more"></span>
+
+<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
+<p><strong>@ 息灾</strong> R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
+<h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
+<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
+<p><strong>%</strong> 充能227</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
+<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
+<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5 </p>
+<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
+<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
+<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
+<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
+<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
+<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
+<p>**@静水流涌之辉 ** R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
+<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
+<p><strong>@ 西福斯的月光</strong> R3</p>
+<p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通877 生命25291 充能148</p>
+<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
+<p><strong>@ 和璞鸢</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
+<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
+<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 有乐</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
+<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
+<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
+<p><strong>%</strong> 生命27983 充能291</p>
+<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
+<p><strong>%</strong> 生命40301 充能157</p>
+<p>破两次盾之内应该可以打完，需要凹一下</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GI 5.8 幽境危战</title>
     <url>/2025/08/06/GI-5-8-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
@@ -830,67 +891,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 6.1 幽境危战</title>
-    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
-<span id="more"></span>
-
-<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 西风猎弓</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
-<p><strong>@ 息灾</strong> R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
-<h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
-<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
-<p><strong>%</strong> 充能227</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
-<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
-<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 天光的纺琴</strong> R5 </p>
-<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
-<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
-<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
-<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
-<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
-<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
-<p>**@静水流涌之辉 ** R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
-<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
-<p><strong>@ 西福斯的月光</strong> R3</p>
-<p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通877 生命25291 充能148</p>
-<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
-<p><strong>@ 和璞鸢</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
-<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
-<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 有乐</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
-<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
-<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
-<p><strong>@ 天空之刃</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 生命27983 充能291</p>
-<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
-<p><strong>%</strong> 生命40301 充能157</p>
-<p>破两次盾之内应该可以打完，需要凹一下</p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GI 6.2 幽境危战</title>
     <url>/2025/12/15/GI-6-2-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>暝视龙难度高，跳楼机难度较高，深罪浸礼者最简单。</p>
@@ -948,70 +948,6 @@
 <p><strong>&amp; 烬城勇者4</strong>  攻击  攻击  攻击</p>
 <p><strong>%</strong> 充能175  暴击40 攻击2669</p>
 <p>牛牛打下落这一块儿</p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI 6.3 幽境危战</title>
-    <url>/2026/02/01/GI-6-3-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>第一间黑龙极难，基本只有绽放能打</p>
-<p>第二间月感电，有人机就好说</p>
-<p>第三间龙王轻松打，但我无龙王，用丝柯克也能较为轻松打过去</p>
-<span id="more"></span>
-
-<h2 id="深黯魇语之主-80s"><a href="#深黯魇语之主-80s" class="headerlink" title="深黯魇语之主 80s"></a>深黯魇语之主 80s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 天光的纺琴</strong> R5</p>
-<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通956 充能248 双暴31&#x2F;100 攻击1111</p>
-<h3 id="奈芙尔-赋光"><a href="#奈芙尔-赋光" class="headerlink" title="奈芙尔 (赋光)"></a>奈芙尔 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
-<p><strong>@ 霜辰</strong> R1</p>
-<p><strong>&amp; 穹境示现之夜4</strong>   精通  精通  暴伤</p>
-<p><strong>%</strong> 精通681 双暴50&#x2F;268 攻击1285</p>
-<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv88_C2_1-9-7</strong></p>
-<p><strong>@ 试作金珀</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>   充能  生命  暴击</p>
-<p><strong>%</strong> 生命39230 精通80 双暴79&#x2F;128 充能182</p>
-<h3 id="纳西妲"><a href="#纳西妲" class="headerlink" title="纳西妲"></a>纳西妲</h3><p><strong>Lv90_C0_7-10-10</strong></p>
-<p><strong>@ 祭礼残章</strong> R5</p>
-<p><strong>&amp; 深林的记忆4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通1049 双暴29&#x2F;96 充能148 攻击1144</p>
-<p>直接打大的，伤害会高</p>
-<h2 id="火刀哥-103s"><a href="#火刀哥-103s" class="headerlink" title="火刀哥 103s"></a>火刀哥 103s</h2><h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv90_C0_10-8-9</strong></p>
-<p><strong>@ 流浪乐章</strong> R5</p>
-<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 充能117 双暴98&#x2F;193 攻击1914</p>
-<h3 id="伊涅芙-赋光"><a href="#伊涅芙-赋光" class="headerlink" title="伊涅芙(赋光)"></a>伊涅芙(赋光)</h3><p><strong>Lv85_C0_1-9-6</strong></p>
-<p><strong>@ 峡湾长歌</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 精通141 双暴82&#x2F;179 攻击2174</p>
-<h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C3_1-2-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
-<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  暴击</p>
-<p><strong>%</strong> 精通407 双暴64&#x2F;102 充能194</p>
-<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
-<p><strong>@ 西风秘典</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 充能239 暴击45 攻击2314</p>
-<p>正常打，火刀比6.0的并无额外提升</p>
-<h2 id="火螃蟹-93s"><a href="#火螃蟹-93s" class="headerlink" title="火螃蟹 93s"></a>火螃蟹 93s</h2><h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv90_C4_1-1-12</strong></p>
-<p><strong>@ 讨龙英杰谭</strong> R5</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
-<p><strong>%</strong>  充能219</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
-<p><strong>%</strong> 攻击1945 双暴71&#x2F;159 充能204</p>
-<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@西风剑</strong> R5 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 生命27227 充能237 双暴91&#x2F;146</p>
-<h3 id="丝柯克"><a href="#丝柯克" class="headerlink" title="丝柯克"></a>丝柯克</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
-<p><strong>%</strong> 攻击2222 双暴78&#x2F;247</p>
-<p>卡好空窗期，丝老师偷大后开E砍能砍接近一半</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -1141,6 +1077,70 @@
       </tags>
   </entry>
   <entry>
+    <title>GI 6.3 幽境危战</title>
+    <url>/2026/02/01/GI-6-3-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>第一间黑龙极难，基本只有绽放能打</p>
+<p>第二间月感电，有人机就好说</p>
+<p>第三间龙王轻松打，但我无龙王，用丝柯克也能较为轻松打过去</p>
+<span id="more"></span>
+
+<h2 id="深黯魇语之主-80s"><a href="#深黯魇语之主-80s" class="headerlink" title="深黯魇语之主 80s"></a>深黯魇语之主 80s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5</p>
+<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通956 充能248 双暴31&#x2F;100 攻击1111</p>
+<h3 id="奈芙尔-赋光"><a href="#奈芙尔-赋光" class="headerlink" title="奈芙尔 (赋光)"></a>奈芙尔 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 霜辰</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>   精通  精通  暴伤</p>
+<p><strong>%</strong> 精通681 双暴50&#x2F;268 攻击1285</p>
+<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv88_C2_1-9-7</strong></p>
+<p><strong>@ 试作金珀</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>   充能  生命  暴击</p>
+<p><strong>%</strong> 生命39230 精通80 双暴79&#x2F;128 充能182</p>
+<h3 id="纳西妲"><a href="#纳西妲" class="headerlink" title="纳西妲"></a>纳西妲</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 祭礼残章</strong> R5</p>
+<p><strong>&amp; 深林的记忆4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通1049 双暴29&#x2F;96 充能148 攻击1144</p>
+<p>直接打大的，伤害会高</p>
+<h2 id="火刀哥-103s"><a href="#火刀哥-103s" class="headerlink" title="火刀哥 103s"></a>火刀哥 103s</h2><h3 id="瓦雷莎"><a href="#瓦雷莎" class="headerlink" title="瓦雷莎"></a>瓦雷莎</h3><p><strong>Lv90_C0_10-8-9</strong></p>
+<p><strong>@ 流浪乐章</strong> R5</p>
+<p><strong>&amp; 长夜之誓4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 充能117 双暴98&#x2F;193 攻击1914</p>
+<h3 id="伊涅芙-赋光"><a href="#伊涅芙-赋光" class="headerlink" title="伊涅芙(赋光)"></a>伊涅芙(赋光)</h3><p><strong>Lv85_C0_1-9-6</strong></p>
+<p><strong>@ 峡湾长歌</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 精通141 双暴82&#x2F;179 攻击2174</p>
+<h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C3_1-2-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
+<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  暴击</p>
+<p><strong>%</strong> 精通407 双暴64&#x2F;102 充能194</p>
+<h3 id="闲云"><a href="#闲云" class="headerlink" title="闲云"></a>闲云</h3><p><strong>Lv90_C0_1-6-9</strong></p>
+<p><strong>@ 西风秘典</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 充能239 暴击45 攻击2314</p>
+<p>正常打，火刀比6.0的并无额外提升</p>
+<h2 id="火螃蟹-93s"><a href="#火螃蟹-93s" class="headerlink" title="火螃蟹 93s"></a>火螃蟹 93s</h2><h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv90_C4_1-1-12</strong></p>
+<p><strong>@ 讨龙英杰谭</strong> R5</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
+<p><strong>%</strong>  充能219</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 攻击1945 双暴71&#x2F;159 充能204</p>
+<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@西风剑</strong> R5 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命27227 充能237 双暴91&#x2F;146</p>
+<h3 id="丝柯克"><a href="#丝柯克" class="headerlink" title="丝柯克"></a>丝柯克</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 攻击2222 双暴78&#x2F;247</p>
+<p>卡好空窗期，丝老师偷大后开E砍能砍接近一半</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GI 6.6 幽境危战</title>
     <url>/2026/06/09/GI-6-6-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>北风狼缺少风c和全套火神队打的很艰难，另外两间不困难</p>
@@ -1197,6 +1197,68 @@
 <p><strong>&amp; 纺月的夜歌4</strong>  充能  精通  暴击</p>
 <p><strong>%</strong> 充能217.1 双暴61.8&#x2F;95.1 精通407</p>
 <p>好像圣遗物带重了，有点尴尬<br>带个教官应该还能再提升一下</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 7.0 幽境危战</title>
+    <url>/2026/08/26/GI-7-0-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体难度比较简单，甚至没有用上超导队伍，其他怪用对应的体系就能打。</p>
+<span id="more"></span>
+
+<h2 id="嵌合翼骏狮-62s"><a href="#嵌合翼骏狮-62s" class="headerlink" title="嵌合翼骏狮 62s"></a>嵌合翼骏狮 62s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 西风剑</strong> R5</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 充能247.4 生命34360 双暴82.1&#x2F;142.5</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv90_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 充能204.4 双暴71.2&#x2F;159.6 攻击1958</p>
+<h3 id="甘雨"><a href="#甘雨" class="headerlink" title="甘雨"></a>甘雨</h3><p><strong>Lv83_C1_8-3-8</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 充能238.3 双暴55.9&#x2F;135.8</p>
+<h3 id="丝柯克-赋光-剧诗"><a href="#丝柯克-赋光-剧诗" class="headerlink" title="丝柯克 (赋光+剧诗)"></a>丝柯克 (赋光+剧诗)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 双暴81.5&#x2F;233 攻击2378</p>
+<p>芙E-爱E-甘雨EQ-丝长EQ，之后爱Q甘E丝长E，爱E芙QE甘Q，破盾后丝QE输出，第一轮能打到大概60-70%。之后芙E爱E，丝长E，芙Q爱Q甘Q后丝QE输出，流程大概在60-70秒之间</p>
+<h2 id="风役人-90s"><a href="#风役人-90s" class="headerlink" title="风役人 90s"></a>风役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺 (赋光)"></a>阿蕾奇诺 (赋光)</h3><p><strong>Lv90_C0_9-9-7</strong></p>
+<p><strong>@ 和璞鸢</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
+<p><strong>%</strong> 双暴87.3&#x2F;179.3 攻击2407 精通21 充能119.4</p>
+<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R2</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗加成</p>
+<p><strong>%</strong> 充能282.8 攻击1296</p>
+<h3 id="枫原万叶"><a href="#枫原万叶" class="headerlink" title="枫原万叶"></a>枫原万叶</h3><p><strong>Lv90_C0_6-6-6</strong></p>
+<p><strong>@ 西福斯的月光</strong> R3</p>
+<p><strong>&amp; 翠绿之影4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通945 充能204.8</p>
+<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv90_C0_1-9-8</strong></p>
+<p><strong>@ 祭星者之望</strong> R1</p>
+<p><strong>&amp; 烬城勇者绘卷4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通1098 充能138.2</p>
+<p>学习了一下仆人3A闪和4A闪，总结：不会</p>
+<h2 id="重拳出击鸭-70s"><a href="#重拳出击鸭-70s" class="headerlink" title="重拳出击鸭 70s"></a>重拳出击鸭 70s</h2><h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
+<p><strong>@ 遗祀玉珑</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  生命  生命  暴伤</p>
+<p><strong>%</strong> 双暴82.7&#x2F;201.6 生命38054 充能140.1 精通120</p>
+<h3 id="伊涅芙-赋光"><a href="#伊涅芙-赋光" class="headerlink" title="伊涅芙 (赋光)"></a>伊涅芙 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 峡湾长歌</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 双暴84&#x2F;185.3 攻击2237 精通159</p>
+<h3 id="莉奈娅"><a href="#莉奈娅" class="headerlink" title="莉奈娅"></a>莉奈娅</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 纺月的夜歌4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴72&#x2F;194.9 防御2262 精通56 充能186.1</p>
+<h3 id="兹白"><a href="#兹白" class="headerlink" title="兹白"></a>兹白</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 岩峰巡歌</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴60.2&#x2F;200.3 防御3382 精通113</p>
+<p>力大砖飞。</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -1265,6 +1327,31 @@
       </tags>
   </entry>
   <entry>
+    <title>GI screenshot 6/14/25</title>
+    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
+    <content><![CDATA[<p>GI screenshots taken in PS5</p>
+<span id="more"></span>
+
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.jpg" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.jpg" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.jpg" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.jpg" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.jpg" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.jpg" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.jpg" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.jpg" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.jpg" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.jpg" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.jpg" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.jpg" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.jpg" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
+<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.jpg" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
+]]></content>
+      <tags>
+        <tag>Illustrations</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GI screenshot 8/21/24</title>
     <url>/2024/08/22/GI-screenshot-8-21-24/</url>
     <content><![CDATA[<p>4 GI screenshots taken in last year.</p>
@@ -1315,31 +1402,6 @@
 ]]></content>
       <tags>
         <tag>Tutorials</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI screenshot 6/14/25</title>
-    <url>/2025/06/14/GI-screenshot-6-14-25/</url>
-    <content><![CDATA[<p>GI screenshots taken in PS5</p>
-<span id="more"></span>
-
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003001_png_.jpg" alt="Mountain top in Liyue"><figcaption aria-hidden="true">Mountain top in Liyue</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250309230558_png_.jpg" alt="Fontaine research institute, stagnating in the rubble"><figcaption aria-hidden="true">Fontaine research institute, stagnating in the rubble</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250530003206_png_.jpg" alt="Gazing at Liyue, Sumeru and Fontaine"><figcaption aria-hidden="true">Gazing at Liyue, Sumeru and Fontaine</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20250110012513_png_.jpg" alt="Natlan cruising"><figcaption aria-hidden="true">Natlan cruising</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241224003721_png_.jpg" alt="In Ochkanatlan"><figcaption aria-hidden="true">In Ochkanatlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241206002531_png_.jpg" alt="Furina in Natlan"><figcaption aria-hidden="true">Furina in Natlan</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241126004611_png_.jpg" alt="Striking Furina"><figcaption aria-hidden="true">Striking Furina</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101011042_png_.jpg" alt="Magician"><figcaption aria-hidden="true">Magician</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241101005708_png_.jpg" alt="My Excadrill and me"><figcaption aria-hidden="true">My Excadrill and me</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015159_png_.jpg" alt="Chevoreuse!"><figcaption aria-hidden="true">Chevoreuse!</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004015001_png_.jpg" alt="Where the dream started"><figcaption aria-hidden="true">Where the dream started</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004014457_png_.jpg" alt="Looking at my top hat"><figcaption aria-hidden="true">Looking at my top hat</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004013721_png_.jpg" alt="Experiments"><figcaption aria-hidden="true">Experiments</figcaption></figure></p>
-<p><figure><img src="/2025/06/14/GI-screenshot-6-14-25/20241004011848_png_.jpg" alt="Back"><figcaption aria-hidden="true">Back</figcaption></figure></p>
-]]></content>
-      <tags>
-        <tag>Illustrations</tag>
       </tags>
   </entry>
   <entry>
