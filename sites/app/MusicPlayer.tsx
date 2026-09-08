@@ -31,13 +31,45 @@ type QQPlayer = {
 declare global {
   interface Window {
     QMPlayer?: new () => QQPlayer;
+    __qqMusicProxyInstalled?: boolean;
   }
 }
 
 const QQ_PLAYER_SCRIPT = "https://y.qq.com/component/m/qmplayer/qmplayer.full.js?max_age=604800";
 
+function installQQMusicProxy() {
+  if (window.__qqMusicProxyInstalled) return;
+  const originalOpen = window.XMLHttpRequest.prototype.open;
+
+  window.XMLHttpRequest.prototype.open = function (
+    method: string,
+    url: string | URL,
+    async = true,
+    username?: string | null,
+    password?: string | null,
+  ) {
+    let target = String(url);
+    try {
+      const parsed = new URL(target, window.location.href);
+      if (parsed.hostname === "u6.y.qq.com" && parsed.pathname.endsWith("/cgi-bin/musics.fcg")) {
+        target = `/api/music/proxy${parsed.search}`;
+      }
+    } catch {
+      // Keep the original URL when it cannot be parsed.
+    }
+
+    if (username !== undefined) {
+      return originalOpen.call(this, method, target, async, username, password);
+    }
+    return originalOpen.call(this, method, target, async);
+  } as typeof originalOpen;
+
+  window.__qqMusicProxyInstalled = true;
+}
+
 function loadQQPlayer() {
   return new Promise<void>((resolve, reject) => {
+    installQQMusicProxy();
     if (window.QMPlayer) {
       resolve();
       return;
