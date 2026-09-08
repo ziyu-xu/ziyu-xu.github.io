@@ -767,12 +767,12 @@ h1 {
   .analytics-grid { grid-template-columns: 1fr; }
 }
 
-.music-module-fallback {
+.music-module {
   position: fixed;
   right: 18px;
   bottom: 18px;
-  z-index: 9998;
-  padding: 6px 9px;
+  z-index: 9999;
+  width: min(360px, calc(100vw - 36px));
   border: 1px solid var(--ink);
   background: var(--paper);
   color: var(--ink);
@@ -780,58 +780,114 @@ h1 {
   box-shadow: 4px 4px 0 rgb(0 0 0 / 22%);
 }
 
-.music-module:not(.music-module-unavailable):has(.aplayer) .music-module-fallback {
-  display: none;
+.music-player-main {
+  display: grid;
+  grid-template-columns: 52px minmax(0, 1fr) 42px;
+  min-height: 52px;
 }
 
-.aplayer.aplayer-fixed {
-  right: 18px !important;
-  bottom: 18px !important;
-  left: auto !important;
-  z-index: 9999 !important;
-  font-family: var(--font-main) !important;
+.music-player-main button,
+.music-playlist button {
+  appearance: none;
+  border: 0;
+  border-radius: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  cursor: pointer;
 }
 
-.aplayer.aplayer-fixed .aplayer-body,
-.aplayer.aplayer-fixed .aplayer-list {
-  border: 1px solid var(--ink) !important;
-  border-radius: 0 !important;
-  background: var(--paper) !important;
-  box-shadow: 4px 4px 0 rgb(0 0 0 / 22%) !important;
+.music-player-main button:disabled {
+  cursor: wait;
 }
 
-.aplayer.aplayer-fixed .aplayer-info,
-.aplayer.aplayer-fixed .aplayer-list ol li {
-  color: var(--ink) !important;
-  background: var(--paper) !important;
+.music-cover-button {
+  position: relative;
+  padding: 0;
+  border-right: 1px solid var(--ink) !important;
+  overflow: hidden;
 }
 
-.aplayer.aplayer-fixed .aplayer-list ol li:hover,
-.aplayer.aplayer-fixed .aplayer-list ol li.aplayer-list-light {
-  color: var(--paper) !important;
-  background: var(--ink) !important;
+.music-cover-button img {
+  display: block;
+  width: 52px;
+  height: 52px;
+  object-fit: cover;
+  filter: grayscale(1);
 }
 
-.aplayer.aplayer-fixed .aplayer-list ol li:hover .aplayer-list-author,
-.aplayer.aplayer-fixed .aplayer-list ol li.aplayer-list-light .aplayer-list-author {
-  color: var(--paper) !important;
+.music-cover-button span {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  background: rgb(255 255 255 / 58%);
+  font-weight: 700;
 }
 
-.aplayer.aplayer-fixed .aplayer-pic {
-  border-radius: 0 !important;
-  filter: grayscale(1) contrast(1.05);
+.music-track-info {
+  min-width: 0;
+  padding: 7px 10px;
+  display: grid;
+  align-content: center;
+  gap: 2px;
+  text-align: left;
 }
 
-.aplayer.aplayer-fixed .aplayer-icon {
-  color: var(--ink) !important;
+.music-track-info strong,
+.music-track-info small {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
-.aplayer.aplayer-fixed .aplayer-miniswitcher {
-  right: 0 !important;
-  left: auto !important;
-  border: 1px solid var(--ink) !important;
-  border-radius: 0 !important;
-  background: var(--paper) !important;
+.music-track-info small,
+.music-playlist small {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.music-next {
+  border-left: 1px solid var(--ink) !important;
+  font-size: 20px !important;
+}
+
+.music-playlist {
+  max-height: 248px;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  border-top: 1px solid var(--ink);
+  list-style: none;
+}
+
+.music-playlist button {
+  width: 100%;
+  padding: 8px 10px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  text-align: left;
+}
+
+.music-playlist button:hover,
+.music-playlist button.is-current {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.music-playlist button:hover small,
+.music-playlist button.is-current small {
+  color: var(--paper);
+}
+
+.music-source-link {
+  padding: 8px 10px;
+  border-top: 1px solid var(--line);
+}
+
+.music-source-link a {
+  color: inherit;
 }
 
 @media (max-width: 720px) {
@@ -923,9 +979,9 @@ h1 {
     gap: 4px;
   }
 
-  .music-module-fallback,
-  .aplayer.aplayer-fixed {
-    right: 10px !important;
-    bottom: 10px !important;
+  .music-module {
+    right: 10px;
+    bottom: 10px;
+    width: min(360px, calc(100vw - 20px));
   }
 }
