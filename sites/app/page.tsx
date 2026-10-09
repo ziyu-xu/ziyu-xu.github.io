@@ -1,7 +1,6 @@
 import Link from "next/link";
 import content from "./data/content.generated.json";
 import HeroTopics from "./HeroTopics";
-import InteractiveImage from "./InteractiveImage";
 
 function AuthorLine({ authors }: { authors: string }) {
   const parts = authors.split("Ziyu Xu");
@@ -40,10 +39,9 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="nucleosome-feature">
-        <InteractiveImage />
+      <section className="introduction-feature">
         <div
-          className="nucleosome-copy"
+          className="introduction-copy"
           dangerouslySetInnerHTML={{ __html: content.homeIntroductionHtml }}
         />
       </section>
