@@ -51,34 +51,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2025-06-21</title>
-    <url>/2025/06/27/Article-Summary-06-21-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
-<figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
-    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
-<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
-<figure>
-    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
-    <figcaption> BRAF working model </figcaption>
-</figure>
-
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
-<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 2025-09-21</title>
     <url>/2025/09/21/Article-Summary-25-09-21/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Diffusing protein binders to intrinsically disordered proteins</strong></p>
@@ -179,31 +151,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2026-01-24</title>
-    <url>/2026/01/30/Article-Summary-26-01-24/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Antibody-lectin chimeras for glyco-immune checkpoint blockade</strong></p>
-<figure>
-    <img src="/2026/01/30/Article-Summary-26-01-24/image-20260130141103101.png" alt="Mechanism of antibody-lectin chimeras for glyco-immune checkpoint blockade" width="60%">
-    <figcaption> Antibody-lectin chimeras for glyco-immune checkpoint blockade </figcaption>
-</figure>
-
-
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Biotechnology </p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Glycan; Checkpoint blockade therapy; Engineered antibody</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Checkpoint blockade therapy has been used to treat nearly 50% cancer patients in US, but suffered from low response (20% patient) and drug resistance. New checkpoint blockade strategy is needed. Glycans is an attractive target for checkpoint blockade. On cancer cell surface, glycans such as sialic acid regulate immune cell functions, helping immune escape of cancer cell. Targeting those glycans is a checkpoint blockade therapy. Currently, lectin (protein binding glycans) binders towards glycans have low affinity with cancer cells, limiting their application on this therapy. A glycan checkpoint-targeted therapy is urgently needed.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Carolyn Bertozzi et al. developed AbLec, in which cancer cell-related antibody (such as HER2), was fused with lectin to form a chimera. They demonstrated AbLec could enhance immune function in cells and inhibit cancer cell growth in mice. AbLec exerts its function through eliminating the Siglec Ab (the intrinsic lectin receptor) enrichment in immune synapse, thus block the immune escape.</p>
-<p>Next, they expanded the range of AbLec to different cancer cell antigens and different lectin receptor, demonstrating its universality across most cancers. Also, fusing lectin receptor with another checkpoint blockage antibody, such as PD-1 and CD47, showed effect in cells.</p>
-<p>In summay, the AbLec strategy provided a path to block glycan immunologic checkpoint and established a wide platform to expand the use of AbLex chimera.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41587-025-02884-6</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Article Summary 2025-08-23</title>
     <url>/2025/08/25/Article-Summary-25-8-23/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>NASP modulates histone turnover to drive PARP inhibitor resistance</strong></p>
@@ -221,30 +168,6 @@
 <p>In this article, traditional genetic methods, including gene knockdown, combined with gene knockout-FACS screening approaches were used to discover gene involved in PARPi-mediated H3&#x2F;H4 dissociation.</p>
 <p>However, the article does not mention the process of H3&#x2F;H4 recycling in chromatin mediated by NASP and PARP1. Further investigations need to be performed.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41586-025-09414-z</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 2026-03-07</title>
-    <url>/2026/03/07/Article-Summary-26-03-07/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>High-throughput ligand diversification to discover chemical inducers of proximity</strong></p>
-<figure>
-    <img src="/2026/03/07/Article-Summary-26-03-07/image-20260307213750442.png" alt="High-throughput ligand diversification to discover chemical inducers of proximity" width="60%">
-    <figcaption> Ligand diversification to discover CIPs </figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Molecular glue; SuFEX; drug screening</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Chemical inducers of proximity (CIPs), such as proteolysis-targeting chimeras (PROTACs) and molecular glues, represent a powerful class of small molecules capable of rewiring cellular biochemistry by stabilizing proximity between target proteins. While rational design strategies have accelerated the discovery of heterobifunctional CIPs like PROTACs, the identification of molecular glues has historically relied on serendipity, lacking systematic discovery approaches. Molecular glues often share structural similarities with protein binders, raising the hypothesis that systematic diversification of existing ligands could yield novel glue-type CIPs.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study addresses the key scientific question: Can high-throughput ligand diversification serve as a systematic strategy to discover new molecular glue CIPs? The authors employed sulfur(VI) fluoride exchange (SuFEx)-based high-throughput chemistry (HTC) to install 3,163 structurally diverse building blocks onto known ligands for two targets: ENL (eleven-nineteen leukemia), a transcriptional regulator implicated in leukemia, and BRD4 (bromodomain-containing protein 4). Screening this library for degrader activity led to the discovery of dHTC1, an ENL degrader that functions as a molecular glue by recruiting the CRL4CRBN E3 ligase complex. Furthermore, for BRD4, they identified dHTC3, a molecular glue that selectively dimerizes BRD4 bromodomain 1 with the previously inaccessible E3 ligase FBXO3.</p>
-<p>This work establishes HTC as a facile and potentially generalizable tool for the systematic discovery of novel CIPs and new effectors for proximity pharmacology, moving beyond reliance on chance findings towards a more prospective exploration of chemical space.</p>
-<p>While this study demonstrates the potential of high-throughput ligand diversification as a systematic strategy for discovering novel chemical inducers of proximity (CIPs), it also highlights several limitations. First, the approach is fundamentally a screening method rather than a rational design strategy, which may limit its predictive power and efficiency. Second, the generalizability of this high-throughput chemical (HTC) strategy across different target classes remains to be validated, as its success here with ENL and BRD4 does not guarantee broad applicability. Finally, despite the identification of a promising degrader (dHTC1) for the important leukemia target ENL, the study lacks validation in animal disease models, which is crucial for assessing the therapeutic potential and translational value of the discovered compounds.</p>
-<p>(Generated by DS v3.2.)</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-02137-2  </p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -281,6 +204,30 @@
       </tags>
   </entry>
   <entry>
+    <title>Article Summary 2026-03-07</title>
+    <url>/2026/03/07/Article-Summary-26-03-07/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>High-throughput ligand diversification to discover chemical inducers of proximity</strong></p>
+<figure>
+    <img src="/2026/03/07/Article-Summary-26-03-07/image-20260307213750442.png" alt="High-throughput ligand diversification to discover chemical inducers of proximity" width="60%">
+    <figcaption> Ligand diversification to discover CIPs </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Molecular glue; SuFEX; drug screening</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Chemical inducers of proximity (CIPs), such as proteolysis-targeting chimeras (PROTACs) and molecular glues, represent a powerful class of small molecules capable of rewiring cellular biochemistry by stabilizing proximity between target proteins. While rational design strategies have accelerated the discovery of heterobifunctional CIPs like PROTACs, the identification of molecular glues has historically relied on serendipity, lacking systematic discovery approaches. Molecular glues often share structural similarities with protein binders, raising the hypothesis that systematic diversification of existing ligands could yield novel glue-type CIPs.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>This study addresses the key scientific question: Can high-throughput ligand diversification serve as a systematic strategy to discover new molecular glue CIPs? The authors employed sulfur(VI) fluoride exchange (SuFEx)-based high-throughput chemistry (HTC) to install 3,163 structurally diverse building blocks onto known ligands for two targets: ENL (eleven-nineteen leukemia), a transcriptional regulator implicated in leukemia, and BRD4 (bromodomain-containing protein 4). Screening this library for degrader activity led to the discovery of dHTC1, an ENL degrader that functions as a molecular glue by recruiting the CRL4CRBN E3 ligase complex. Furthermore, for BRD4, they identified dHTC3, a molecular glue that selectively dimerizes BRD4 bromodomain 1 with the previously inaccessible E3 ligase FBXO3.</p>
+<p>This work establishes HTC as a facile and potentially generalizable tool for the systematic discovery of novel CIPs and new effectors for proximity pharmacology, moving beyond reliance on chance findings towards a more prospective exploration of chemical space.</p>
+<p>While this study demonstrates the potential of high-throughput ligand diversification as a systematic strategy for discovering novel chemical inducers of proximity (CIPs), it also highlights several limitations. First, the approach is fundamentally a screening method rather than a rational design strategy, which may limit its predictive power and efficiency. Second, the generalizability of this high-throughput chemical (HTC) strategy across different target classes remains to be validated, as its success here with ENL and BRD4 does not guarantee broad applicability. Finally, despite the identification of a promising degrader (dHTC1) for the important leukemia target ENL, the study lacks validation in animal disease models, which is crucial for assessing the therapeutic potential and translational value of the discovered compounds.</p>
+<p>(Generated by DS v3.2.)</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-02137-2  </p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Article Summary 2025-05-24</title>
     <url>/2025/05/26/Article-Summary-5-24-25/</url>
     <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>TOM20-driven E3 ligase recruitment regulates mitochondrial dynamics through PLD6</strong></p>
@@ -303,23 +250,28 @@
       </tags>
   </entry>
   <entry>
-    <title>Article Summary 2025-07-19</title>
-    <url>/2025/07/27/Article-Summary-7-19-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation</strong></p>
+    <title>Article Summary 2025-06-21</title>
+    <url>/2025/06/27/Article-Summary-06-21-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>BRAF oncogenic mutants evade autoinhibition through a common mechanism</strong></p>
 <figure>
-    <img src="/2025/07/27/Article-Summary-7-19-25/image-20250727160503105.png" alt="Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates" width="60%">
-    <figcaption> Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates </figcaption>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627200419555.png" alt="BRAF oncogenic mutants evade autoinhibition through a common mechanism" width="60%">
+    <figcaption> BRAF oncogenic mutants use common mechanism to evade BRAF autoinhibition </figcaption>
 </figure>
 
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; ADPr-ubiquitination; Mass spectrometry; PTMs proteomics</p>
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Science</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>BRAF kinase; RAS-ERK pathway; Structural biology; Oncogenic mutation</p>
 <span id="more"></span>
 
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Crosstalks between post-translational modifications have been widely explored. Notably, for ADP-ribosylation involved in DNA repair and ubiquitination pivoted in protein degradation and signal transduction, complex interplays are established such as Ub42R ADP-ribosylation (found in bacteria Legionella) and ADP-ribose ubiquitination. ADP-ribose ubiquitination is introduced by DELTEX E3 ligase <em>in vitro</em> but no evidence of this composite modification is found in cell. It is attributed to the lack of mass spectrometry methodologies to probe the ADPr-Ub modification in high sensitivity.</p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article first demonstrated the inability of current sample procedure to detect ADPr-Ub modification. Then they established a strategy to probe cellular ADPr-Ub sites. By using ZUD domain of RNF114, which could bind ADP-Ub modification, they optimized the mass spectrometry sample preparation procedure and detect ADPr-Ub sites.</p>
-<p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
-<p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>BRAF kinase, which is involved in RAS-ERK signaling pathway, is closely related to cancers. Oncogenic mutations of BRAF, such as BRAF V600E, which is widely implied in cancers, lead to uncontrolled activation of BRAF kinase activity, thus promoting tumor generation. </p>
+<p>BRAF activity regulation involves auto-inhibited monomer state in complex with 2 copies of 14-3-3 protein and activated dimer state in complex with RAS. Structure of these states have been reported. However, how BRAF oncogenic mutations affect the regulation of BRAF activation remains elusive.</p>
+<figure>
+    <img src="/2025/06/27/Article-Summary-06-21-25/image-20250627202830495.png" alt="BRAF working model" width="60%">
+    <figcaption> BRAF working model </figcaption>
+</figure>
+
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The cryo-EM structure of the most abundant BRAF oncogenic mutation, V600E in complex with 14-3-3 was resolved. Different from wildtype BRAF, the CRD domain in V600E mutant is invisible under observation, lacking CRD-KD intramolecular interaction in wildtype BRAF, indicating a CRD-out conformation for V600E. Next, biochemical characterization is performed to verify the CRD-KD interaction and its impact on downstream RAS-ERK pathway, which is indexed by anti-pERK immunoblot. </p>
+<p>Therefore, they seek to reverse the CRD-out conformation through BRAF-targeted inhibitors. PLX8394, the paradox breaker inhibitor of BRAF, is selected to determine its complex with BRAF and 14-3-3. With presence of PLX8394, BRAF retained CTD-in conformation, revealing that PLX8394  and such inhibitors regulates BRAF through controlling its CRD-in and CRD-out conformation. To confirm the universality of CRD-in&#x2F;out regulation mechanism, cryo-EM structures of BRAF Class II&#x2F;III (BRAF V600E: Class I) bound to 14-3-3 were resolved. Both Class II and Class III mutants showed CRD-out conformation, implying common feature of CRD-out conformation in BRAF mutants.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/science.adp2742">https://doi.org/10.1126/science.adp2742</a></p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -344,6 +296,54 @@
 <p>Next, to explore the mechanism by which NSD3S used to escape PARPi, they revealed NSD3S is phosphorylated and recruited to DNA replication fork and stabilizing the fork. Binding of NSD3S to replication fork requires PT1P, which generates a competition between NSD3S and nuclease MRE11 (which also requires PT1P to bind replication fork), thus preventing sufficient digestion of replication fork by MRE11.</p>
 <p>Finally, they systematically evaluated the relationship between NSD3S level in cell and PARPi resistance. They also searched the NSD3S-PARPi resistance relationship in ovarian cancer patients. They claimed NSD3S is competitive for playing as a PARPi resistance biomarker.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1016&#x2F;j.molcel.2025.06.004</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2026-01-24</title>
+    <url>/2026/01/30/Article-Summary-26-01-24/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Antibody-lectin chimeras for glyco-immune checkpoint blockade</strong></p>
+<figure>
+    <img src="/2026/01/30/Article-Summary-26-01-24/image-20260130141103101.png" alt="Mechanism of antibody-lectin chimeras for glyco-immune checkpoint blockade" width="60%">
+    <figcaption> Antibody-lectin chimeras for glyco-immune checkpoint blockade </figcaption>
+</figure>
+
+
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Biotechnology </p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Glycan; Checkpoint blockade therapy; Engineered antibody</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Checkpoint blockade therapy has been used to treat nearly 50% cancer patients in US, but suffered from low response (20% patient) and drug resistance. New checkpoint blockade strategy is needed. Glycans is an attractive target for checkpoint blockade. On cancer cell surface, glycans such as sialic acid regulate immune cell functions, helping immune escape of cancer cell. Targeting those glycans is a checkpoint blockade therapy. Currently, lectin (protein binding glycans) binders towards glycans have low affinity with cancer cells, limiting their application on this therapy. A glycan checkpoint-targeted therapy is urgently needed.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Carolyn Bertozzi et al. developed AbLec, in which cancer cell-related antibody (such as HER2), was fused with lectin to form a chimera. They demonstrated AbLec could enhance immune function in cells and inhibit cancer cell growth in mice. AbLec exerts its function through eliminating the Siglec Ab (the intrinsic lectin receptor) enrichment in immune synapse, thus block the immune escape.</p>
+<p>Next, they expanded the range of AbLec to different cancer cell antigens and different lectin receptor, demonstrating its universality across most cancers. Also, fusing lectin receptor with another checkpoint blockage antibody, such as PD-1 and CD47, showed effect in cells.</p>
+<p>In summay, the AbLec strategy provided a path to block glycan immunologic checkpoint and established a wide platform to expand the use of AbLex chimera.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41587-025-02884-6</p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2025-07-19</title>
+    <url>/2025/07/27/Article-Summary-7-19-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Serine ADPr on histones and PARP1 is a cellular target of ester-linked ubiquitylation</strong></p>
+<figure>
+    <img src="/2025/07/27/Article-Summary-7-19-25/image-20250727160503105.png" alt="Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates" width="60%">
+    <figcaption> Schematic illustration of ZUD-based detection approach for cellular ADPr-ubiquitination substrates </figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Chemical Biology</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>PARP1; ADPr-ubiquitination; Mass spectrometry; PTMs proteomics</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Crosstalks between post-translational modifications have been widely explored. Notably, for ADP-ribosylation involved in DNA repair and ubiquitination pivoted in protein degradation and signal transduction, complex interplays are established such as Ub42R ADP-ribosylation (found in bacteria Legionella) and ADP-ribose ubiquitination. ADP-ribose ubiquitination is introduced by DELTEX E3 ligase <em>in vitro</em> but no evidence of this composite modification is found in cell. It is attributed to the lack of mass spectrometry methodologies to probe the ADPr-Ub modification in high sensitivity.</p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article first demonstrated the inability of current sample procedure to detect ADPr-Ub modification. Then they established a strategy to probe cellular ADPr-Ub sites. By using ZUD domain of RNF114, which could bind ADP-Ub modification, they optimized the mass spectrometry sample preparation procedure and detect ADPr-Ub sites.</p>
+<p>In general, ADPr-Ub modified proteins are enriched in ZUD beads, and no basic condition in sample preparation due to lability of oxyester bond in ADPr-Ub. Then the sample was processed in two different mass spectrometry, ETD and HCD. In ETD, ADPr-Ub is not fragmented, integrated ion peaks are detected, to probe the exact modification site on peptide fragments. In HCD, a more intensive condition, the ADPr-Ub is fragmented to produce characteristic peaks account for ADPr-Ub modification such as ADP-GG and AMP-GG. PARP1 and H3, H2B were found substrates for ADPr-Ub modification in cell.</p>
+<p>In addition, the article engineered a ZUD-HRP conjugate to visualize cellular ADPr-Ub modification in immunoblotting. They succeeded in visualize H3 ADPr-Ub and PARP1 ADPr-Ub modification. In summary, the article established a robust strategy to verify ADPr-Ub modification sites in cell. However, the biological importance of ADPr-Ub is still under explored. Hitherto, little is known about how ADPr-Ub modification work in cells.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>10.1038&#x2F;s41589-025-01974-5</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -388,28 +388,6 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>The article utilized HDX-MS to probe the conformational change of PARP2 upon DNA binding. Through this approach, this article finds a new helix ASL in PARP2  regulates PARP2 activation, showing distinct activation pattern compared to PARP1.</p>
 <p>First, the article found that not only HD, but also ASL underwent DNA recognition-mediated HX signal change, indicating ASL played role in DNA-mediated PARP2 allosteric activation. They found a PARP2 mutant N116A that kept DNA binding and HD unfolding feature, but lost the ability of catalysis. In N116A mutant, ASL helix is not unfolded upon DNA binding, implying that PARP2 ASL helix unfolding is also an essential prior qualification for PARP2 activation. Moreover, they found HD domain interacts with ASL, stabilizing its helix to inhibit PARP2. The article mainly uses HDX-MS technology, with scarce biochemical confirmation. The importance of this article is to claim the divergence of allosteric activation mode between PARP1 and PARP2.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1016&#x2F;j.molcel.2025.01.004</p>
-]]></content>
-      <tags>
-        <tag>Articles</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Article Summary 2025-04-26</title>
-    <url>/2025/05/08/Article-summary-04-26-25/</url>
-    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
-<figure>
-    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
-    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
-</figure>
-
-<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
-<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
-<span id="more"></span>
-
-<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
-<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
-<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
-<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -499,6 +477,28 @@
 <h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Develop a strategy called Ub-POD (proximity and orientation dependent tagging of Ub). With a BirA fused to target E3, AP-tagged Ub is biotinylated and attached to substrate. biotinylated and ubiquitinated substrate are enriched and MS analyzed.</p>
 <p>RAD18 is used as a model system to probe E3 substrate. In addition to optimize Ub-POD, they edited the AP tag to regulate BirA-Ub affinity and inspect its spatial specificity. Then other 2 E3 ligases (CHIP and TRAF6) are applied to screen their substrates.</p>
 <h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p><a href="https://doi.org/10.1126/sciadv.adp3000">doi.org&#x2F;10.1126&#x2F;sciadv.adp3000</a></p>
+]]></content>
+      <tags>
+        <tag>Articles</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Article Summary 2025-04-26</title>
+    <url>/2025/05/08/Article-summary-04-26-25/</url>
+    <content><![CDATA[<h1 id="Article-title"><a href="#Article-title" class="headerlink" title="Article title"></a>Article title</h1><p><strong>Covalent adduct Grob fragmentation underlies LSD1 demethylase-specific inhibitor mechanism of action and resistance</strong></p>
+<figure>
+    <img src="/2025/05/08/Article-summary-04-26-25/image-20250508140526425.png" alt="LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action" width="60%">
+    <figcaption>LSD1 inhibitors utilize Grob fragmentation to exhibit different mechanism of action</figcaption>
+</figure>
+
+<h1 id="Journal"><a href="#Journal" class="headerlink" title="Journal"></a>Journal</h1><p>Nature Communications</p>
+<h1 id="Tags"><a href="#Tags" class="headerlink" title="Tags"></a>Tags</h1><p>Inhibitor mode of action; LSD1 inhibitor; covalent drug</p>
+<span id="more"></span>
+
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>Targeting epigenetic-relevant regulators is attractive therapeutic approach. Inhibitor targeting chromatin demethylase LSD1 has been explored, one family is called TCP, in which the inhibitors capture LSD1 active site by forming covalent adduct with LSD1 cofactor FAD. The covalent adduct not only inhibits demethylation activity but also hampers LSD1 interaction with transcription factor GFI1B to treat cancers such as leukemia. However, some TCP inhibitors, such as T448, undergo rearrangement following adduct formation and lose the ability to inhibit GFI1B binding. <strong>The mechanism of the rearrangement and how its rearrangement is regulated remains unexplored.</strong></p>
+<h1 id="This-work"><a href="#This-work" class="headerlink" title="This work"></a>This work</h1><p>Using chemical-based approach, this work first demonstrated the rearrangement is a Grob fragmentation, yielding styrene as eliminated product. The impact of substitution groups towards fragmentation was screened. Then, to structurally characterize the fragmentation, crystal structure of LSD1-inhibitor is analyzed. Pre-fragmentation and post-fragmentation structures were determined. In addition, by CRISPR-suppressor screening, LSD1 loop deletion could bind GFI1B in the presence of inhibitor AW4 (AW4 will not rearrange when binding to WT LSD1). Advanced structural characterization revealed LSD1 loop interacts with αD-helix of LSD1 to promote fragmentation.</p>
+<p>Collectively, this work clarify the mechanism of Grob fragmentation-mediated LSD1 inhibitor function divergence. This work provides insights towards the function of LSD1 inhibitors and potential LSD1 drug-resistant mechanism.</p>
+<h2 id="doi"><a href="#doi" class="headerlink" title="doi"></a>doi</h2><p>doi.org&#x2F;10.1038&#x2F;s41467-025-57477-3</p>
 ]]></content>
       <tags>
         <tag>Articles</tag>
@@ -705,67 +705,6 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 6.1 幽境危战</title>
-    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
-<span id="more"></span>
-
-<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 西风猎弓</strong> R5</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
-<p><strong>@ 息灾</strong> R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
-<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
-<h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
-<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
-<p><strong>%</strong> 充能227</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
-<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
-<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 天光的纺琴</strong> R5 </p>
-<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
-<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
-<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
-<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
-<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
-<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
-<p>**@静水流涌之辉 ** R1 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
-<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
-<p><strong>@ 西福斯的月光</strong> R3</p>
-<p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通877 生命25291 充能148</p>
-<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
-<p><strong>@ 和璞鸢</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
-<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
-<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 有乐</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
-<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
-<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
-<p><strong>@ 天空之刃</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
-<p><strong>%</strong> 生命27983 充能291</p>
-<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
-<p><strong>%</strong> 生命40301 充能157</p>
-<p>破两次盾之内应该可以打完，需要凹一下</p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>GI 5.8 幽境危战</title>
     <url>/2025/08/06/GI-5-8-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>整体难度偏难，5.0之前的队伍相当难打</p>
@@ -891,6 +830,67 @@
       </tags>
   </entry>
   <entry>
+    <title>GI 6.1 幽境危战</title>
+    <url>/2025/11/04/GI-6-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体还是比较难的，第二间和第一间，总有一间需要月反应角色。第三间比较需要仆人，但对配对要求不高，低金的超载也可以打。</p>
+<span id="more"></span>
+
+<h2 id="天马-92s"><a href="#天马-92s" class="headerlink" title="天马 92s"></a>天马 92s</h2><h3 id="夜兰-赋光"><a href="#夜兰-赋光" class="headerlink" title="夜兰 (赋光)"></a>夜兰 (赋光)</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 西风猎弓</strong> R5</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命33132 双暴90&#x2F;122 充能258</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
+<p><strong>@ 息灾</strong> R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 攻击2586 双暴79&#x2F;150 充能172</p>
+<h3 id="莫娜"><a href="#莫娜" class="headerlink" title="莫娜"></a>莫娜</h3><p><strong>Lv82_C4_1-2-12</strong></p>
+<p><strong>@ 讨龙</strong> R5 Lv.50 </p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  生命</p>
+<p><strong>%</strong> 充能227</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 攻击2719 双暴81&#x2F;241</p>
+<p>共三套半循环能带走，保证夜兰充能使其可以两个E之后开大；skk合理选择大Q或者小Q</p>
+<h2 id="执灯人-76s"><a href="#执灯人-76s" class="headerlink" title="执灯人 76s"></a>执灯人 76s</h2><h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5 </p>
+<p><strong>&amp; 深林的记忆4</strong>  精通  草伤  精通</p>
+<p><strong>%</strong> 精通744 充能195 双暴42&#x2F;126 攻击1109</p>
+<h3 id="爱诺-赋光"><a href="#爱诺-赋光" class="headerlink" title="爱诺 (赋光)"></a>爱诺 (赋光)</h3><p><strong>Lv79_C3_1-2-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
+<p><strong>&amp; 纺月夜歌4</strong>  充能  精通  精通</p>
+<p><strong>%</strong> 精通698 双暴27&#x2F;76 充能221</p>
+<h3 id="芙宁娜-赋光-剧诗"><a href="#芙宁娜-赋光-剧诗" class="headerlink" title="芙宁娜 (赋光&#x2F;剧诗)"></a>芙宁娜 (赋光&#x2F;剧诗)</h3><p><strong>Lv90_C2_7-10-10</strong></p>
+<p>**@静水流涌之辉 ** R1 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命29635 充能158 双暴84&#x2F;247 </p>
+<h3 id="久岐忍"><a href="#久岐忍" class="headerlink" title="久岐忍"></a>久岐忍</h3><p><strong>Lv90_C6_1-12-4</strong></p>
+<p><strong>@ 西福斯的月光</strong> R3</p>
+<p><strong>&amp; 乐园遗落之花4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通877 生命25291 充能148</p>
+<h2 id="霜役人-90s"><a href="#霜役人-90s" class="headerlink" title="霜役人 90s"></a>霜役人 90s</h2><h3 id="阿蕾奇诺-赋光"><a href="#阿蕾奇诺-赋光" class="headerlink" title="阿蕾奇诺(赋光)"></a>阿蕾奇诺(赋光)</h3><p><strong>Lv87_C0_9-9-7</strong></p>
+<p><strong>@ 和璞鸢</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>  攻击  火伤  暴击</p>
+<p><strong>%</strong> 攻击2387 双暴82&#x2F;181</p>
+<h3 id="千织"><a href="#千织" class="headerlink" title="千织"></a>千织</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 有乐</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>  防御  岩伤  暴击</p>
+<p><strong>%</strong> 攻击1329 防御2153 双暴86&#x2F;227</p>
+<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特(赋光)"></a>班尼特(赋光)</h3><p><strong>Lv90_C0_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  充能  生命  治疗</p>
+<p><strong>%</strong> 生命27983 充能291</p>
+<h3 id="钟离"><a href="#钟离" class="headerlink" title="钟离"></a>钟离</h3><p><strong>Lv90_C0_1-9-6</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 悠古的磐岩4</strong>  生命  生命  暴击</p>
+<p><strong>%</strong> 生命40301 充能157</p>
+<p>破两次盾之内应该可以打完，需要凹一下</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>GI 6.2 幽境危战</title>
     <url>/2025/12/15/GI-6-2-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
     <content><![CDATA[<p>暝视龙难度高，跳楼机难度较高，深罪浸礼者最简单。</p>
@@ -948,129 +948,6 @@
 <p><strong>&amp; 烬城勇者4</strong>  攻击  攻击  攻击</p>
 <p><strong>%</strong> 充能175  暴击40 攻击2669</p>
 <p>牛牛打下落这一块儿</p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI 6.4 幽境危战</title>
-    <url>/2026/03/12/GI-6-4-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>第一间曼德拉草相当难，只能靠火神力大砖飞</p>
-<p>另外两间没有什么好说的</p>
-<span id="more"></span>
-
-<h2 id="曼德拉草-87s"><a href="#曼德拉草-87s" class="headerlink" title="曼德拉草 87s"></a>曼德拉草 87s</h2><h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡 (赋光)"></a>玛薇卡 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 螭骨剑</strong> R5</p>
-<p><strong>&amp; 黑曜秘典4</strong>   攻击  火伤  暴伤</p>
-<p><strong>%</strong> 双暴64&#x2F;242 攻击1975 精通77 </p>
-<h3 id="枫原万叶-赋光"><a href="#枫原万叶-赋光" class="headerlink" title="枫原万叶 (赋光)"></a>枫原万叶 (赋光)</h3><p><strong>Lv90_C0_6-6-6</strong></p>
-<p><strong>@ 西福斯的月光</strong> R3</p>
-<p><strong>&amp; 翠绿之影4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通913 充能153</p>
-<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
-<p><strong>@ 天空之刃</strong> R1</p>
-<p><strong>&amp; 昔日宗室之仪4</strong>   充能  生命  治疗</p>
-<p><strong>%</strong> 充能287 生命27416</p>
-<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv88_C2_6-10-10</strong></p>
-<p><strong>@ 静水流涌之辉</strong> R1</p>
-<p><strong>&amp; 黄金剧团4</strong>   充能  水伤 暴击</p>
-<p><strong>%</strong> 生命27227  双暴91&#x2F;234  充能176</p>
-<p>万叶聚怪刚需，只能用他了，超载打不了一点</p>
-<h2 id="感电鸭"><a href="#感电鸭" class="headerlink" title="感电鸭"></a>感电鸭</h2><h3 id="伊涅芙-赋光"><a href="#伊涅芙-赋光" class="headerlink" title="伊涅芙 (赋光)"></a>伊涅芙 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
-<p><strong>@ 峡湾长歌</strong> R5</p>
-<p><strong>&amp; 纺月夜歌4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 精通21 双暴94&#x2F;178  攻击2323</p>
-<h3 id="砂糖-赋光"><a href="#砂糖-赋光" class="headerlink" title="砂糖 (赋光)"></a>砂糖 (赋光)</h3><p><strong>Lv76_C4_1-7-6</strong></p>
-<p><strong>@ 流浪的晚星</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通844 充能138</p>
-<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-8</strong></p>
-<p><strong>@ 遗祀玉珑</strong> R3</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>   充能  生命  暴击</p>
-<p><strong>%</strong> 生命31066 精通80 双暴88&#x2F;184 充能172</p>
-<h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-9</strong></p>
-<p><strong>@ 有乐御簾切</strong> R1</p>
-<p><strong>&amp; 谐律异想断章4</strong>   攻击  雷伤  暴击</p>
-<p><strong>%</strong> 双暴84&#x2F;212 攻击2094 充能136</p>
-<h2 id="冰锅"><a href="#冰锅" class="headerlink" title="冰锅"></a>冰锅</h2><h3 id="夜兰"><a href="#夜兰" class="headerlink" title="夜兰"></a>夜兰</h3><p><strong>Lv90_C1_6-10-10</strong></p>
-<p><strong>@ 若水</strong> R1</p>
-<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong>  双暴90&#x2F;210  生命35444  充能197</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
-<p><strong>%</strong> 攻击1945 双暴71&#x2F;159 充能204</p>
-<h3 id="甘雨"><a href="#甘雨" class="headerlink" title="甘雨"></a>甘雨</h3><p><strong>Lv83_C0_8-3-8</strong></p>
-<p><strong>@西风猎弓</strong> R5 </p>
-<p><strong>&amp; 昔日宗室之仪4</strong>  攻击  生命  暴击</p>
-<p><strong>%</strong> 暴击46 充能197</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
-<p><strong>%</strong> 攻击2222 双暴84&#x2F;234</p>
-]]></content>
-      <tags>
-        <tag>Game</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GI 6.5 幽境危战</title>
-    <url>/2026/04/25/GI-6-5-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>月体系两队，丝老师一队，还是相对简单的，毕竟是版本队伍，总时长限制到了200s，这是第一次</p>
-<span id="more"></span>
-
-<h2 id="岩守宫-59s"><a href="#岩守宫-59s" class="headerlink" title="岩守宫 59s"></a>岩守宫 59s</h2><h3 id="莉奈娅-赋光"><a href="#莉奈娅-赋光" class="headerlink" title="莉奈娅 (赋光)"></a>莉奈娅 (赋光)</h3><p><strong>Lv80_C0_1-8-8</strong></p>
-<p><strong>@ 若水</strong> R1</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>   防御  防御  暴击</p>
-<p><strong>%</strong> 双暴73&#x2F;199 防御2058 精通234</p>
-<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
-<p><strong>@ 遗祀玉珑</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>   生命  生命  暴伤</p>
-<p><strong>%</strong> 生命35826 精通120 双暴78&#x2F;203 充能141</p>
-<h3 id="叶洛亚-赋光"><a href="#叶洛亚-赋光" class="headerlink" title="叶洛亚 (赋光)"></a>叶洛亚 (赋光)</h3><p><strong>Lv80_C6_1-6-11</strong></p>
-<p><strong>@ 匣里灭辰</strong> R5 Lv.70</p>
-<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通918 充能204 防御987</p>
-<h3 id="兹白-赋光"><a href="#兹白-赋光" class="headerlink" title="兹白 (赋光)"></a>兹白 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
-<p><strong>@ 岩峰巡歌</strong> R1</p>
-<p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
-<p><strong>%</strong> 双暴63&#x2F;181  防御3419  精通150</p>
-<p>没有啥说的，定制怪</p>
-<h2 id="次数盾洋葱-61s"><a href="#次数盾洋葱-61s" class="headerlink" title="次数盾洋葱 61s"></a>次数盾洋葱 61s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@西风剑</strong> R5 </p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
-<p><strong>%</strong> 生命27227 充能237 双暴91&#x2F;146</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv88_C0_1-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
-<p><strong>%</strong> 攻击1950 双暴71&#x2F;159 充能204</p>
-<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
-<p><strong>@ 讨龙英杰谭</strong> R5</p>
-<p><strong>&amp; 烬城勇者4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通724 充能127</p>
-<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
-<p><strong>%</strong> 攻击2378 双暴81&#x2F;233</p>
-<p>错峰输出丝老师太厉害了</p>
-<h2 id="天马-80s"><a href="#天马-80s" class="headerlink" title="天马 80s"></a>天马 80s</h2><h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C6_1-5-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5</p>
-<p><strong>&amp; 教官4</strong>  充能 (5星)  精通  生命</p>
-<p><strong>%</strong>  精通446</p>
-<h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
-<p><strong>@ 试作金珀</strong> R5</p>
-<p><strong>&amp; 深林的记忆4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通829 双暴29&#x2F;96 充能148 攻击1201</p>
-<h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
-<p><strong>@ 天光的纺琴</strong> R5</p>
-<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
-<p><strong>%</strong> 精通956 充能248 双暴31&#x2F;100 攻击1111</p>
-<h3 id="奈芙尔-赋光"><a href="#奈芙尔-赋光" class="headerlink" title="奈芙尔 (赋光)"></a>奈芙尔 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
-<p><strong>@ 霜辰</strong> R1</p>
-<p><strong>&amp; 穹境示现之夜4</strong>   精通  精通  暴伤</p>
-<p><strong>%</strong> 精通681 双暴50&#x2F;268 攻击1285</p>
-<p>爱诺换少女，破产版月绽放。</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -1141,62 +1018,62 @@
       </tags>
   </entry>
   <entry>
-    <title>GI 6.6 幽境危战</title>
-    <url>/2026/06/09/GI-6-6-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
-    <content><![CDATA[<p>北风狼缺少风c和全套火神队打的很艰难，另外两间不困难</p>
+    <title>GI 6.5 幽境危战</title>
+    <url>/2026/04/25/GI-6-5-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>月体系两队，丝老师一队，还是相对简单的，毕竟是版本队伍，总时长限制到了200s，这是第一次</p>
 <span id="more"></span>
 
-<h2 id="北风狼-89s"><a href="#北风狼-89s" class="headerlink" title="北风狼 89s"></a>北风狼 89s</h2><h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
+<h2 id="岩守宫-59s"><a href="#岩守宫-59s" class="headerlink" title="岩守宫 59s"></a>岩守宫 59s</h2><h3 id="莉奈娅-赋光"><a href="#莉奈娅-赋光" class="headerlink" title="莉奈娅 (赋光)"></a>莉奈娅 (赋光)</h3><p><strong>Lv80_C0_1-8-8</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>   防御  防御  暴击</p>
+<p><strong>%</strong> 双暴73&#x2F;199 防御2058 精通234</p>
+<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
 <p><strong>@ 遗祀玉珑</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>  充能  生命  暴伤</p>
-<p><strong>%</strong> 生命38054 双暴82.7&#x2F;201.6 充能140.1 精通120</p>
-<h3 id="伊涅芙"><a href="#伊涅芙" class="headerlink" title="伊涅芙"></a>伊涅芙</h3><p><strong>Lv90_C0_1-10-8</strong></p>
-<p><strong>@ 峡湾长歌</strong> R5</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>  攻击  攻击  暴伤</p>
-<p><strong>%</strong> 双暴54.1&#x2F;185.3 攻击2277 精通134 充能112.3</p>
-<h3 id="砂糖-赋光"><a href="#砂糖-赋光" class="headerlink" title="砂糖 (赋光)"></a>砂糖 (赋光)</h3><p><strong>Lv80_C4_1-7-6</strong></p>
-<p><strong>@ 祭礼残章</strong> R5</p>
-<p><strong>&amp; 翠绿之影4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 精通899 充能137.6</p>
-<h3 id="菲谢尔"><a href="#菲谢尔" class="headerlink" title="菲谢尔"></a>菲谢尔</h3><p><strong>Lv90_C6_3-12-9</strong></p>
-<p><strong>@ 天空之翼</strong> R1</p>
-<p><strong>&amp; 纺月的夜歌4</strong>  攻击  雷伤  暴击</p>
-<p><strong>%</strong> 双暴77.2&#x2F;128.3 攻击2086 精通21</p>
-<p>需要两个雷系和砂糖破盾。</p>
-<h2 id="水人-58s"><a href="#水人-58s" class="headerlink" title="水人 58s"></a>水人 58s</h2><h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
-<p><strong>@ 苍耀</strong> R1</p>
-<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
-<p><strong>%</strong> 双暴81.5&#x2F;233 攻击2378</p>
-<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
-<p><strong>@ 西风剑</strong> R5</p>
-<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
-<p><strong>%</strong> 生命34360 充能247.4 双暴82.1&#x2F;142.5</p>
-<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv90_C0_1-10-9</strong></p>
-<p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
-<p><strong>%</strong> 充能204.4 攻击1959 双暴71.3&#x2F;159.6</p>
-<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-8</strong></p>
-<p><strong>@ 讨龙英杰谭</strong> R5 Lv.80</p>
-<p><strong>&amp; 烬城勇者绘卷4</strong>  精通  精通  精通</p>
-<p><strong>%</strong> 充能126.6 精通724</p>
-<p>简单，丝老师这一块儿</p>
-<h2 id="开眼者-106s"><a href="#开眼者-106s" class="headerlink" title="开眼者 106s"></a>开眼者 106s</h2><h3 id="兹白"><a href="#兹白" class="headerlink" title="兹白"></a>兹白</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>   生命  生命  暴伤</p>
+<p><strong>%</strong> 生命35826 精通120 双暴78&#x2F;203 充能141</p>
+<h3 id="叶洛亚-赋光"><a href="#叶洛亚-赋光" class="headerlink" title="叶洛亚 (赋光)"></a>叶洛亚 (赋光)</h3><p><strong>Lv80_C6_1-6-11</strong></p>
+<p><strong>@ 匣里灭辰</strong> R5 Lv.70</p>
+<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通918 充能204 防御987</p>
+<h3 id="兹白-赋光"><a href="#兹白-赋光" class="headerlink" title="兹白 (赋光)"></a>兹白 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
 <p><strong>@ 岩峰巡歌</strong> R1</p>
 <p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
-<p><strong>%</strong> 双暴62.9&#x2F;185.5 防御3315 精通150</p>
-<h3 id="莉奈娅-赋光"><a href="#莉奈娅-赋光" class="headerlink" title="莉奈娅 (赋光)"></a>莉奈娅 (赋光)</h3><p><strong>Lv87_C0_1-9-9</strong></p>
-<p><strong>@ 若水</strong> R1</p>
-<p><strong>&amp; 晨星与月的晓歌4</strong>  防御  防御  暴击</p>
-<p><strong>%</strong> 双暴77.9&#x2F;199.6 防御2275 精通234 充能100</p>
-<h3 id="雷电将军"><a href="#雷电将军" class="headerlink" title="雷电将军"></a>雷电将军</h3><p><strong>Lv90_C0_2-9-10</strong></p>
+<p><strong>%</strong> 双暴63&#x2F;181  防御3419  精通150</p>
+<p>没有啥说的，定制怪</p>
+<h2 id="次数盾洋葱-61s"><a href="#次数盾洋葱-61s" class="headerlink" title="次数盾洋葱 61s"></a>次数盾洋葱 61s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@西风剑</strong> R5 </p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  水伤  暴击</p>
+<p><strong>%</strong> 生命27227 充能237 双暴91&#x2F;146</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv88_C0_1-10-9</strong></p>
 <p><strong>@ 西风长枪</strong> R5</p>
-<p><strong>&amp; 纺月的夜歌4</strong>  充能  精通  暴伤</p>
-<p><strong>%</strong> 充能292.1</p>
-<h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C6_1-5-9</strong></p>
-<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
-<p><strong>&amp; 纺月的夜歌4</strong>  充能  精通  暴击</p>
-<p><strong>%</strong> 充能217.1 双暴61.8&#x2F;95.1 精通407</p>
-<p>好像圣遗物带重了，有点尴尬<br>带个教官应该还能再提升一下</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 攻击1950 双暴71&#x2F;159 充能204</p>
+<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
+<p><strong>@ 讨龙英杰谭</strong> R5</p>
+<p><strong>&amp; 烬城勇者4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通724 充能127</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 攻击2378 双暴81&#x2F;233</p>
+<p>错峰输出丝老师太厉害了</p>
+<h2 id="天马-80s"><a href="#天马-80s" class="headerlink" title="天马 80s"></a>天马 80s</h2><h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C6_1-5-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5</p>
+<p><strong>&amp; 教官4</strong>  充能 (5星)  精通  生命</p>
+<p><strong>%</strong>  精通446</p>
+<h3 id="纳西妲-赋光"><a href="#纳西妲-赋光" class="headerlink" title="纳西妲 (赋光)"></a>纳西妲 (赋光)</h3><p><strong>Lv90_C0_7-10-10</strong></p>
+<p><strong>@ 试作金珀</strong> R5</p>
+<p><strong>&amp; 深林的记忆4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通829 双暴29&#x2F;96 充能148 攻击1201</p>
+<h3 id="菈乌玛-赋光"><a href="#菈乌玛-赋光" class="headerlink" title="菈乌玛 (赋光)"></a>菈乌玛 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 天光的纺琴</strong> R5</p>
+<p><strong>&amp; 纺月夜歌4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通956 充能248 双暴31&#x2F;100 攻击1111</p>
+<h3 id="奈芙尔-赋光"><a href="#奈芙尔-赋光" class="headerlink" title="奈芙尔 (赋光)"></a>奈芙尔 (赋光)</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 霜辰</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>   精通  精通  暴伤</p>
+<p><strong>%</strong> 精通681 双暴50&#x2F;268 攻击1285</p>
+<p>爱诺换少女，破产版月绽放。</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -1259,6 +1136,129 @@
 <p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
 <p><strong>%</strong> 双暴60.2&#x2F;200.3 防御3382 精通113</p>
 <p>力大砖飞。</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 6.4 幽境危战</title>
+    <url>/2026/03/12/GI-6-4-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>第一间曼德拉草相当难，只能靠火神力大砖飞</p>
+<p>另外两间没有什么好说的</p>
+<span id="more"></span>
+
+<h2 id="曼德拉草-87s"><a href="#曼德拉草-87s" class="headerlink" title="曼德拉草 87s"></a>曼德拉草 87s</h2><h3 id="玛薇卡-赋光"><a href="#玛薇卡-赋光" class="headerlink" title="玛薇卡 (赋光)"></a>玛薇卡 (赋光)</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 螭骨剑</strong> R5</p>
+<p><strong>&amp; 黑曜秘典4</strong>   攻击  火伤  暴伤</p>
+<p><strong>%</strong> 双暴64&#x2F;242 攻击1975 精通77 </p>
+<h3 id="枫原万叶-赋光"><a href="#枫原万叶-赋光" class="headerlink" title="枫原万叶 (赋光)"></a>枫原万叶 (赋光)</h3><p><strong>Lv90_C0_6-6-6</strong></p>
+<p><strong>@ 西福斯的月光</strong> R3</p>
+<p><strong>&amp; 翠绿之影4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通913 充能153</p>
+<h3 id="班尼特-赋光"><a href="#班尼特-赋光" class="headerlink" title="班尼特 (赋光)"></a>班尼特 (赋光)</h3><p><strong>Lv90_C6_1-6-12</strong></p>
+<p><strong>@ 天空之刃</strong> R1</p>
+<p><strong>&amp; 昔日宗室之仪4</strong>   充能  生命  治疗</p>
+<p><strong>%</strong> 充能287 生命27416</p>
+<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv88_C2_6-10-10</strong></p>
+<p><strong>@ 静水流涌之辉</strong> R1</p>
+<p><strong>&amp; 黄金剧团4</strong>   充能  水伤 暴击</p>
+<p><strong>%</strong> 生命27227  双暴91&#x2F;234  充能176</p>
+<p>万叶聚怪刚需，只能用他了，超载打不了一点</p>
+<h2 id="感电鸭"><a href="#感电鸭" class="headerlink" title="感电鸭"></a>感电鸭</h2><h3 id="伊涅芙-赋光"><a href="#伊涅芙-赋光" class="headerlink" title="伊涅芙 (赋光)"></a>伊涅芙 (赋光)</h3><p><strong>Lv86_C0_1-9-7</strong></p>
+<p><strong>@ 峡湾长歌</strong> R5</p>
+<p><strong>&amp; 纺月夜歌4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 精通21 双暴94&#x2F;178  攻击2323</p>
+<h3 id="砂糖-赋光"><a href="#砂糖-赋光" class="headerlink" title="砂糖 (赋光)"></a>砂糖 (赋光)</h3><p><strong>Lv76_C4_1-7-6</strong></p>
+<p><strong>@ 流浪的晚星</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>   精通  精通  精通</p>
+<p><strong>%</strong> 精通844 充能138</p>
+<h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-8</strong></p>
+<p><strong>@ 遗祀玉珑</strong> R3</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>   充能  生命  暴击</p>
+<p><strong>%</strong> 生命31066 精通80 双暴88&#x2F;184 充能172</p>
+<h3 id="克洛琳德"><a href="#克洛琳德" class="headerlink" title="克洛琳德"></a>克洛琳德</h3><p><strong>Lv90_C0_8-9-9</strong></p>
+<p><strong>@ 有乐御簾切</strong> R1</p>
+<p><strong>&amp; 谐律异想断章4</strong>   攻击  雷伤  暴击</p>
+<p><strong>%</strong> 双暴84&#x2F;212 攻击2094 充能136</p>
+<h2 id="冰锅"><a href="#冰锅" class="headerlink" title="冰锅"></a>冰锅</h2><h3 id="夜兰"><a href="#夜兰" class="headerlink" title="夜兰"></a>夜兰</h3><p><strong>Lv90_C1_6-10-10</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 绝缘之旗印4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong>  双暴90&#x2F;210  生命35444  充能197</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv87_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 攻击1945 双暴71&#x2F;159 充能204</p>
+<h3 id="甘雨"><a href="#甘雨" class="headerlink" title="甘雨"></a>甘雨</h3><p><strong>Lv83_C0_8-3-8</strong></p>
+<p><strong>@西风猎弓</strong> R5 </p>
+<p><strong>&amp; 昔日宗室之仪4</strong>  攻击  生命  暴击</p>
+<p><strong>%</strong> 暴击46 充能197</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 攻击2222 双暴84&#x2F;234</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 6.6 幽境危战</title>
+    <url>/2026/06/09/GI-6-6-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>北风狼缺少风c和全套火神队打的很艰难，另外两间不困难</p>
+<span id="more"></span>
+
+<h2 id="北风狼-89s"><a href="#北风狼-89s" class="headerlink" title="北风狼 89s"></a>北风狼 89s</h2><h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
+<p><strong>@ 遗祀玉珑</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  充能  生命  暴伤</p>
+<p><strong>%</strong> 生命38054 双暴82.7&#x2F;201.6 充能140.1 精通120</p>
+<h3 id="伊涅芙"><a href="#伊涅芙" class="headerlink" title="伊涅芙"></a>伊涅芙</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 峡湾长歌</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 双暴54.1&#x2F;185.3 攻击2277 精通134 充能112.3</p>
+<h3 id="砂糖-赋光"><a href="#砂糖-赋光" class="headerlink" title="砂糖 (赋光)"></a>砂糖 (赋光)</h3><p><strong>Lv80_C4_1-7-6</strong></p>
+<p><strong>@ 祭礼残章</strong> R5</p>
+<p><strong>&amp; 翠绿之影4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 精通899 充能137.6</p>
+<h3 id="菲谢尔"><a href="#菲谢尔" class="headerlink" title="菲谢尔"></a>菲谢尔</h3><p><strong>Lv90_C6_3-12-9</strong></p>
+<p><strong>@ 天空之翼</strong> R1</p>
+<p><strong>&amp; 纺月的夜歌4</strong>  攻击  雷伤  暴击</p>
+<p><strong>%</strong> 双暴77.2&#x2F;128.3 攻击2086 精通21</p>
+<p>需要两个雷系和砂糖破盾。</p>
+<h2 id="水人-58s"><a href="#水人-58s" class="headerlink" title="水人 58s"></a>水人 58s</h2><h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 双暴81.5&#x2F;233 攻击2378</p>
+<h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 西风剑</strong> R5</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 生命34360 充能247.4 双暴82.1&#x2F;142.5</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv90_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  攻击  暴伤</p>
+<p><strong>%</strong> 充能204.4 攻击1959 双暴71.3&#x2F;159.6</p>
+<h3 id="茜特菈莉-赋光"><a href="#茜特菈莉-赋光" class="headerlink" title="茜特菈莉 (赋光)"></a>茜特菈莉 (赋光)</h3><p><strong>Lv86_C0_1-9-8</strong></p>
+<p><strong>@ 讨龙英杰谭</strong> R5 Lv.80</p>
+<p><strong>&amp; 烬城勇者绘卷4</strong>  精通  精通  精通</p>
+<p><strong>%</strong> 充能126.6 精通724</p>
+<p>简单，丝老师这一块儿</p>
+<h2 id="开眼者-106s"><a href="#开眼者-106s" class="headerlink" title="开眼者 106s"></a>开眼者 106s</h2><h3 id="兹白"><a href="#兹白" class="headerlink" title="兹白"></a>兹白</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 岩峰巡歌</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴62.9&#x2F;185.5 防御3315 精通150</p>
+<h3 id="莉奈娅-赋光"><a href="#莉奈娅-赋光" class="headerlink" title="莉奈娅 (赋光)"></a>莉奈娅 (赋光)</h3><p><strong>Lv87_C0_1-9-9</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴77.9&#x2F;199.6 防御2275 精通234 充能100</p>
+<h3 id="雷电将军"><a href="#雷电将军" class="headerlink" title="雷电将军"></a>雷电将军</h3><p><strong>Lv90_C0_2-9-10</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 纺月的夜歌4</strong>  充能  精通  暴伤</p>
+<p><strong>%</strong> 充能292.1</p>
+<h3 id="爱诺"><a href="#爱诺" class="headerlink" title="爱诺"></a>爱诺</h3><p><strong>Lv79_C6_1-5-9</strong></p>
+<p><strong>@ 拾慧铸熔</strong> R5 Lv.80</p>
+<p><strong>&amp; 纺月的夜歌4</strong>  充能  精通  暴击</p>
+<p><strong>%</strong> 充能217.1 双暴61.8&#x2F;95.1 精通407</p>
+<p>好像圣遗物带重了，有点尴尬<br>带个教官应该还能再提升一下</p>
 ]]></content>
       <tags>
         <tag>Game</tag>
@@ -1508,6 +1508,68 @@
 ]]></content>
       <tags>
         <tag>Essay</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GI 7.1 幽境危战</title>
+    <url>/2026/10/18/GI-7-1-%E5%B9%BD%E5%A2%83%E5%8D%B1%E6%88%98/</url>
+    <content><![CDATA[<p>整体比较简单，</p>
+<span id="more"></span>
+
+<h2 id="丘林-96s"><a href="#丘林-96s" class="headerlink" title="丘林 96s"></a>丘林 96s</h2><h3 id="桑多涅-赋光"><a href="#桑多涅-赋光" class="headerlink" title="桑多涅 (赋光)"></a>桑多涅 (赋光)</h3><p><strong>Lv90_C0_10-10-10</strong></p>
+<p><strong>@ 超越之匙</strong> R1</p>
+<p><strong>&amp; 影中沉凝的幻灭4</strong>  攻击  攻击  暴伤</p>
+<p><strong>%</strong> 双暴65&#x2F;228.6 攻击2631 精通126 充能111.7</p>
+<h3 id="阿罗夏"><a href="#阿罗夏" class="headerlink" title="阿罗夏"></a>阿罗夏</h3><p><strong>Lv80_C2_1-8-3</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 炉火融炼之心4</strong>  充能  攻击  暴击</p>
+<p><strong>%</strong> 双暴57.2&#x2F;85 充能236.1 攻击1782</p>
+<h3 id="奥黛塔-赋光"><a href="#奥黛塔-赋光" class="headerlink" title="奥黛塔 (赋光)"></a>奥黛塔 (赋光)</h3><p><strong>Lv90_C0_1-10-9</strong></p>
+<p><strong>@ 有乐御簾切</strong> R1</p>
+<p><strong>&amp; 影中沉凝的幻灭4</strong>  攻击  攻击  暴击</p>
+<p><strong>%</strong> 双暴60.2&#x2F;244.2 攻击2342</p>
+<h3 id="七七"><a href="#七七" class="headerlink" title="七七"></a>七七</h3><p><strong>Lv80_C3_1-6-9</strong></p>
+<p><strong>@ 西风剑</strong> R5 Lv.70</p>
+<p><strong>&amp; 千岩牢固4</strong>  攻击  攻击  攻击</p>
+<p><strong>%</strong> 双暴29.1&#x2F;104.4 充能177</p>
+<p>有技能就放技能</p>
+<h2 id="冰锅-48s"><a href="#冰锅-48s" class="headerlink" title="冰锅 48s"></a>冰锅 48s</h2><h3 id="芙宁娜-赋光"><a href="#芙宁娜-赋光" class="headerlink" title="芙宁娜 (赋光)"></a>芙宁娜 (赋光)</h3><p><strong>Lv90_C2_6-10-10</strong></p>
+<p><strong>@ 西风剑</strong> R5</p>
+<p><strong>&amp; 黄金剧团4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 双暴82.1&#x2F;142.5 充能247.4 生命34360</p>
+<h3 id="爱可菲-赋光"><a href="#爱可菲-赋光" class="headerlink" title="爱可菲 (赋光)"></a>爱可菲 (赋光)</h3><p><strong>Lv90_C0_1-10-9</strong></p>
+<p><strong>@ 西风长枪</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  充能  冰伤  暴伤</p>
+<p><strong>%</strong> 双暴73.6&#x2F;160.4 充能195.4 攻击1534</p>
+<h3 id="沃雅妮莎-赋光"><a href="#沃雅妮莎-赋光" class="headerlink" title="沃雅妮莎 (赋光)"></a>沃雅妮莎 (赋光)</h3><p><strong>Lv90_C0_1-10-3</strong></p>
+<p><strong>@ 讨龙英杰谭</strong> R5</p>
+<p><strong>&amp; 千岩牢固4</strong>  生命  生命  生命</p>
+<p><strong>%</strong> 生命57056</p>
+<h3 id="丝柯克-赋光"><a href="#丝柯克-赋光" class="headerlink" title="丝柯克 (赋光)"></a>丝柯克 (赋光)</h3><p><strong>Lv90_C0_6-10-10</strong></p>
+<p><strong>@ 苍耀</strong> R1</p>
+<p><strong>&amp; 深廊终曲4</strong>  攻击  冰伤  暴伤</p>
+<p><strong>%</strong> 双暴78.4&#x2F;243.8 攻击2340</p>
+<p>专怪，听见群星寂灭了吗？</p>
+<h2 id="冰棺-73s"><a href="#冰棺-73s" class="headerlink" title="冰棺 73s"></a>冰棺 73s</h2><h3 id="哥伦比娅-赋光"><a href="#哥伦比娅-赋光" class="headerlink" title="哥伦比娅 (赋光)"></a>哥伦比娅 (赋光)</h3><p><strong>Lv90_C2_1-10-10</strong></p>
+<p><strong>@ 遗祀玉珑</strong> R5</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  生命  生命  暴伤</p>
+<p><strong>%</strong> 双暴82.7&#x2F;201.6 充能140.1 生命38054 精通120</p>
+<h3 id="莉奈娅"><a href="#莉奈娅" class="headerlink" title="莉奈娅"></a>莉奈娅</h3><p><strong>Lv90_C0_1-9-9</strong></p>
+<p><strong>@ 若水</strong> R1</p>
+<p><strong>&amp; 晨星与月的晓歌4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴82.1&#x2F;196.5 防御2265 精通194</p>
+<h3 id="兹白"><a href="#兹白" class="headerlink" title="兹白"></a>兹白</h3><p><strong>Lv90_C0_1-10-8</strong></p>
+<p><strong>@ 岩峰巡歌</strong> R1</p>
+<p><strong>&amp; 穹境示现之夜4</strong>  防御  防御  暴击</p>
+<p><strong>%</strong> 双暴60.2&#x2F;208.1 防御3263 精通173 攻击1142</p>
+<h3 id="胡桃"><a href="#胡桃" class="headerlink" title="胡桃"></a>胡桃</h3><p><strong>Lv90_C1_10-10-9</strong></p>
+<p><strong>@ 寒息</strong> R2</p>
+<p><strong>&amp; 纺月的夜歌4</strong>  充能  生命  暴击</p>
+<p><strong>%</strong> 双暴62.2&#x2F;148.2 充能201.7</p>
+<p>胡桃A重破冰盾，这是看B站学的，还真挺有用。带个纺乐再骗一骗加成，牛逼</p>
+]]></content>
+      <tags>
+        <tag>Game</tag>
       </tags>
   </entry>
 </search>
