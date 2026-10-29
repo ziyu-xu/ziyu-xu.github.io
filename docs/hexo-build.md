@@ -1,6 +1,6 @@
 # Build the Hexo blog
 
-Use Node.js 24.22.1 as specified in `.nvmrc`. The blog dependencies require Node.js 18 or newer.
+Use Node.js 24.22.1 as specified in `.nvmrc`. Hexo 8 requires Node.js 20.19.0 or newer.
 
 ```sh
 nvm install
