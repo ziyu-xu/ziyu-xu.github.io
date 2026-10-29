@@ -45,6 +45,12 @@ marked:
   prependRoot: true
   postAsset: false
   figcaption: true
+# Search index consumed by the NexT local-search client.
+search:
+  path: search.json
+  field: post
+  content: true
+  format: striptags
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
