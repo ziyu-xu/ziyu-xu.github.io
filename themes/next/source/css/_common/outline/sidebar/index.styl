@@ -130,6 +130,32 @@
   }
 }
 
+.sidebar-count {
+  border-top: 1px solid $grey-light;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  padding-top: 12px;
+
+  .sidebar-count-item {
+    min-width: 72px;
+  }
+
+  .sidebar-count-value, .sidebar-count-name {
+    display: block;
+  }
+
+  .sidebar-count-value {
+    font-size: $site-state-item-count-font-size;
+    font-weight: 600;
+  }
+
+  .sidebar-count-name {
+    color: $site-state-item-name-color;
+    font-size: $site-state-item-name-font-size;
+  }
+}
+
 @import 'sidebar-author';
 @import 'sidebar-author-links';
 @import 'sidebar-button';

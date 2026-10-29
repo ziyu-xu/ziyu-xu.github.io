@@ -1,5 +1,5 @@
 ---
-title: Article-summary-12-07-24
+title: Article Summary 2024-12-07
 date: 2024-12-12 16:39:57
 tags: Articles
 ---

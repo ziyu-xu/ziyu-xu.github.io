@@ -22,7 +22,11 @@
     {##################}
     {### PAGE BLOCK ###}
     {##################}
-    <div class="post-block" lang="{{ page.lang }}">
+    {%- set sub_menus = next_menu(page.path) %}
+    <div class="post-block{% if sub_menus %} has-sub-menu{% endif %}" lang="{{ page.lang }}">
+      {%- if sub_menus %}
+        {%- include '_partials/header/sub-menu.njk' -%}
+      {%- endif %}
       {%- if page.header !== false %}
         {%- include '_partials/page/page-header.njk' -%}
       {%- endif %}
@@ -44,7 +48,9 @@
       {### END PAGE BODY ###}
       {#####################}
     </div>
-    {%- include '_partials/page/breadcrumb.njk' -%}
+    {%- if page.breadcrumb !== false %}
+      {%- include '_partials/page/breadcrumb.njk' -%}
+    {%- endif %}
     {######################}
     {### END PAGE BLOCK ###}
     {######################}
