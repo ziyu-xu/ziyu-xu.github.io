@@ -123,9 +123,9 @@ algolia_search:
   integrity: sha256-1QNshz86RqXe/qsCBldsUu13eAX6n/O98uubKQs87UI=
 local_search:
   name: hexo-generator-searchdb
-  version: 1.4.1
+  version: 1.5.0
   file: dist/search.js
-  integrity: sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=
+  integrity: sha512-mGBL6vPXkD2lEmJHZ/XU24M/qdILHNEb4iyv74L+fHoabJDcLBpT8q69EgiHyVZbdmX1r5arH2zA3OQQsZxCDA==
 pdfobject:
   name: pdfobject
   version: 2.3.0
